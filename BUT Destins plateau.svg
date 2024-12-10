@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 209.99999"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="BUT Destins plateau.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1442756"
+     inkscape:cx="84.64397"
+     inkscape:cy="232.24627"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid461"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="7.9999998"
+       spacingy="7.9999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="parallel"
+       offset_pt="135.46075,-17.217834"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       length-left="150"
+       length-right="150" />
+  </defs>
+  <g
+     inkscape:label="Principal"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case1"
+       width="16"
+       height="16.000002"
+       x="15.999999"
+       y="16.000002"
+       inkscape:label="case1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case2"
+       width="16"
+       height="16.000002"
+       x="15.999998"
+       y="32.000004"
+       inkscape:label="case2" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3"
+       width="16"
+       height="16.000002"
+       x="15.999998"
+       y="48.000004"
+       inkscape:label="case3" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3"
+       width="16"
+       height="16.000002"
+       x="16"
+       y="64"
+       inkscape:label="case3" />
+  </g>
+</svg>
