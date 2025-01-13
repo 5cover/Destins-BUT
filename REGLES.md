@@ -20,9 +20,16 @@ Vous vous lancez dans votre formation BUT Informatique Plus tard vous choisirez 
 
 Tournez la roue  et avancez votre pion du nombre de cases indiquées. Déplacez toujours votre pion vers l'avant en suivant les fleches. si vous vous arrêtez sur une cases déjà occupée par un autre joueur,avancez jusqu'à la case libre suivante. Suiez lees instructions qui correspondent à la cases sur laquelle vous vous arrêtez.
 
+
+## Passer à l'année suivante
+
+pour pouvoir passer à l'année suivante il faut avoir la majorité de vos competence au dessus de 10 et que celle en dessous ne soit pas en dessous de 8. 
+- Dans ce cas vous pouvez entamer votre années suivante avec vos competence qui repartent à 10 sauf celle en dessous qui reste à leur valeur et vous perdez vos cartes projets.
+- Dans le cas ou vous n'avez pas les point necessaire vous garder vos cartes projets et reparter pour un tour sur la meme année.
+
 ## Les Parcours
 
-Le choix de votre parcours affecte les competences qu'il faut valider pour réussir votre formation.
+Le choix de votre parcours affecte les competences qu'il faut valider pour réussir votre formation pour  la 3e année.
 
 ### Le parcours A
 
