@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0328778"
-     inkscape:cx="325.15481"
-     inkscape:cy="475.68034"
+     inkscape:zoom="1.0164389"
+     inkscape:cx="367.95129"
+     inkscape:cy="416.15881"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -141,35 +141,35 @@
            transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
              x="41.62059"
              y="28.52869"
-             id="tspan1">Vous avez manqué<tspan
+             id="tspan24">Vous avez manqué<tspan
    y="28.52869"
-   id="tspan2"> </tspan></tspan><tspan
+   id="tspan25"> </tspan></tspan><tspan
              x="41.62059"
              y="30.24139"
-             id="tspan3">une étape critique<tspan
+             id="tspan26">une étape critique<tspan
    y="30.24139"
-   id="tspan4"> </tspan></tspan><tspan
+   id="tspan27"> </tspan></tspan><tspan
              x="41.62059"
              y="31.95409"
-             id="tspan5">dans la<tspan
+             id="tspan28">dans la<tspan
    y="31.95409"
-   id="tspan6"> </tspan></tspan><tspan
+   id="tspan29"> </tspan></tspan><tspan
              x="41.62059"
              y="33.666792"
-             id="tspan7">documentation<tspan
+             id="tspan30">documentation<tspan
    y="33.666792"
-   id="tspan8"> </tspan></tspan><tspan
+   id="tspan31"> </tspan></tspan><tspan
              x="41.62059"
              y="35.379492"
-             id="tspan9">d'un projet.
+             id="tspan32">d'un projet.
 </tspan><tspan
              x="41.62059"
              y="37.092191"
-             id="tspan10">
+             id="tspan180">
 </tspan><tspan
              x="41.62059"
              y="38.804891"
-             id="tspan11">-1 Administrer</tspan></text>
+             id="tspan181">-1 Administrer</tspan></text>
       </g>
     </clipPath>
     <clipPath
@@ -208,30 +208,30 @@
            transform="matrix(1.0697031,0,0,0.99155596,-12.522212,16.241701)"><tspan
              x="41.656384"
              y="28.52869"
-             id="tspan12">Vous avez lu un<tspan
+             id="tspan182">Vous avez lu un<tspan
    y="28.52869"
-   id="tspan13"> </tspan></tspan><tspan
+   id="tspan183"> </tspan></tspan><tspan
              x="41.656384"
              y="30.24139"
-             id="tspan14">article qui a enrichi<tspan
+             id="tspan184">article qui a enrichi<tspan
    y="30.24139"
-   id="tspan15"> </tspan></tspan><tspan
+   id="tspan185"> </tspan></tspan><tspan
              x="41.656384"
              y="31.95409"
-             id="tspan16">vos connaissances<tspan
+             id="tspan186">vos connaissances<tspan
    y="31.95409"
-   id="tspan17"> </tspan></tspan><tspan
+   id="tspan187"> </tspan></tspan><tspan
              x="41.656384"
              y="33.666792"
-             id="tspan18">techniques.
+             id="tspan188">techniques.
 </tspan><tspan
              x="41.656384"
              y="35.379492"
-             id="tspan19">
+             id="tspan189">
 </tspan><tspan
              x="41.656384"
              y="37.092191"
-             id="tspan20">+1 Réaliser</tspan></text>
+             id="tspan190">+1 Réaliser</tspan></text>
       </g>
     </clipPath>
     <clipPath
@@ -298,30 +298,30 @@
                transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
                  x="41.625942"
                  y="28.52869"
-                 id="tspan21">Vous avez présenté<tspan
+                 id="tspan191">Vous avez présenté<tspan
    y="28.52869"
-   id="tspan22"> </tspan></tspan><tspan
+   id="tspan192"> </tspan></tspan><tspan
                  x="41.625942"
                  y="30.24139"
-                 id="tspan23">un rapport clair et<tspan
+                 id="tspan193">un rapport clair et<tspan
    y="30.24139"
-   id="tspan34"> </tspan></tspan><tspan
+   id="tspan194"> </tspan></tspan><tspan
                  x="41.625942"
                  y="31.95409"
-                 id="tspan35">bien structuré à<tspan
+                 id="tspan195">bien structuré à<tspan
    y="31.95409"
-   id="tspan36"> </tspan></tspan><tspan
+   id="tspan196"> </tspan></tspan><tspan
                  x="41.625942"
                  y="33.666792"
-                 id="tspan37">votre professeur.
+                 id="tspan197">votre professeur.
 </tspan><tspan
                  x="41.625942"
                  y="35.379492"
-                 id="tspan38">
+                 id="tspan198">
 </tspan><tspan
                  x="41.625942"
                  y="37.092191"
-                 id="tspan39"> +1 Conduire</tspan></text>
+                 id="tspan199"> +1 Conduire</tspan></text>
             <text
                xml:space="preserve"
                style="font-size:3.52777px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.600001"
@@ -397,7 +397,7 @@
        sodipodi:insensitive="true"
        inkscape:label="bg" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9"
        width="16.000011"
        height="16.000002"
@@ -413,205 +413,205 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,95.12806)"><tspan
          x="41.673443"
          y="28.52869"
-         id="tspan40">Vous avez soumis<tspan
+         id="tspan200">Vous avez soumis<tspan
    y="28.52869"
-   id="tspan41"> </tspan></tspan><tspan
+   id="tspan201"> </tspan></tspan><tspan
          x="41.673443"
          y="30.24139"
-         id="tspan42">un projet avec des<tspan
+         id="tspan202">un projet avec des<tspan
    y="30.24139"
-   id="tspan43"> </tspan></tspan><tspan
+   id="tspan203"> </tspan></tspan><tspan
          x="41.673443"
          y="31.95409"
-         id="tspan45">commentaires<tspan
+         id="tspan204">commentaires<tspan
    y="31.95409"
-   id="tspan46"> </tspan></tspan><tspan
+   id="tspan205"> </tspan></tspan><tspan
          x="41.673443"
          y="33.666792"
-         id="tspan47">absents ou<tspan
+         id="tspan206">absents ou<tspan
    y="33.666792"
-   id="tspan48"> </tspan></tspan><tspan
+   id="tspan207"> </tspan></tspan><tspan
          x="41.673443"
          y="35.379492"
-         id="tspan49">insuffisants.
+         id="tspan208">insuffisants.
 </tspan><tspan
          x="41.673443"
          y="37.092191"
-         id="tspan50">
+         id="tspan209">
 </tspan><tspan
          x="41.673443"
          y="38.804891"
-         id="tspan51">-1 Administrer</tspan></text>
+         id="tspan210">-1 Administrer</tspan></text>
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2"
        width="16.000011"
        height="16.000002"
        x="39.999989"
        y="152" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-5"
        width="16.000011"
        height="16.000002"
        x="184"
        y="152" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-5-1"
        width="16.000011"
        height="16.000002"
        x="184"
        y="120.00001" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-9"
        width="16.000011"
        height="16.000002"
        x="87.999992"
        y="88.000008" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-2"
        width="16.000011"
        height="16.000002"
        x="119.99998"
        y="7.9999971" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-6"
        width="16.000011"
        height="16.000002"
        x="152"
        y="8" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-6-3"
        width="16.000011"
        height="16.000002"
        x="264"
        y="23.999996" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-6-9"
        width="16.000011"
        height="16.000002"
        x="280"
        y="40.000004" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-6-9-8"
        width="16.000011"
        height="16.000002"
        x="360"
        y="136" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-6-9-8-2"
        width="16.000011"
        height="16.000002"
        x="392"
        y="88.000008" />
     <rect
-       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-9-6-9-0"
        width="16.000011"
        height="16.000002"
        x="296"
        y="24" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1"
        width="16.000011"
        height="16.000002"
        x="72"
        y="152.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-7"
        width="16.000011"
        height="16.000002"
        x="103.99998"
        y="152.00003" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-2"
        width="16.000011"
        height="16.000002"
        x="103.99999"
        y="120" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3"
        width="16.000011"
        height="16.000002"
        x="103.99999"
        y="88.000008" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-5"
        width="16.000011"
        height="16.000002"
        x="72"
        y="88.000008" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-1"
        width="16.000011"
        height="16.000002"
        x="40"
        y="88.000008" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-2"
        width="16.000011"
        height="16.000002"
        x="55.999989"
        y="72.000008" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-55"
        width="16.000011"
        height="16.000002"
        x="87.999977"
        y="72.000008" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-56"
        width="16.000011"
        height="16.000002"
        x="103.99999"
        y="56.000004" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9"
        width="16.000011"
        height="16.000002"
        x="167.99998"
        y="24.000002" />
     <rect
-       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.84853"
+       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-4"
        width="16.000011"
        height="32.000004"
        x="103.99998"
        y="23.999998" />
     <rect
-       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.849106"
+       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-7"
        width="16.000011"
        height="32.043503"
        x="247.99998"
        y="23.956503" />
     <rect
-       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.849682"
+       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-7-5"
        width="32"
        height="16.043509"
        x="408"
        y="23.999994" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2"
        width="16.000011"
        height="16.000002"
@@ -639,35 +639,35 @@
        x="183.99997"
        y="23.999998" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2-9"
        width="16.000011"
        height="16.000002"
        x="136"
        y="7.9999971" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2-8"
        width="16.000011"
        height="16.000002"
        x="151.99995"
        y="23.999996" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2-8-6"
        width="16.000011"
        height="16.000002"
        x="280"
        y="24" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2-8-4"
        width="16.000011"
        height="16.000002"
        x="295.99997"
        y="39.999996" />
     <rect
-       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2-8-48"
        width="16.000011"
        height="16.000002"
@@ -682,30 +682,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,35.477811,127.12806)"><tspan
          x="41.625942"
          y="28.52869"
-         id="tspan52">Vous avez omis de<tspan
+         id="tspan211">Vous avez omis de<tspan
    y="28.52869"
-   id="tspan53"> </tspan></tspan><tspan
+   id="tspan212"> </tspan></tspan><tspan
          x="41.625942"
          y="30.24139"
-         id="tspan54">répondre à un<tspan
+         id="tspan213">répondre à un<tspan
    y="30.24139"
-   id="tspan55"> </tspan></tspan><tspan
+   id="tspan214"> </tspan></tspan><tspan
          x="41.625942"
          y="31.95409"
-         id="tspan56">email important du<tspan
+         id="tspan215">email important du<tspan
    y="31.95409"
-   id="tspan57"> </tspan></tspan><tspan
+   id="tspan216"> </tspan></tspan><tspan
          x="41.625942"
          y="33.666792"
-         id="tspan58">professeur.
+         id="tspan217">professeur.
 </tspan><tspan
          x="41.625942"
          y="35.379492"
-         id="tspan59">
+         id="tspan218">
 </tspan><tspan
          x="41.625942"
          y="37.092191"
-         id="tspan60">-1 Conduire</tspan></text>
+         id="tspan219">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -715,21 +715,21 @@
        transform="matrix(1.0697031,0,0,0.99155597,3.477788,126.85965)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan61">SAÉ - Sudoku en C
+         id="tspan220">SAÉ - Sudoku en C
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan62">
+         id="tspan221">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan63">+3 Réaliser
+         id="tspan222">+3 Réaliser
 </tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan64">+2 Optimiser</tspan></text>
+         id="tspan223">+2 Optimiser</tspan></text>
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-4-4"
        width="16.000011"
        height="16.000002"
@@ -745,32 +745,32 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,48.241705)"><tspan
          x="41.679798"
          y="28.52869"
-         id="tspan65">Vous avez ignoré<tspan
+         id="tspan224">Vous avez ignoré<tspan
    y="28.52869"
-   id="tspan66"> </tspan></tspan><tspan
+   id="tspan225"> </tspan></tspan><tspan
          x="41.679798"
          y="30.24139"
-         id="tspan67">des consignes<tspan
+         id="tspan226">des consignes<tspan
    y="30.24139"
-   id="tspan68"> </tspan></tspan><tspan
+   id="tspan227"> </tspan></tspan><tspan
          x="41.679798"
          y="31.95409"
-         id="tspan69">importantes dans<tspan
+         id="tspan228">importantes dans<tspan
    y="31.95409"
-   id="tspan70"> </tspan></tspan><tspan
+   id="tspan229"> </tspan></tspan><tspan
          x="41.679798"
          y="33.666792"
-         id="tspan71">un exercice.
+         id="tspan230">un exercice.
 </tspan><tspan
          x="41.679798"
          y="35.379492"
-         id="tspan72">
+         id="tspan231">
 </tspan><tspan
          x="41.679798"
          y="37.092191"
-         id="tspan73">-1 Gérer</tspan></text>
+         id="tspan232">-1 Gérer</tspan></text>
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2"
        width="16.000011"
        height="16.000002"
@@ -786,37 +786,37 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,31.128066)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan74">Vous avez manqué<tspan
+         id="tspan233">Vous avez manqué<tspan
    y="28.52869"
-   id="tspan75"> </tspan></tspan><tspan
+   id="tspan234"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan76">une étape critique<tspan
+         id="tspan235">une étape critique<tspan
    y="30.24139"
-   id="tspan77"> </tspan></tspan><tspan
+   id="tspan236"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan78">dans la<tspan
+         id="tspan237">dans la<tspan
    y="31.95409"
-   id="tspan79"> </tspan></tspan><tspan
+   id="tspan238"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan80">documentation<tspan
+         id="tspan239">documentation<tspan
    y="33.666792"
-   id="tspan81"> </tspan></tspan><tspan
+   id="tspan240"> </tspan></tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan82">d'un projet.
+         id="tspan241">d'un projet.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan83">
+         id="tspan242">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan84">-1 Administrer</tspan></text>
+         id="tspan243">-1 Administrer</tspan></text>
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4"
        width="16.000011"
        height="16.000002"
@@ -832,32 +832,32 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,63.128069)"><tspan
          x="41.625942"
          y="28.52869"
-         id="tspan85">Vous avez présenté<tspan
+         id="tspan244">Vous avez présenté<tspan
    y="28.52869"
-   id="tspan86"> </tspan></tspan><tspan
+   id="tspan245"> </tspan></tspan><tspan
          x="41.625942"
          y="30.24139"
-         id="tspan87">un rapport clair et<tspan
+         id="tspan246">un rapport clair et<tspan
    y="30.24139"
-   id="tspan88"> </tspan></tspan><tspan
+   id="tspan247"> </tspan></tspan><tspan
          x="41.625942"
          y="31.95409"
-         id="tspan89">bien structuré à<tspan
+         id="tspan248">bien structuré à<tspan
    y="31.95409"
-   id="tspan90"> </tspan></tspan><tspan
+   id="tspan249"> </tspan></tspan><tspan
          x="41.625942"
          y="33.666792"
-         id="tspan91">votre professeur.
+         id="tspan250">votre professeur.
 </tspan><tspan
          x="41.625942"
          y="35.379492"
-         id="tspan92">
+         id="tspan251">
 </tspan><tspan
          x="41.625942"
          y="37.092191"
-         id="tspan93"> +1 Conduire</tspan></text>
+         id="tspan252"> +1 Conduire</tspan></text>
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-4"
        width="16.000011"
        height="16.000002"
@@ -873,32 +873,32 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,16.241701)"><tspan
          x="41.656384"
          y="28.52869"
-         id="tspan94">Vous avez lu un<tspan
+         id="tspan253">Vous avez lu un<tspan
    y="28.52869"
-   id="tspan95"> </tspan></tspan><tspan
+   id="tspan254"> </tspan></tspan><tspan
          x="41.656384"
          y="30.24139"
-         id="tspan96">article qui a enrichi<tspan
+         id="tspan255">article qui a enrichi<tspan
    y="30.24139"
-   id="tspan97"> </tspan></tspan><tspan
+   id="tspan256"> </tspan></tspan><tspan
          x="41.656384"
          y="31.95409"
-         id="tspan98">vos connaissances<tspan
+         id="tspan257">vos connaissances<tspan
    y="31.95409"
-   id="tspan99"> </tspan></tspan><tspan
+   id="tspan258"> </tspan></tspan><tspan
          x="41.656384"
          y="33.666792"
-         id="tspan100">techniques.
+         id="tspan259">techniques.
 </tspan><tspan
          x="41.656384"
          y="35.379492"
-         id="tspan101">
+         id="tspan260">
 </tspan><tspan
          x="41.656384"
          y="37.092191"
-         id="tspan102">+1 Réaliser</tspan></text>
+         id="tspan261">+1 Réaliser</tspan></text>
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42"
        width="16.000011"
        height="16.000002"
@@ -914,32 +914,32 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,80.24171)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan103">Vous avez partagé<tspan
+         id="tspan262">Vous avez partagé<tspan
    y="28.52869"
-   id="tspan104"> </tspan></tspan><tspan
+   id="tspan263"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan105">des ressources<tspan
+         id="tspan264">des ressources<tspan
    y="30.24139"
-   id="tspan106"> </tspan></tspan><tspan
+   id="tspan265"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan107">utiles avec vos<tspan
+         id="tspan266">utiles avec vos<tspan
    y="31.95409"
-   id="tspan108"> </tspan></tspan><tspan
+   id="tspan267"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan109">camarades.
+         id="tspan268">camarades.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan110">
+         id="tspan269">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan111">+1 Collaborer</tspan></text>
+         id="tspan270">+1 Collaborer</tspan></text>
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0"
        width="16.000011"
        height="16.000002"
@@ -954,37 +954,37 @@
        transform="matrix(1.0697031,0,0,0.99155597,19.477801,128.24171)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan112">Vous avez proposé<tspan
+         id="tspan271">Vous avez proposé<tspan
    y="28.52869"
-   id="tspan113"> </tspan></tspan><tspan
+   id="tspan272"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan114">une optimisation<tspan
+         id="tspan273">une optimisation<tspan
    y="30.24139"
-   id="tspan115"> </tspan></tspan><tspan
+   id="tspan274"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan116">qui a réduit les<tspan
+         id="tspan275">qui a réduit les<tspan
    y="31.95409"
-   id="tspan117"> </tspan></tspan><tspan
+   id="tspan276"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan118">coûts d'un projet<tspan
+         id="tspan277">coûts d'un projet<tspan
    y="33.666792"
-   id="tspan119"> </tspan></tspan><tspan
+   id="tspan278"> </tspan></tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan120">fictif.
+         id="tspan279">fictif.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan121">
+         id="tspan280">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan122">+1 Gérer</tspan></text>
+         id="tspan281">+1 Gérer</tspan></text>
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.84853"
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-8"
        width="16.000011"
        height="32.000011"
@@ -999,58 +999,58 @@
        transform="matrix(1.0697031,0,0,1.1228125,-12.522212,110.1164)"><tspan
          x="41.648521"
          y="28.52869"
-         id="tspan123">Soirée d'intégration
+         id="tspan282">Soirée d'intégration
 </tspan><tspan
          x="41.648521"
          y="30.24139"
-         id="tspan124">
+         id="tspan283">
 </tspan><tspan
          x="41.648521"
          y="31.95409"
-         id="tspan125">Vous pouvez<tspan
+         id="tspan284">Vous pouvez<tspan
    y="31.95409"
-   id="tspan126"> </tspan></tspan><tspan
+   id="tspan285"> </tspan></tspan><tspan
          x="41.648521"
          y="33.666792"
-         id="tspan127">participer à la<tspan
+         id="tspan286">participer à la<tspan
    y="33.666792"
-   id="tspan128"> </tspan></tspan><tspan
+   id="tspan287"> </tspan></tspan><tspan
          x="41.648521"
          y="35.379492"
-         id="tspan129">soirée d'intégration<tspan
+         id="tspan288">soirée d'intégration<tspan
    y="35.379492"
-   id="tspan130"> </tspan></tspan><tspan
+   id="tspan289"> </tspan></tspan><tspan
          x="41.648521"
          y="37.092191"
-         id="tspan131">de l'IUT
+         id="tspan290">de l'IUT
 </tspan><tspan
          x="41.648521"
          y="38.804891"
-         id="tspan132">
+         id="tspan291">
 </tspan><tspan
          x="41.648521"
          y="40.517591"
-         id="tspan133">Tout gain ou perte<tspan
+         id="tspan292">Tout gain ou perte<tspan
    y="40.517591"
-   id="tspan134"> </tspan></tspan><tspan
+   id="tspan293"> </tspan></tspan><tspan
          x="41.648521"
          y="42.230291"
-         id="tspan135">de points sur<tspan
+         id="tspan294">de points sur<tspan
    y="42.230291"
-   id="tspan136"> </tspan></tspan><tspan
+   id="tspan295"> </tspan></tspan><tspan
          x="41.648521"
          y="43.942991"
-         id="tspan137">Collaborer est<tspan
+         id="tspan296">Collaborer est<tspan
    y="43.942991"
-   id="tspan138"> </tspan></tspan><tspan
+   id="tspan297"> </tspan></tspan><tspan
          x="41.648521"
          y="45.655691"
-         id="tspan139">doublé jusqu'à la<tspan
+         id="tspan298">doublé jusqu'à la<tspan
    y="45.655691"
-   id="tspan140"> </tspan></tspan><tspan
+   id="tspan299"> </tspan></tspan><tspan
          x="41.648521"
          y="47.368391"
-         id="tspan141">fin de l'année</tspan></text>
+         id="tspan300">fin de l'année</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
        id="rect214"
@@ -1068,49 +1068,49 @@
        inkscape:label="text218"><tspan
          x="41.759411"
          y="28.52869"
-         id="tspan143"><tspan
+         id="tspan302"><tspan
    style="stroke-width:0.6"
-   id="tspan142">Vous avez proposé</tspan><tspan
+   id="tspan301">Vous avez proposé</tspan><tspan
    y="28.52869"
-   id="tspan144"> </tspan></tspan><tspan
+   id="tspan303"> </tspan></tspan><tspan
          x="41.759411"
          y="30.24139"
-         id="tspan146"><tspan
+         id="tspan305"><tspan
    style="stroke-width:0.6"
-   id="tspan145">une documentation</tspan><tspan
+   id="tspan304">une documentation</tspan><tspan
    y="30.24139"
-   id="tspan147"> </tspan></tspan><tspan
+   id="tspan306"> </tspan></tspan><tspan
          x="41.759411"
          y="31.95409"
-         id="tspan149"><tspan
+         id="tspan308"><tspan
    style="stroke-width:0.6"
-   id="tspan148">simple et</tspan><tspan
+   id="tspan307">simple et</tspan><tspan
    y="31.95409"
-   id="tspan150"> </tspan></tspan><tspan
+   id="tspan309"> </tspan></tspan><tspan
          x="41.759411"
          y="33.666792"
-         id="tspan152"><tspan
+         id="tspan311"><tspan
    style="stroke-width:0.6"
-   id="tspan151">compréhensible</tspan><tspan
+   id="tspan310">compréhensible</tspan><tspan
    y="33.666792"
-   id="tspan153"> </tspan></tspan><tspan
+   id="tspan312"> </tspan></tspan><tspan
          x="41.759411"
          y="35.379492"
-         id="tspan155"><tspan
+         id="tspan314"><tspan
            style="stroke-width:0.6"
-           id="tspan154">pour un projet.
+           id="tspan313">pour un projet.
 </tspan></tspan><tspan
          x="41.759411"
          y="37.092191"
-         id="tspan157"><tspan
+         id="tspan316"><tspan
            style="stroke-width:0.6"
-           id="tspan156">
+           id="tspan315">
 </tspan></tspan><tspan
          x="41.759411"
          y="38.804891"
-         id="tspan159"><tspan
+         id="tspan318"><tspan
            style="stroke-width:0.6"
-           id="tspan158">+1 Administrer</tspan></tspan></text>
+           id="tspan317">+1 Administrer</tspan></tspan></text>
     <rect
        style="fill:#aade87;stroke-width:0.600001"
        id="rect30"
@@ -1128,231 +1128,231 @@
        y="16"
        inkscape:label="depart" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8"
        width="16.000011"
        height="16.000002"
        x="87.999977"
        y="152.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0-8-0"
        width="16.000011"
        height="16.000002"
        x="103.99998"
        y="136.00003" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0-8-0-1"
        width="16.000011"
        height="16.000002"
        x="104"
        y="104.00001" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0-8-0-1-4"
        width="16.000011"
        height="16.000002"
        x="55.999985"
        y="88.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0-8-0-1-3"
        width="16.000011"
        height="16.000002"
        x="39.999989"
        y="72.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0-8-0-1-6"
        width="16.000011"
        height="16.000002"
        x="71.999969"
        y="72.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0-8-0-1-31"
        width="16.000011"
        height="16.000002"
        x="103.99998"
        y="72.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7"
        width="16.000011"
        height="16.000002"
        x="167.99998"
        y="40" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5"
        width="16.000011"
        height="16.000002"
        x="167.99998"
        y="56.000004" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9"
        width="16.000011"
        height="16.000002"
        x="167.99998"
        y="72" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9"
        width="16.000011"
        height="16.000002"
        x="167.99995"
        y="88.000015" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4"
        width="16.000011"
        height="16.000002"
        x="167.99995"
        y="104.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8"
        width="16.000011"
        height="16.000002"
        x="167.99995"
        y="120.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9"
        width="16.000011"
        height="16.000002"
        x="167.99998"
        y="152" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9-1"
        width="16.000011"
        height="16.000002"
        x="215.99998"
        y="152.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1"
        width="16.000011"
        height="16.000002"
        x="167.99995"
        y="136.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8"
        width="16.000011"
        height="16.000002"
        x="247.99998"
        y="72.000015" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0"
        width="16.000011"
        height="16.000002"
        x="344"
        y="24.000002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-8"
        width="16.000011"
        height="16.000002"
        x="360"
        y="40.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9"
        width="16.000011"
        height="16.000002"
        x="247.99998"
        y="56.000015" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.848529"
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-4"
        width="16.000011"
        height="31.999994"
        x="247.99997"
        y="88.000015" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3"
        width="16.000011"
        height="16.000002"
        x="199.99997"
        y="152.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-8"
        width="16.000011"
        height="16.000002"
        x="248"
        y="152.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-8-4"
        width="16.000011"
        height="16.000002"
        x="231.99998"
        y="136" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3-4"
        width="16.000011"
        height="16.000002"
        x="231.99998"
        y="152.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-3"
        width="16.000011"
        height="16.000002"
        x="199.99998"
        y="136.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3-4-1"
        width="16.000011"
        height="16.000002"
        x="215.99998"
        y="136.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3-4-1-6"
        width="16.000011"
        height="16.000002"
        x="183.99998"
        y="136" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-8-4-7"
        width="16.000011"
        height="16.000002"
        x="247.99997"
        y="120.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-3-5"
        width="16.000011"
        height="16.000002"
        x="215.99998"
        y="120.00004" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3-4-1-3"
        width="16.000011"
        height="16.000002"
        x="231.99998"
        y="120.00004" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3-4-1-6-8"
        width="16.000011"
        height="16.000002"
        x="199.99998"
        y="120.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3-4-3"
        width="16.000011"
        height="16.000002"
@@ -1368,30 +1368,30 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan160">Vous avez ignoré<tspan
+         id="tspan319">Vous avez ignoré<tspan
    y="28.52869"
-   id="tspan161"> </tspan></tspan><tspan
+   id="tspan320"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan162">les suggestions<tspan
+         id="tspan321">les suggestions<tspan
    y="30.24139"
-   id="tspan163"> </tspan></tspan><tspan
+   id="tspan322"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan164">utiles de votre<tspan
+         id="tspan323">utiles de votre<tspan
    y="31.95409"
-   id="tspan165"> </tspan></tspan><tspan
+   id="tspan324"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan166">professeur.
+         id="tspan325">professeur.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan167">
+         id="tspan326">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan168">-1 Gérer</tspan></text>
+         id="tspan327">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -1402,200 +1402,200 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan169">Vous avez clarifié<tspan
+         id="tspan328">Vous avez clarifié<tspan
    y="28.52869"
-   id="tspan170"> </tspan></tspan><tspan
+   id="tspan329"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan171">les objectifs d'un<tspan
+         id="tspan330">les objectifs d'un<tspan
    y="30.24139"
-   id="tspan172"> </tspan></tspan><tspan
+   id="tspan331"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan173">projet lors d'une<tspan
+         id="tspan332">projet lors d'une<tspan
    y="31.95409"
-   id="tspan174"> </tspan></tspan><tspan
+   id="tspan333"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan175">réunion d'équipe.
+         id="tspan334">réunion d'équipe.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan176">
+         id="tspan335">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan177"> +1 Collaborer</tspan></text>
+         id="tspan336"> +1 Collaborer</tspan></text>
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9"
        width="16.000011"
        height="16.000002"
        x="328"
        y="24" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5"
        width="16.000011"
        height="16.000002"
        x="360"
        y="23.999998" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1"
        width="16.000011"
        height="16.000002"
        x="376"
        y="152.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-0"
        width="16.000011"
        height="16.000002"
        x="360"
        y="152.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3"
        width="16.000011"
        height="16.000002"
        x="392"
        y="152.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9"
        width="16.000011"
        height="16.000002"
        x="376"
        y="120.00003" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5"
        width="16.000011"
        height="16.000002"
        x="392"
        y="136" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1"
        width="16.000011"
        height="16.000002"
        x="392"
        y="120.00004" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3"
        width="16.000011"
        height="16.000002"
        x="376"
        y="136" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6"
        width="16.000011"
        height="16.000002"
        x="392"
        y="104" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6-8"
        width="16.000011"
        height="16.000002"
        x="376"
        y="88.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-7"
        width="16.000011"
        height="16.000002"
        x="376"
        y="104" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-0"
        width="16.000011"
        height="16.000002"
        x="376"
        y="56.000004" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-2"
        width="16.000011"
        height="16.000002"
        x="392"
        y="71.999977" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-7"
        width="16.000011"
        height="16.000002"
        x="392"
        y="56.000004" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-6"
        width="16.000011"
        height="16.000002"
        x="376"
        y="71.999977" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6-1"
        width="16.000011"
        height="16.000002"
        x="392"
        y="39.999973" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6-1-9"
        width="16.000011"
        height="16.000002"
        x="376"
        y="24.000006" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-7-3"
        width="16.000011"
        height="16.000002"
        x="376"
        y="39.999973" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-7-3-9"
        width="16.000011"
        height="16.000002"
        x="392"
        y="23.999969" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-4"
        width="16.000011"
        height="16.000002"
        x="360"
        y="56.000004" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-8-8"
        width="16.000011"
        height="16.000002"
        x="360"
        y="72.000008" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-4-6"
        width="16.000011"
        height="16.000002"
        x="360"
        y="88.000008" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-56-9-9-8-0-8-7"
        width="16.000011"
        height="16.000002"
        x="360"
        y="104.00002" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9-5-4-2"
        width="16.000011"
        height="16.000002"
@@ -1618,9 +1618,9 @@
        transform="matrix(1,0,0,1.0882869,15.699998,44.51363)"><tspan
          x="32.300003"
          y="-4.147253"
-         id="tspan179"><tspan
+         id="tspan338"><tspan
            style="stroke-width:0.6"
-           id="tspan178">DÉPART</tspan></tspan></text>
+           id="tspan337">DÉPART</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2336,5 +2336,5 @@
      id="text33"><tspan
        sodipodi:role="line"
        id="tspan33"
-       style="stroke-width:0.5"></tspan></text>
+       style="stroke-width:0.5" /></text>
 </svg>
