@@ -32,9 +32,13 @@ Le choix de votre parcours affecte les compétences qu'il faut valider pour réu
 
 Lorsque vous choisissez le parcours A vous décidez de seul les compétences 1, 2 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.
 
+Lors de votre 3e année vous êtes alternant.
+
 ### Le parcours C
 
 Lorsque vous choisissez le parcours C vous décidez de seul les compétences 4, 5 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.
+
+Si vous aviez une alternance en 2e année vous la gardez sinon vous aurez un stage.
 
 ## Formation Initial
 
