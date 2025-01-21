@@ -1,4 +1,4 @@
-# Cartes
+# Cases
 
 - Vous avez développé une solution innovante pour un projet, félicitée par le jury. +3 Réaliser
 - Vous avez dû refaire tout votre travail suite à une mauvaise gestion du code. -3 Administrateur
@@ -190,3 +190,25 @@ Effet : lancez votre dé :
 
 - si vous obtenez un chiffre pair : Casanova : tout gain sur la compétence "Collaborer" est doublée pendant 10 tours
 - si vous obtenez un chiffre impair : Geule de bois : tout gain de compétence est null
+
+## Vert (2 projet par an : carte)
+
+## Rouge (fin d'années : )
+
+-passage en 2e +choix fi ou alt
+-passage en 3e
+-fin d'étude
+
+## A categoriser
+
+Stage : +2 au lancé de déplacement
+Bleu : recherche d'alternance
+
+Git bug le projet en cours raporte un point de TE > 0 en moins
+Vert : debut  du stage lance un dé pour savoir votre reussite -2 -1 +0 +1 +2 +3
+
+Petit projet en dev +1 en realiser
+Vous ratez votre projet -2 en travail d'équipe car vous etes triste
+
+Vous commencez un projet long
+Vous finissez le projet +1 dans toutes les compétences sauf travail d'équipe
