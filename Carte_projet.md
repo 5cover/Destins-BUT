@@ -32,4 +32,4 @@
 |32|||
 |33|||
 |34|||
-|35|||
+|35|Vous lancez un petit blog|+1 administrer, +1 conduire|
