@@ -19,8 +19,8 @@
 |19|Vous faites base de données à l'image des lycées de france(opendata)|+2 gerer, +1 conduite de projet|
 |20|vous faites un site statique|*si 1er annee* +1 realiser |
 |21|Vous avez générer par IA lors d'un projet de dev|rien|
-|22|||
-|23|||
+|22|Vous faite le diagramme UML d'une base de donnée|+1 gerer|
+|23|Projet tchatator|+1realiser, +1 administrer, +1 travail d'equipe|
 |24|||
 |25|||
 |26|||

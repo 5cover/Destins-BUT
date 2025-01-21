@@ -76,6 +76,6 @@ Elles correspondent aux cases << Passage à l'année suivante >>. Lorsque vous p
 
 Les projets scolaires sont des cartes qui vous accordent un bonus ou/et un malus de points sur certaines compétences. L'effet de ces projets n'est appliqué que lors de l'année où ils sont faits.
 
-### Projets personnels (case orange)
+### Projets personnels (case bleu)
 
 Les projets personnels sont comme pour les projets scolaires des cartes qui apportes des bonus de points sur certaines compétences. Leur effet est appliqué lors de toutes les années (donc leur bonus est plus faible.).
