@@ -28,8 +28,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="2.0328778"
-     inkscape:cx="558.81372"
-     inkscape:cy="245.46483"
+     inkscape:cx="714.25838"
+     inkscape:cy="396.48227"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -270,11 +270,11 @@
 </tspan><tspan
              x="41.656384"
              y="35.379492"
-             id="tspan58">
+             id="tspan60">
 </tspan><tspan
              x="41.656384"
              y="37.092191"
-             id="tspan59">+1 Réaliser</tspan></text>
+             id="tspan61">+1 Réaliser</tspan></text>
       </g>
     </clipPath>
     <clipPath
@@ -341,30 +341,30 @@
                transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
                  x="41.625942"
                  y="28.52869"
-                 id="tspan60">Vous avez présenté<tspan
+                 id="tspan62">Vous avez présenté<tspan
    y="28.52869"
-   id="tspan61"> </tspan></tspan><tspan
-                 x="41.625942"
-                 y="30.24139"
-                 id="tspan62">un rapport clair et<tspan
-   y="30.24139"
    id="tspan63"> </tspan></tspan><tspan
                  x="41.625942"
-                 y="31.95409"
-                 id="tspan64">bien structuré à<tspan
-   y="31.95409"
+                 y="30.24139"
+                 id="tspan64">un rapport clair et<tspan
+   y="30.24139"
    id="tspan65"> </tspan></tspan><tspan
                  x="41.625942"
+                 y="31.95409"
+                 id="tspan66">bien structuré à<tspan
+   y="31.95409"
+   id="tspan67"> </tspan></tspan><tspan
+                 x="41.625942"
                  y="33.666792"
-                 id="tspan66">votre professeur.
+                 id="tspan68">votre professeur.
 </tspan><tspan
                  x="41.625942"
                  y="35.379492"
-                 id="tspan67">
+                 id="tspan69">
 </tspan><tspan
                  x="41.625942"
                  y="37.092191"
-                 id="tspan68"> +1 Conduire</tspan></text>
+                 id="tspan70"> +1 Conduire</tspan></text>
             <text
                xml:space="preserve"
                style="font-size:3.52777px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.600001"
@@ -972,7 +972,7 @@
        x="55.999989"
        y="120" />
     <rect
-       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff7b00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
        id="rect214-2-4-9-14"
        width="16.000011"
        height="16.000002"
@@ -987,35 +987,35 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,95.12806)"><tspan
          x="41.673443"
          y="28.52869"
-         id="tspan69">Vous avez soumis<tspan
+         id="tspan71">Vous avez soumis<tspan
    y="28.52869"
-   id="tspan70"> </tspan></tspan><tspan
-         x="41.673443"
-         y="30.24139"
-         id="tspan71">un projet avec des<tspan
-   y="30.24139"
    id="tspan72"> </tspan></tspan><tspan
          x="41.673443"
-         y="31.95409"
-         id="tspan73">commentaires<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan73">un projet avec des<tspan
+   y="30.24139"
    id="tspan74"> </tspan></tspan><tspan
          x="41.673443"
-         y="33.666792"
-         id="tspan75">absents ou<tspan
-   y="33.666792"
+         y="31.95409"
+         id="tspan75">commentaires<tspan
+   y="31.95409"
    id="tspan76"> </tspan></tspan><tspan
          x="41.673443"
+         y="33.666792"
+         id="tspan77">absents ou<tspan
+   y="33.666792"
+   id="tspan78"> </tspan></tspan><tspan
+         x="41.673443"
          y="35.379492"
-         id="tspan77">insuffisants.
+         id="tspan79">insuffisants.
 </tspan><tspan
          x="41.673443"
          y="37.092191"
-         id="tspan78">
+         id="tspan80">
 </tspan><tspan
          x="41.673443"
          y="38.804891"
-         id="tspan79">-1 Administrer</tspan></text>
+         id="tspan81">-1 Administrer</tspan></text>
     <rect
        style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2"
@@ -1046,20 +1046,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,147.47779,95.300901)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan80">PROJET
+         id="tspan82">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan81">
+         id="tspan83">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan82">Piochez une carte<tspan
+         id="tspan84">Piochez une carte<tspan
    y="31.95409"
-   id="tspan83"> </tspan></tspan><tspan
+   id="tspan85"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan84">projet.</tspan></text>
+         id="tspan86">projet.</tspan></text>
     <rect
        style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4-9-2-9"
@@ -1227,7 +1227,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect56-4);display:inline;fill:#554400;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-opacity:1"><tspan
          x="217.14746"
          y="112.34766"
-         id="tspan85">REDOUBLEMENT</tspan></text>
+         id="tspan87">REDOUBLEMENT</tspan></text>
     <rect
        style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2-1-3-4-2-9"
@@ -1272,30 +1272,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,35.477811,127.12806)"><tspan
          x="41.625942"
          y="28.52869"
-         id="tspan86">Vous avez omis de<tspan
+         id="tspan88">Vous avez omis de<tspan
    y="28.52869"
-   id="tspan87"> </tspan></tspan><tspan
-         x="41.625942"
-         y="30.24139"
-         id="tspan88">répondre à un<tspan
-   y="30.24139"
    id="tspan89"> </tspan></tspan><tspan
          x="41.625942"
-         y="31.95409"
-         id="tspan90">email important du<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan90">répondre à un<tspan
+   y="30.24139"
    id="tspan91"> </tspan></tspan><tspan
          x="41.625942"
+         y="31.95409"
+         id="tspan92">email important du<tspan
+   y="31.95409"
+   id="tspan93"> </tspan></tspan><tspan
+         x="41.625942"
          y="33.666792"
-         id="tspan92">professeur.
+         id="tspan94">professeur.
 </tspan><tspan
          x="41.625942"
          y="35.379492"
-         id="tspan93">
+         id="tspan95">
 </tspan><tspan
          x="41.625942"
          y="37.092191"
-         id="tspan94">-1 Conduire</tspan></text>
+         id="tspan96">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -1305,20 +1305,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,3.477788,126.85965)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan95">PROJET
+         id="tspan97">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan96">
+         id="tspan98">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan97">Piochez une carte<tspan
+         id="tspan99">Piochez une carte<tspan
    y="31.95409"
-   id="tspan98"> </tspan></tspan><tspan
+   id="tspan100"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan99">projet.</tspan></text>
+         id="tspan101">projet.</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-4-4"
@@ -1336,30 +1336,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,48.241705)"><tspan
          x="41.679798"
          y="28.52869"
-         id="tspan100">Vous avez ignoré<tspan
+         id="tspan102">Vous avez ignoré<tspan
    y="28.52869"
-   id="tspan101"> </tspan></tspan><tspan
-         x="41.679798"
-         y="30.24139"
-         id="tspan102">des consignes<tspan
-   y="30.24139"
    id="tspan103"> </tspan></tspan><tspan
          x="41.679798"
-         y="31.95409"
-         id="tspan104">importantes dans<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan104">des consignes<tspan
+   y="30.24139"
    id="tspan105"> </tspan></tspan><tspan
          x="41.679798"
+         y="31.95409"
+         id="tspan106">importantes dans<tspan
+   y="31.95409"
+   id="tspan107"> </tspan></tspan><tspan
+         x="41.679798"
          y="33.666792"
-         id="tspan106">un exercice.
+         id="tspan108">un exercice.
 </tspan><tspan
          x="41.679798"
          y="35.379492"
-         id="tspan107">
+         id="tspan109">
 </tspan><tspan
          x="41.679798"
          y="37.092191"
-         id="tspan108">-1 Gérer</tspan></text>
+         id="tspan110">-1 Gérer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2"
@@ -1377,35 +1377,35 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,31.128066)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan109">Vous avez manqué<tspan
+         id="tspan111">Vous avez manqué<tspan
    y="28.52869"
-   id="tspan110"> </tspan></tspan><tspan
-         x="41.62059"
-         y="30.24139"
-         id="tspan111">une étape critique<tspan
-   y="30.24139"
    id="tspan112"> </tspan></tspan><tspan
          x="41.62059"
-         y="31.95409"
-         id="tspan113">dans la<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan113">une étape critique<tspan
+   y="30.24139"
    id="tspan114"> </tspan></tspan><tspan
          x="41.62059"
-         y="33.666792"
-         id="tspan115">documentation<tspan
-   y="33.666792"
+         y="31.95409"
+         id="tspan115">dans la<tspan
+   y="31.95409"
    id="tspan116"> </tspan></tspan><tspan
          x="41.62059"
+         y="33.666792"
+         id="tspan117">documentation<tspan
+   y="33.666792"
+   id="tspan118"> </tspan></tspan><tspan
+         x="41.62059"
          y="35.379492"
-         id="tspan117">d'un projet.
+         id="tspan119">d'un projet.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan118">
+         id="tspan120">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan119">-1 Administrer</tspan></text>
+         id="tspan121">-1 Administrer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4"
@@ -1423,30 +1423,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,63.128069)"><tspan
          x="41.625942"
          y="28.52869"
-         id="tspan120">Vous avez présenté<tspan
+         id="tspan122">Vous avez présenté<tspan
    y="28.52869"
-   id="tspan121"> </tspan></tspan><tspan
-         x="41.625942"
-         y="30.24139"
-         id="tspan122">un rapport clair et<tspan
-   y="30.24139"
    id="tspan123"> </tspan></tspan><tspan
          x="41.625942"
-         y="31.95409"
-         id="tspan125">bien structuré à<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan125">un rapport clair et<tspan
+   y="30.24139"
    id="tspan126"> </tspan></tspan><tspan
          x="41.625942"
+         y="31.95409"
+         id="tspan127">bien structuré à<tspan
+   y="31.95409"
+   id="tspan128"> </tspan></tspan><tspan
+         x="41.625942"
          y="33.666792"
-         id="tspan127">votre professeur.
+         id="tspan129">votre professeur.
 </tspan><tspan
          x="41.625942"
          y="35.379492"
-         id="tspan128">
+         id="tspan130">
 </tspan><tspan
          x="41.625942"
          y="37.092191"
-         id="tspan129"> +1 Conduire</tspan></text>
+         id="tspan131"> +1 Conduire</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-4"
@@ -1464,30 +1464,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,16.241701)"><tspan
          x="41.656384"
          y="28.52869"
-         id="tspan130">Vous avez lu un<tspan
+         id="tspan132">Vous avez lu un<tspan
    y="28.52869"
-   id="tspan131"> </tspan></tspan><tspan
-         x="41.656384"
-         y="30.24139"
-         id="tspan132">article qui a enrichi<tspan
-   y="30.24139"
    id="tspan133"> </tspan></tspan><tspan
          x="41.656384"
-         y="31.95409"
-         id="tspan134">vos connaissances<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan134">article qui a enrichi<tspan
+   y="30.24139"
    id="tspan135"> </tspan></tspan><tspan
          x="41.656384"
+         y="31.95409"
+         id="tspan136">vos connaissances<tspan
+   y="31.95409"
+   id="tspan137"> </tspan></tspan><tspan
+         x="41.656384"
          y="33.666792"
-         id="tspan136">techniques.
+         id="tspan138">techniques.
 </tspan><tspan
          x="41.656384"
          y="35.379492"
-         id="tspan137">
+         id="tspan139">
 </tspan><tspan
          x="41.656384"
          y="37.092191"
-         id="tspan138">+1 Réaliser</tspan></text>
+         id="tspan140">+1 Réaliser</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42"
@@ -1505,30 +1505,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,80.24171)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan139">Vous avez partagé<tspan
+         id="tspan141">Vous avez partagé<tspan
    y="28.52869"
-   id="tspan140"> </tspan></tspan><tspan
-         x="41.62059"
-         y="30.24139"
-         id="tspan141">des ressources<tspan
-   y="30.24139"
    id="tspan142"> </tspan></tspan><tspan
          x="41.62059"
-         y="31.95409"
-         id="tspan143">utiles avec vos<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan143">des ressources<tspan
+   y="30.24139"
    id="tspan144"> </tspan></tspan><tspan
          x="41.62059"
+         y="31.95409"
+         id="tspan145">utiles avec vos<tspan
+   y="31.95409"
+   id="tspan146"> </tspan></tspan><tspan
+         x="41.62059"
          y="33.666792"
-         id="tspan145">camarades.
+         id="tspan147">camarades.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan146">
+         id="tspan148">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan147">+1 Collaborer</tspan></text>
+         id="tspan149">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -1538,33 +1538,33 @@
        transform="matrix(1.0697031,0,0,0.99155597,3.4777879,95.358895)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan148">Virus (pas)<tspan
+         id="tspan150">Virus (pas)<tspan
    y="28.52869"
-   id="tspan149"> </tspan></tspan><tspan
+   id="tspan151"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan150">informatique
+         id="tspan152">informatique
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan151">
+         id="tspan153">
 </tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan152">Vous êtes tombé<tspan
+         id="tspan154">Vous êtes tombé<tspan
    y="33.666792"
-   id="tspan153"> </tspan></tspan><tspan
+   id="tspan155"> </tspan></tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan154">malade.
+         id="tspan156">malade.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan155">
+         id="tspan157">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan156">Avancez de 3 cases</tspan></text>
+         id="tspan158">Avancez de 4 cases</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -1574,33 +1574,33 @@
        transform="matrix(1.0697031,0,0,0.99155597,19.477788,96.202032)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan157">Mon chien a mangé<tspan
+         id="tspan159">Mon chien a mangé<tspan
    y="28.52869"
-   id="tspan158"> </tspan></tspan><tspan
+   id="tspan160"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan159">le réveil
+         id="tspan161">le réveil
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan160">
+         id="tspan162">
 </tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan161">Vous êtes en retard<tspan
+         id="tspan163">Vous êtes en retard<tspan
    y="33.666792"
-   id="tspan162"> </tspan></tspan><tspan
+   id="tspan164"> </tspan></tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan163">en autonomie
+         id="tspan165">en autonomie
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan164">
+         id="tspan166">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan165">-1 Collaborer</tspan></text>
+         id="tspan167">-1 Collaborer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0"
@@ -1617,35 +1617,35 @@
        transform="matrix(1.0697031,0,0,0.99155597,19.477801,128.24171)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan166">Vous avez proposé<tspan
+         id="tspan168">Vous avez proposé<tspan
    y="28.52869"
-   id="tspan167"> </tspan></tspan><tspan
-         x="41.62059"
-         y="30.24139"
-         id="tspan168">une optimisation<tspan
-   y="30.24139"
    id="tspan169"> </tspan></tspan><tspan
          x="41.62059"
-         y="31.95409"
-         id="tspan170">qui a réduit les<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan170">une optimisation<tspan
+   y="30.24139"
    id="tspan171"> </tspan></tspan><tspan
          x="41.62059"
-         y="33.666792"
-         id="tspan172">coûts d'un projet<tspan
-   y="33.666792"
+         y="31.95409"
+         id="tspan172">qui a réduit les<tspan
+   y="31.95409"
    id="tspan173"> </tspan></tspan><tspan
          x="41.62059"
+         y="33.666792"
+         id="tspan174">coûts d'un projet<tspan
+   y="33.666792"
+   id="tspan175"> </tspan></tspan><tspan
+         x="41.62059"
          y="35.379492"
-         id="tspan174">fictif.
+         id="tspan176">fictif.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan175">
+         id="tspan177">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan176">+1 Gérer</tspan></text>
+         id="tspan178">+1 Gérer</tspan></text>
     <rect
        style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-8"
@@ -1662,53 +1662,53 @@
        transform="matrix(1.0697031,0,0,1.1228125,-12.522212,110.1164)"><tspan
          x="41.648521"
          y="28.52869"
-         id="tspan177">Soirée d'intégration
+         id="tspan179">Soirée d'intégration
 </tspan><tspan
          x="41.648521"
          y="30.24139"
-         id="tspan178">
+         id="tspan180">
 </tspan><tspan
          x="41.648521"
          y="31.95409"
-         id="tspan179">Vous pouvez<tspan
+         id="tspan181">Vous pouvez<tspan
    y="31.95409"
-   id="tspan180"> </tspan></tspan><tspan
-         x="41.648521"
-         y="33.666792"
-         id="tspan181">participer à la<tspan
-   y="33.666792"
    id="tspan182"> </tspan></tspan><tspan
          x="41.648521"
-         y="35.379492"
-         id="tspan183">soirée d'intégration<tspan
-   y="35.379492"
+         y="33.666792"
+         id="tspan183">participer à la<tspan
+   y="33.666792"
    id="tspan184"> </tspan></tspan><tspan
          x="41.648521"
+         y="35.379492"
+         id="tspan185">soirée d'intégration<tspan
+   y="35.379492"
+   id="tspan186"> </tspan></tspan><tspan
+         x="41.648521"
          y="37.092191"
-         id="tspan185">de l'IUT
+         id="tspan187">de l'IUT
 </tspan><tspan
          x="41.648521"
          y="38.804891"
-         id="tspan186">
+         id="tspan188">
 </tspan><tspan
          x="41.648521"
          y="40.517591"
-         id="tspan187">x3 tout gain ou<tspan
+         id="tspan189">x3 tout gain ou<tspan
    y="40.517591"
-   id="tspan188"> </tspan></tspan><tspan
-         x="41.648521"
-         y="42.230291"
-         id="tspan189">perte de points sur<tspan
-   y="42.230291"
    id="tspan190"> </tspan></tspan><tspan
          x="41.648521"
-         y="43.942991"
-         id="tspan191">Collaborer  jusqu'à<tspan
-   y="43.942991"
+         y="42.230291"
+         id="tspan191">perte de points sur<tspan
+   y="42.230291"
    id="tspan192"> </tspan></tspan><tspan
          x="41.648521"
+         y="43.942991"
+         id="tspan193">Collaborer jusqu'à<tspan
+   y="43.942991"
+   id="tspan194"> </tspan></tspan><tspan
+         x="41.648521"
          y="45.655691"
-         id="tspan193">la fin de l'année</tspan></text>
+         id="tspan195">la fin de l'année</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
        id="rect214"
@@ -1726,49 +1726,49 @@
        inkscape:label="text218"><tspan
          x="41.759411"
          y="28.52869"
-         id="tspan195"><tspan
+         id="tspan197"><tspan
    style="stroke-width:0.6"
-   id="tspan194">Vous avez proposé</tspan><tspan
+   id="tspan196">Vous avez proposé</tspan><tspan
    y="28.52869"
-   id="tspan196"> </tspan></tspan><tspan
+   id="tspan198"> </tspan></tspan><tspan
          x="41.759411"
          y="30.24139"
-         id="tspan198"><tspan
+         id="tspan200"><tspan
    style="stroke-width:0.6"
-   id="tspan197">une documentation</tspan><tspan
+   id="tspan199">une documentation</tspan><tspan
    y="30.24139"
-   id="tspan199"> </tspan></tspan><tspan
+   id="tspan201"> </tspan></tspan><tspan
          x="41.759411"
          y="31.95409"
-         id="tspan201"><tspan
+         id="tspan203"><tspan
    style="stroke-width:0.6"
-   id="tspan200">simple et</tspan><tspan
+   id="tspan202">simple et</tspan><tspan
    y="31.95409"
-   id="tspan202"> </tspan></tspan><tspan
+   id="tspan204"> </tspan></tspan><tspan
          x="41.759411"
          y="33.666792"
-         id="tspan204"><tspan
+         id="tspan206"><tspan
    style="stroke-width:0.6"
-   id="tspan203">compréhensible</tspan><tspan
+   id="tspan205">compréhensible</tspan><tspan
    y="33.666792"
-   id="tspan205"> </tspan></tspan><tspan
+   id="tspan207"> </tspan></tspan><tspan
          x="41.759411"
          y="35.379492"
-         id="tspan207"><tspan
+         id="tspan209"><tspan
            style="stroke-width:0.6"
-           id="tspan206">pour un projet.
+           id="tspan208">pour un projet.
 </tspan></tspan><tspan
          x="41.759411"
          y="37.092191"
-         id="tspan209"><tspan
+         id="tspan211"><tspan
            style="stroke-width:0.6"
-           id="tspan208">
+           id="tspan210">
 </tspan></tspan><tspan
          x="41.759411"
          y="38.804891"
-         id="tspan211"><tspan
+         id="tspan213"><tspan
            style="stroke-width:0.6"
-           id="tspan210">+1 Administrer</tspan></tspan></text>
+           id="tspan212">+1 Administrer</tspan></tspan></text>
     <rect
        style="fill:#aade87;stroke-width:0.600001"
        id="rect30"
@@ -1856,18 +1856,18 @@
        x="167.99998"
        y="72" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
        id="rect214-2-4-9-2-1-3-56-9-9"
        width="16.000011"
        height="16.000002"
-       x="167.99995"
+       x="247.99997"
        y="88.000015" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
        id="rect42-0-8-0-1-0-7-4"
        width="16.000011"
        height="16.000002"
-       x="167.99995"
+       x="247.99997"
        y="104.00002" />
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
@@ -1926,12 +1926,12 @@
        x="247.99998"
        y="56.000015" />
     <rect
-       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
        id="rect42-0-8-0-1-0-7-9-1-4"
        width="16.000011"
        height="31.999994"
-       x="247.99997"
-       y="88.000015" />
+       x="167.99997"
+       y="88.000008" />
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-9-1-3"
@@ -2026,30 +2026,30 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan212">Vous avez ignoré<tspan
+         id="tspan214">Vous avez ignoré<tspan
    y="28.52869"
-   id="tspan213"> </tspan></tspan><tspan
-         x="41.62059"
-         y="30.24139"
-         id="tspan214">les suggestions<tspan
-   y="30.24139"
    id="tspan215"> </tspan></tspan><tspan
          x="41.62059"
-         y="31.95409"
-         id="tspan216">utiles de votre<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan216">les suggestions<tspan
+   y="30.24139"
    id="tspan217"> </tspan></tspan><tspan
          x="41.62059"
+         y="31.95409"
+         id="tspan218">utiles de votre<tspan
+   y="31.95409"
+   id="tspan219"> </tspan></tspan><tspan
+         x="41.62059"
          y="33.666792"
-         id="tspan218">professeur.
+         id="tspan220">professeur.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan219">
+         id="tspan221">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan220">-1 Gérer</tspan></text>
+         id="tspan222">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -2060,30 +2060,30 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan221">Vous avez clarifié<tspan
+         id="tspan223">Vous avez clarifié<tspan
    y="28.52869"
-   id="tspan222"> </tspan></tspan><tspan
-         x="41.62059"
-         y="30.24139"
-         id="tspan223">les objectifs d'un<tspan
-   y="30.24139"
    id="tspan224"> </tspan></tspan><tspan
          x="41.62059"
-         y="31.95409"
-         id="tspan225">projet lors d'une<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan225">les objectifs d'un<tspan
+   y="30.24139"
    id="tspan226"> </tspan></tspan><tspan
          x="41.62059"
+         y="31.95409"
+         id="tspan227">projet lors d'une<tspan
+   y="31.95409"
+   id="tspan228"> </tspan></tspan><tspan
+         x="41.62059"
          y="33.666792"
-         id="tspan227">réunion d'équipe.
+         id="tspan229">réunion d'équipe.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan228">
+         id="tspan230">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan229"> +1 Collaborer</tspan></text>
+         id="tspan231"> +1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -2094,42 +2094,42 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan230">Vous avez<tspan
+         id="tspan232">Vous avez<tspan
    y="28.52869"
-   id="tspan231"> </tspan></tspan><tspan
-         x="41.62059"
-         y="30.24139"
-         id="tspan232">documenté vos<tspan
-   y="30.24139"
    id="tspan233"> </tspan></tspan><tspan
          x="41.62059"
-         y="31.95409"
-         id="tspan234">travaux pour les<tspan
-   y="31.95409"
+         y="30.24139"
+         id="tspan234">documenté vos<tspan
+   y="30.24139"
    id="tspan235"> </tspan></tspan><tspan
          x="41.62059"
-         y="33.666792"
-         id="tspan236">rendre plus<tspan
-   y="33.666792"
+         y="31.95409"
+         id="tspan236">travaux pour les<tspan
+   y="31.95409"
    id="tspan237"> </tspan></tspan><tspan
          x="41.62059"
-         y="35.379492"
-         id="tspan238">accessibles à vos<tspan
-   y="35.379492"
+         y="33.666792"
+         id="tspan238">rendre plus<tspan
+   y="33.666792"
    id="tspan239"> </tspan></tspan><tspan
          x="41.62059"
+         y="35.379492"
+         id="tspan240">accessibles à vos<tspan
+   y="35.379492"
+   id="tspan241"> </tspan></tspan><tspan
+         x="41.62059"
          y="37.092191"
-         id="tspan240">collaborateurs.
+         id="tspan242">collaborateurs.
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan241">
+         id="tspan243">
 </tspan><tspan
          x="41.62059"
          y="40.517591"
-         id="tspan242">+1 Administrer</tspan></text>
+         id="tspan244">+1 Administrer</tspan></text>
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ff7b00;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9"
        width="16.000011"
        height="16.000002"
@@ -2320,9 +2320,9 @@
        transform="matrix(1,0,0,1.0882869,15.699998,44.51363)"><tspan
          x="32.300003"
          y="-4.147253"
-         id="tspan244"><tspan
+         id="tspan246"><tspan
            style="stroke-width:0.6"
-           id="tspan243">DÉPART</tspan></tspan></text>
+           id="tspan245">DÉPART</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.4586px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;white-space:pre;inline-size:111.644;display:inline;fill:#000000;stroke-width:0.600001"
@@ -2332,7 +2332,7 @@
        transform="matrix(1,0,0,1.0882869,419.73473,36.513629)"><tspan
          x="32.300003"
          y="-4.147253"
-         id="tspan245">ARRIVÉE</tspan></text>
+         id="tspan247">ARRIVÉE</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,15.699998,-0.30000183)"
@@ -2340,24 +2340,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="345.80405"
          y="469.07812"
-         id="tspan246">Vous avez mal </tspan><tspan
+         id="tspan248">Vous avez mal </tspan><tspan
          x="348.29623"
          y="475.74478"
-         id="tspan247">configuré un </tspan><tspan
+         id="tspan249">configuré un </tspan><tspan
          x="341.7715"
          y="482.41144"
-         id="tspan248">outil, ralentissant </tspan><tspan
+         id="tspan250">outil, ralentissant </tspan><tspan
          x="346.92644"
          y="489.07809"
-         id="tspan249">tout le projet.
+         id="tspan251">tout le projet.
 </tspan><tspan
          x="365.05273"
          y="495.74475"
-         id="tspan250">
+         id="tspan252">
 </tspan><tspan
          x="354.06446"
          y="502.4114"
-         id="tspan251">-1 Gérer</tspan></text>
+         id="tspan253">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.58686596,0.05361076)"
@@ -2365,25 +2365,25 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26-4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="349.05144"
          y="469.07812"
-         id="tspan252">Félcitations,
+         id="tspan254">Félcitations,
 </tspan><tspan
          x="342.15301"
          y="475.74478"
-         id="tspan253">Vous avez trouvé </tspan><tspan
+         id="tspan255">Vous avez trouvé </tspan><tspan
          x="344.95249"
          y="482.41144"
-         id="tspan254">une alternance
+         id="tspan256">une alternance
 </tspan><tspan
          x="365.05273"
          y="489.07809"
-         id="tspan255">
+         id="tspan257">
 </tspan><tspan
          x="343.01759"
          y="495.74475"
-         id="tspan256">(voir règles pour </tspan><tspan
+         id="tspan258">(voir règles pour </tspan><tspan
          x="355.91863"
          y="502.4114"
-         id="tspan257">bonus)</tspan></text>
+         id="tspan259">bonus)</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,15.413134,-16.136243)"
@@ -2391,24 +2391,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="342.34311"
          y="469.07812"
-         id="tspan258">Vous avez ignoré </tspan><tspan
+         id="tspan260">Vous avez ignoré </tspan><tspan
          x="349.95118"
          y="475.74478"
-         id="tspan259">des retours </tspan><tspan
+         id="tspan261">des retours </tspan><tspan
          x="344.43947"
          y="482.41144"
-         id="tspan260">constructifs sur </tspan><tspan
+         id="tspan262">constructifs sur </tspan><tspan
          x="347.95379"
          y="489.07809"
-         id="tspan261">votre travail.
+         id="tspan263">votre travail.
 </tspan><tspan
          x="365.05273"
          y="495.74475"
-         id="tspan262">
+         id="tspan264">
 </tspan><tspan
          x="347.8379"
          y="502.4114"
-         id="tspan263">-1 Collaborer</tspan></text>
+         id="tspan265">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
@@ -2430,24 +2430,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.97658"
          y="342.27734"
-         id="tspan264">Vous avez proposé </tspan><tspan
+         id="tspan266">Vous avez proposé </tspan><tspan
          x="347.33855"
          y="348.944"
-         id="tspan265">un script qui </tspan><tspan
+         id="tspan267">un script qui </tspan><tspan
          x="349.08204"
          y="355.61065"
-         id="tspan266">améliore la </tspan><tspan
+         id="tspan268">améliore la </tspan><tspan
          x="339.54429"
          y="362.27731"
-         id="tspan267">sécurité du projet.
+         id="tspan269">sécurité du projet.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan268">
+         id="tspan270">
 </tspan><tspan
          x="343.7409"
          y="375.61062"
-         id="tspan269">+1 Administrer</tspan></text>
+         id="tspan271">+1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-16.296357,0.01939024)"
@@ -2455,30 +2455,30 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.80731"
          y="342.27734"
-         id="tspan270">Vous avez maîtrisé </tspan><tspan
+         id="tspan272">Vous avez maîtrisé </tspan><tspan
          x="346.74741"
          y="348.944"
-         id="tspan271">une nouvelle </tspan><tspan
+         id="tspan273">une nouvelle </tspan><tspan
          x="343.15105"
          y="355.61065"
-         id="tspan272">bibliothèque en </tspan><tspan
+         id="tspan274">bibliothèque en </tspan><tspan
          x="339.71225"
          y="362.27731"
-         id="tspan273">programmation et </tspan><tspan
+         id="tspan275">programmation et </tspan><tspan
          x="342.22918"
          y="368.94397"
-         id="tspan274">l'avez appliquée </tspan><tspan
+         id="tspan276">l'avez appliquée </tspan><tspan
          x="346.91277"
          y="375.61062"
-         id="tspan275">avec succès.
+         id="tspan277">avec succès.
 </tspan><tspan
          x="363.96875"
          y="382.27728"
-         id="tspan276">
+         id="tspan278">
 </tspan><tspan
          x="348.57423"
          y="388.94394"
-         id="tspan277">+1 Réaliser</tspan></text>
+         id="tspan279">+1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-32.296357,0.79220433)"
@@ -2486,52 +2486,49 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.45705"
          y="342.27734"
-         id="tspan278">Vous avez noté un </tspan><tspan
+         id="tspan280">Vous avez noté un </tspan><tspan
          x="341.81902"
          y="348.944"
-         id="tspan279">quiz technique à </tspan><tspan
+         id="tspan281">quiz technique à </tspan><tspan
          x="347.85418"
          y="355.61065"
-         id="tspan280">cause d'une </tspan><tspan
+         id="tspan282">cause d'une </tspan><tspan
          x="340.38543"
          y="362.27731"
-         id="tspan281">mauvaise gestion </tspan><tspan
+         id="tspan283">mauvaise gestion </tspan><tspan
          x="350.52475"
          y="368.94397"
-         id="tspan282">du temps.
+         id="tspan284">du temps.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan283">
+         id="tspan285">
 </tspan><tspan
          x="352.98048"
          y="382.27728"
-         id="tspan284">-1 Gérer</tspan></text>
+         id="tspan286">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-48.296358,0.81278521)"
        id="text30-6-7-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="341.25913"
+         x="337.69663"
          y="342.27734"
-         id="tspan285">Vous avez ignoré </tspan><tspan
-         x="338.41668"
+         id="tspan287">Vous avez perdu du </tspan><tspan
+         x="340.90496"
          y="348.944"
-         id="tspan286">un rappel pour une </tspan><tspan
-         x="344.88152"
+         id="tspan288">temps à nettoyer </tspan><tspan
+         x="341.41147"
          y="355.61065"
-         id="tspan287">mise à jour du </tspan><tspan
-         x="351.83985"
-         y="362.27731"
-         id="tspan288">système.
+         id="tspan289">votre disque dur.
 </tspan><tspan
          x="363.96875"
-         y="368.94397"
-         id="tspan289">
+         y="362.27731"
+         id="tspan290">
 </tspan><tspan
-         x="345.01303"
-         y="375.61062"
-         id="tspan290">-1 Administrer</tspan></text>
+         x="337.71746"
+         y="368.94397"
+         id="tspan291">Reculez de 2 cases.</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-48.296358,-14.567749)"
@@ -2539,24 +2536,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-6);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.25913"
          y="342.27734"
-         id="tspan291">Vous avez ignoré </tspan><tspan
+         id="tspan292">Vous avez ignoré </tspan><tspan
          x="338.41668"
          y="348.944"
-         id="tspan292">un rappel pour une </tspan><tspan
+         id="tspan293">un rappel pour une </tspan><tspan
          x="344.88152"
          y="355.61065"
-         id="tspan293">mise à jour du </tspan><tspan
+         id="tspan294">mise à jour du </tspan><tspan
          x="351.83985"
          y="362.27731"
-         id="tspan294">système.
+         id="tspan295">système.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan295">
+         id="tspan296">
 </tspan><tspan
          x="345.01303"
          y="375.61062"
-         id="tspan296">-1 Administrer</tspan></text>
+         id="tspan297">-1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-32.296357,-14.475493)"
@@ -2564,27 +2561,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-8);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.20314"
          y="342.27734"
-         id="tspan297">Vous avez pris des </tspan><tspan
+         id="tspan298">Vous avez pris des </tspan><tspan
          x="344.02345"
          y="348.944"
-         id="tspan298">initiatives pour </tspan><tspan
+         id="tspan299">initiatives pour </tspan><tspan
          x="347.98569"
          y="355.61065"
-         id="tspan299">améliorer la </tspan><tspan
+         id="tspan300">améliorer la </tspan><tspan
          x="346.60548"
          y="362.27731"
-         id="tspan300">sécurité d'un </tspan><tspan
+         id="tspan301">sécurité d'un </tspan><tspan
          x="355.33204"
          y="368.94397"
-         id="tspan301">projet.
+         id="tspan302">projet.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan302">
+         id="tspan303">
 </tspan><tspan
          x="343.7409"
          y="382.27728"
-         id="tspan303">+1 Administrer</tspan></text>
+         id="tspan304">+1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-16.296357,-14.521536)"
@@ -2592,24 +2589,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-61);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.45314"
          y="342.27734"
-         id="tspan304">Vous avez géré un </tspan><tspan
+         id="tspan305">Vous avez géré un </tspan><tspan
          x="338.15757"
          y="348.944"
-         id="tspan305">conflit mineur dans </tspan><tspan
+         id="tspan306">conflit mineur dans </tspan><tspan
          x="346.23048"
          y="355.61065"
-         id="tspan306">l'équipe avec </tspan><tspan
+         id="tspan307">l'équipe avec </tspan><tspan
          x="348.96355"
          y="362.27731"
-         id="tspan307">diplomatie.
+         id="tspan308">diplomatie.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan308">
+         id="tspan309">
 </tspan><tspan
          x="345.48178"
          y="375.61062"
-         id="tspan309">+1 Collaborer</tspan></text>
+         id="tspan310">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,-0.2963566,-14.210909)"
@@ -2617,24 +2614,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-5);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.25913"
          y="342.27734"
-         id="tspan310">Vous avez ignoré </tspan><tspan
+         id="tspan311">Vous avez ignoré </tspan><tspan
          x="339.36199"
          y="348.944"
-         id="tspan311">des consignes lors </tspan><tspan
+         id="tspan312">des consignes lors </tspan><tspan
          x="346.23308"
          y="355.61065"
-         id="tspan312">d'un exercice </tspan><tspan
+         id="tspan313">d'un exercice </tspan><tspan
          x="349.82423"
          y="362.27731"
-         id="tspan313">technique.
+         id="tspan314">technique.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan314">
+         id="tspan315">
 </tspan><tspan
          x="352.98048"
          y="375.61062"
-         id="tspan315">-1 Gérer</tspan></text>
+         id="tspan316">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,15.703644,-13.945704)"
@@ -2642,24 +2639,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-81);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.74741"
          y="342.27734"
-         id="tspan316">Vous avez manqué </tspan><tspan
+         id="tspan317">Vous avez manqué </tspan><tspan
          x="347.97918"
          y="348.944"
-         id="tspan317">une réunion </tspan><tspan
+         id="tspan318">une réunion </tspan><tspan
          x="341.98699"
          y="355.61065"
-         id="tspan318">importante avec </tspan><tspan
+         id="tspan319">importante avec </tspan><tspan
          x="346.2422"
          y="362.27731"
-         id="tspan319">votre équipe.
+         id="tspan320">votre équipe.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan320">
+         id="tspan321">
 </tspan><tspan
          x="346.75392"
          y="375.61062"
-         id="tspan321">-1 Collaborer</tspan></text>
+         id="tspan322">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,15.703644,-30.097815)"
@@ -2667,24 +2664,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-85);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.28778"
          y="342.27734"
-         id="tspan322">Vous avez terminé </tspan><tspan
+         id="tspan323">Vous avez terminé </tspan><tspan
          x="338.16798"
          y="348.944"
-         id="tspan323">un exercice avancé </tspan><tspan
+         id="tspan324">un exercice avancé </tspan><tspan
          x="349.25261"
          y="355.61065"
-         id="tspan324">en base de </tspan><tspan
+         id="tspan325">en base de </tspan><tspan
          x="351.7461"
          y="362.27731"
-         id="tspan325">données.
+         id="tspan326">données.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan326">
+         id="tspan327">
 </tspan><tspan
          x="351.70834"
          y="375.61062"
-         id="tspan327">+1 Gérer</tspan></text>
+         id="tspan328">+1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,15.703644,-53.873361)"
@@ -2697,18 +2694,18 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-857);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="349.72918"
          y="342.27734"
-         id="tspan328">Il fait beau
+         id="tspan329">Il fait beau
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan329">
+         id="tspan330">
 </tspan><tspan
          x="338.72397"
          y="355.61065"
-         id="tspan330">Vous avez passé la </tspan><tspan
+         id="tspan331">Vous avez passé la </tspan><tspan
          x="339.93231"
          y="362.27731"
-         id="tspan331">journée à la plage</tspan></text>
+         id="tspan332">journée à la plage</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,47.703645,-78.185679)"
@@ -2716,21 +2713,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-30);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="347.32813"
          y="342.27734"
-         id="tspan332">Ostentatoire
+         id="tspan333">Ostentatoire
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan333">
+         id="tspan334">
 </tspan><tspan
          x="346.89845"
          y="355.61065"
-         id="tspan334">Vous êtes en </tspan><tspan
+         id="tspan335">Vous êtes en </tspan><tspan
          x="345.72006"
          y="362.27731"
-         id="tspan335">vacances aux </tspan><tspan
+         id="tspan336">vacances aux </tspan><tspan
          x="349.74871"
          y="368.94397"
-         id="tspan336">Seychelles</tspan></text>
+         id="tspan337">Seychelles</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,63.703645,-62.567426)"
@@ -2738,21 +2735,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-0);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="353.26303"
          y="342.27734"
-         id="tspan337">Brainrot
+         id="tspan338">Brainrot
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan338">
+         id="tspan339">
 </tspan><tspan
          x="350.54037"
          y="355.61065"
-         id="tspan339">Vous avez </tspan><tspan
+         id="tspan340">Vous avez </tspan><tspan
          x="339.8672"
          y="362.27731"
-         id="tspan340">doomscrollé toute </tspan><tspan
+         id="tspan341">doomscrollé toute </tspan><tspan
          x="350.66277"
          y="368.94397"
-         id="tspan341">la journée </tspan></text>
+         id="tspan342">la journée </tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,-62.18137)"
@@ -2760,27 +2757,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-7);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="350.54037"
          y="342.27734"
-         id="tspan342">Vous avez </tspan><tspan
+         id="tspan343">Vous avez </tspan><tspan
          x="342.92449"
          y="348.944"
-         id="tspan343">contribué à une </tspan><tspan
+         id="tspan344">contribué à une </tspan><tspan
          x="349.89584"
          y="355.61065"
-         id="tspan344">innovation </tspan><tspan
+         id="tspan345">innovation </tspan><tspan
          x="339.19012"
          y="362.27731"
-         id="tspan345">technique dans un </tspan><tspan
+         id="tspan346">technique dans un </tspan><tspan
          x="355.33204"
          y="368.94397"
-         id="tspan346">projet.
+         id="tspan347">projet.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan347">
+         id="tspan348">
 </tspan><tspan
          x="348.57423"
          y="382.27728"
-         id="tspan348">+1 Réaliser</tspan></text>
+         id="tspan349">+1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,-30.038108)"
@@ -2788,83 +2785,77 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-34);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.20314"
          y="342.27734"
-         id="tspan349">Vous avez pris des </tspan><tspan
+         id="tspan350">Vous avez pris des </tspan><tspan
          x="344.02345"
          y="348.944"
-         id="tspan350">initiatives pour </tspan><tspan
+         id="tspan351">initiatives pour </tspan><tspan
          x="345.50262"
          y="355.61065"
-         id="tspan351">réorganiser la </tspan><tspan
+         id="tspan352">réorganiser la </tspan><tspan
          x="340.9284"
          y="362.27731"
-         id="tspan352">planification d'un </tspan><tspan
+         id="tspan353">planification d'un </tspan><tspan
          x="355.33204"
          y="368.94397"
-         id="tspan353">projet.
+         id="tspan354">projet.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan354">
+         id="tspan355">
 </tspan><tspan
          x="347.20444"
          y="382.27728"
-         id="tspan355">+1 Conduire</tspan></text>
+         id="tspan356">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,-14.493961)"
        id="text30-6-7-6-61"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-2);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="350.54037"
+         x="341.9271"
          y="342.27734"
-         id="tspan356">Vous avez </tspan><tspan
-         x="344.44793"
+         id="tspan357">Vous avez perdu </tspan><tspan
+         x="337.78257"
          y="348.944"
-         id="tspan357">développé des </tspan><tspan
-         x="344.25262"
+         id="tspan358">l'historique Git d'un </tspan><tspan
+         x="356.17969"
          y="355.61065"
-         id="tspan358">fonctionnalités </tspan><tspan
-         x="345.03907"
-         y="362.27731"
-         id="tspan359">inutiles sur un </tspan><tspan
-         x="355.33204"
-         y="368.94397"
-         id="tspan360">projet.
+         id="tspan359">projet
 </tspan><tspan
          x="363.96875"
-         y="375.61062"
-         id="tspan361">
+         y="362.27731"
+         id="tspan360">
 </tspan><tspan
-         x="346.75392"
-         y="382.27728"
-         id="tspan362">-1 Collaborer</tspan></text>
+         x="337.71746"
+         y="368.94397"
+         id="tspan361">Reculez de 3 cases.</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26457315,0,0,0.26458333,79.703645,17.441286)"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70366,17.441283)"
        id="text30-6-7-6-70"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-75);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.09767"
          y="342.27734"
-         id="tspan363">Vous avez perturbé </tspan><tspan
+         id="tspan362">Vous avez perturbé </tspan><tspan
          x="346.681"
          y="348.944"
-         id="tspan364">un projet par </tspan><tspan
+         id="tspan363">un projet par </tspan><tspan
          x="348.84246"
          y="355.61065"
-         id="tspan365">manque de </tspan><tspan
+         id="tspan364">manque de </tspan><tspan
          x="343.34637"
          y="362.27731"
-         id="tspan366">communication </tspan><tspan
+         id="tspan365">communication </tspan><tspan
          x="338.22788"
          y="368.94397"
-         id="tspan367">avec votre équipe. 
+         id="tspan366">avec votre équipe. 
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan368">
+         id="tspan367">
 </tspan><tspan
          x="346.75392"
          y="382.27728"
-         id="tspan369">-1 Collaborer</tspan></text>
+         id="tspan368">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,34.049218)"
@@ -2872,24 +2863,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-9);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="340.25392"
          y="342.27734"
-         id="tspan370">Vous avez soumis </tspan><tspan
+         id="tspan369">Vous avez soumis </tspan><tspan
          x="338.53387"
          y="348.944"
-         id="tspan371">un travail avec des </tspan><tspan
+         id="tspan370">un travail avec des </tspan><tspan
          x="349.77084"
          y="355.61065"
-         id="tspan372">fautes non </tspan><tspan
+         id="tspan371">fautes non </tspan><tspan
          x="350.77345"
          y="362.27731"
-         id="tspan373">corrigées.
+         id="tspan372">corrigées.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan374">
+         id="tspan373">
 </tspan><tspan
          x="349.84636"
          y="375.61062"
-         id="tspan375">-1 Réaliser</tspan></text>
+         id="tspan374">-1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,49.7281)"
@@ -2897,27 +2888,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-69);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="337.98179"
          y="342.27734"
-         id="tspan376">Vous avez assisté à </tspan><tspan
+         id="tspan375">Vous avez assisté à </tspan><tspan
          x="340.16668"
          y="348.944"
-         id="tspan377">la réalisation d'un </tspan><tspan
+         id="tspan376">la réalisation d'un </tspan><tspan
          x="340.09637"
          y="355.61065"
-         id="tspan378">camarade dans la </tspan><tspan
+         id="tspan377">camarade dans la </tspan><tspan
          x="348.19793"
          y="362.27731"
-         id="tspan379">d'une tâche </tspan><tspan
+         id="tspan378">d'une tâche </tspan><tspan
          x="350.26173"
          y="368.94397"
-         id="tspan380">complexe.
+         id="tspan379">complexe.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan381">
+         id="tspan380">
 </tspan><tspan
          x="345.48178"
          y="382.27728"
-         id="tspan382">+1 Collaborer</tspan></text>
+         id="tspan381">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,65.110668)"
@@ -2925,21 +2916,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-68);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="340.69402"
          y="342.27734"
-         id="tspan383">Vous avez clarifié </tspan><tspan
+         id="tspan382">Vous avez clarifié </tspan><tspan
          x="339.36199"
          y="348.944"
-         id="tspan384">des consignes lors </tspan><tspan
+         id="tspan383">des consignes lors </tspan><tspan
          x="344.70574"
          y="355.61065"
-         id="tspan385">d'une réunion.
+         id="tspan384">d'une réunion.
 </tspan><tspan
          x="363.96875"
          y="362.27731"
-         id="tspan386">
+         id="tspan385">
 </tspan><tspan
          x="347.20444"
          y="368.94397"
-         id="tspan387">+1 Conduire</tspan></text>
+         id="tspan386">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,111.70365,65.814328)"
@@ -2947,24 +2938,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-90);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.37762"
          y="342.27734"
-         id="tspan388">Vous avez introduit </tspan><tspan
+         id="tspan387">Vous avez introduit </tspan><tspan
          x="344.41798"
          y="348.944"
-         id="tspan389">un bug majeur </tspan><tspan
+         id="tspan388">un bug majeur </tspan><tspan
          x="343.89194"
          y="355.61065"
-         id="tspan390">négligeant une </tspan><tspan
+         id="tspan389">négligeant une </tspan><tspan
          x="348.17709"
          y="362.27731"
-         id="tspan391">vérification.
+         id="tspan390">vérification.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan392">
+         id="tspan391">
 </tspan><tspan
          x="349.84636"
          y="375.61062"
-         id="tspan393">-1 Réaliser</tspan></text>
+         id="tspan392">-1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,127.70365,65.684176)"
@@ -2972,27 +2963,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-1);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.556"
          y="342.27734"
-         id="tspan394">Vous avez oublié </tspan><tspan
+         id="tspan393">Vous avez oublié </tspan><tspan
          x="337.60288"
          y="348.944"
-         id="tspan395">de sauvegarder vos </tspan><tspan
+         id="tspan394">de sauvegarder vos </tspan><tspan
          x="338.10939"
          y="355.61065"
-         id="tspan396">travaux, entraînant </tspan><tspan
+         id="tspan395">travaux, entraînant </tspan><tspan
          x="346.8034"
          y="362.27731"
-         id="tspan397">une perte de </tspan><tspan
+         id="tspan396">une perte de </tspan><tspan
          x="351.7461"
          y="368.94397"
-         id="tspan398">données.
+         id="tspan397">données.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan399">
+         id="tspan398">
 </tspan><tspan
          x="345.01303"
          y="382.27728"
-         id="tspan400">-1 Administrer</tspan></text>
+         id="tspan399">-1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,143.70365,65.94448)"
@@ -3000,24 +2991,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-19);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.02866"
          y="342.27734"
-         id="tspan401">Vous avez amélioré </tspan><tspan
+         id="tspan400">Vous avez amélioré </tspan><tspan
          x="343.8672"
          y="348.944"
-         id="tspan402">la présentation </tspan><tspan
+         id="tspan401">la présentation </tspan><tspan
          x="343.7448"
          y="355.61065"
-         id="tspan403">graphique d'un </tspan><tspan
+         id="tspan402">graphique d'un </tspan><tspan
          x="355.33204"
          y="362.27731"
-         id="tspan404">projet.
+         id="tspan403">projet.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan405">
+         id="tspan404">
 </tspan><tspan
          x="347.20444"
          y="375.61062"
-         id="tspan406">+1 Conduire</tspan></text>
+         id="tspan405">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,159.70365,65.98572)"
@@ -3025,27 +3016,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-73);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.06902"
          y="342.27734"
-         id="tspan407">Vous avez trouvé </tspan><tspan
+         id="tspan406">Vous avez trouvé </tspan><tspan
          x="347.54037"
          y="348.944"
-         id="tspan408">une solution </tspan><tspan
+         id="tspan407">une solution </tspan><tspan
          x="345.53387"
          y="355.61065"
-         id="tspan409">élégante à un </tspan><tspan
+         id="tspan408">élégante à un </tspan><tspan
          x="347.11329"
          y="362.27731"
-         id="tspan410">problème de </tspan><tspan
+         id="tspan409">problème de </tspan><tspan
          x="342.39845"
          y="368.94397"
-         id="tspan411">programmation.
+         id="tspan410">programmation.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan412">
+         id="tspan411">
 </tspan><tspan
          x="348.57423"
          y="382.27728"
-         id="tspan413">+1 Réaliser</tspan></text>
+         id="tspan412">+1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,159.70365,51.107139)"
@@ -3053,24 +3044,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-06);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="350.54037"
          y="342.27734"
-         id="tspan414">Vous avez </tspan><tspan
+         id="tspan413">Vous avez </tspan><tspan
          x="344.56512"
          y="348.944"
-         id="tspan415">contribué à un </tspan><tspan
+         id="tspan414">contribué à un </tspan><tspan
          x="340.88673"
          y="355.61065"
-         id="tspan416">climat de tension </tspan><tspan
+         id="tspan415">climat de tension </tspan><tspan
          x="337.88804"
          y="362.27731"
-         id="tspan417">au sein de l'équipe.
+         id="tspan416">au sein de l'équipe.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan418">
+         id="tspan417">
 </tspan><tspan
          x="345.90626"
          y="375.61062"
-         id="tspan419"> -1 Collaborer</tspan></text>
+         id="tspan418"> -1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,143.70365,51.030344)"
@@ -3078,52 +3069,52 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-52);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.09767"
          y="342.27734"
-         id="tspan420">Vous avez perturbé </tspan><tspan
+         id="tspan419">Vous avez perturbé </tspan><tspan
          x="341.22137"
          y="348.944"
-         id="tspan421">une présentation </tspan><tspan
+         id="tspan420">une présentation </tspan><tspan
          x="343.57163"
          y="355.61065"
-         id="tspan422">par manque de </tspan><tspan
+         id="tspan421">par manque de </tspan><tspan
          x="347.58465"
          y="362.27731"
-         id="tspan423">préparation.
+         id="tspan422">préparation.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan424">
+         id="tspan423">
 </tspan><tspan
          x="348.47657"
          y="375.61062"
-         id="tspan425">-1 Conduire</tspan></text>
+         id="tspan424">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26457315,0,0,0.26458333,79.703645,1.830681)"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70366,1.8306785)"
        id="text30-6-7-6-90"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-55);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="337.98179"
          y="342.27734"
-         id="tspan426">Vous avez assisté à </tspan><tspan
+         id="tspan425">Vous avez assisté à </tspan><tspan
          x="340.16668"
          y="348.944"
-         id="tspan427">la réalisation d'un </tspan><tspan
+         id="tspan426">la réalisation d'un </tspan><tspan
          x="340.09637"
          y="355.61065"
-         id="tspan428">camarade dans la </tspan><tspan
+         id="tspan427">camarade dans la </tspan><tspan
          x="348.19793"
          y="362.27731"
-         id="tspan429">d'une tâche </tspan><tspan
+         id="tspan428">d'une tâche </tspan><tspan
          x="350.26173"
          y="368.94397"
-         id="tspan430">complexe.
+         id="tspan429">complexe.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan431">
+         id="tspan430">
 </tspan><tspan
          x="345.48178"
          y="382.27728"
-         id="tspan432">+1 Collaborer</tspan></text>
+         id="tspan431">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,79.703645,-46.137706)"
@@ -3131,24 +3122,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-00);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.37762"
          y="342.27734"
-         id="tspan433">Vous avez introduit </tspan><tspan
+         id="tspan432">Vous avez introduit </tspan><tspan
          x="339.46876"
          y="348.944"
-         id="tspan434">une erreur dans la </tspan><tspan
+         id="tspan433">une erreur dans la </tspan><tspan
          x="346.27996"
          y="355.61065"
-         id="tspan435">configuration </tspan><tspan
+         id="tspan434">configuration </tspan><tspan
          x="354.08855"
          y="362.27731"
-         id="tspan436">réseau.
+         id="tspan435">réseau.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan437">
+         id="tspan436">
 </tspan><tspan
          x="352.98048"
          y="375.61062"
-         id="tspan438">-1 Gérer</tspan></text>
+         id="tspan437">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
@@ -3170,24 +3161,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-79);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.13934"
          y="342.27734"
-         id="tspan439">Vous avez respecté </tspan><tspan
+         id="tspan438">Vous avez respecté </tspan><tspan
          x="350.90756"
          y="348.944"
-         id="tspan440">toutes les </tspan><tspan
+         id="tspan439">toutes les </tspan><tspan
          x="343.0573"
          y="355.61065"
-         id="tspan441">échéances d'un </tspan><tspan
+         id="tspan440">échéances d'un </tspan><tspan
          x="355.33204"
          y="362.27731"
-         id="tspan442">projet.
+         id="tspan441">projet.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan443">
+         id="tspan442">
 </tspan><tspan
          x="343.7409"
          y="375.61062"
-         id="tspan444">+1 Administrer</tspan></text>
+         id="tspan443">+1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,95.703646,49.944479)"
@@ -3195,27 +3186,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-02);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.556"
          y="342.27734"
-         id="tspan445">Vous avez oublié </tspan><tspan
+         id="tspan444">Vous avez oublié </tspan><tspan
          x="342.77866"
          y="348.944"
-         id="tspan446">de consulter les </tspan><tspan
+         id="tspan445">de consulter les </tspan><tspan
          x="349.65626"
          y="355.61065"
-         id="tspan447">ressources </tspan><tspan
+         id="tspan446">ressources </tspan><tspan
          x="345.23178"
          y="362.27731"
-         id="tspan448">partagées par </tspan><tspan
+         id="tspan447">partagées par </tspan><tspan
          x="341.43751"
          y="368.94397"
-         id="tspan449">votre professeur.
+         id="tspan448">votre professeur.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan450">
+         id="tspan449">
 </tspan><tspan
          x="352.98048"
          y="382.27728"
-         id="tspan451">-1 Gérer</tspan></text>
+         id="tspan450">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,111.70365,34.456378)"
@@ -3223,24 +3214,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-853);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="344.72006"
          y="342.27734"
-         id="tspan452">Vous avez mal </tspan><tspan
+         id="tspan451">Vous avez mal </tspan><tspan
          x="339.81772"
          y="348.944"
-         id="tspan453">planifié les tâches </tspan><tspan
+         id="tspan452">planifié les tâches </tspan><tspan
          x="342.31512"
          y="355.61065"
-         id="tspan454">à réaliser sur un </tspan><tspan
+         id="tspan453">à réaliser sur un </tspan><tspan
          x="355.33204"
          y="362.27731"
-         id="tspan455">projet.
+         id="tspan454">projet.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan456">
+         id="tspan455">
 </tspan><tspan
          x="348.47657"
          y="375.61062"
-         id="tspan457">-1 Conduire</tspan></text>
+         id="tspan456">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,17.954774)"
@@ -3248,29 +3239,29 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-853-2);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="343.3659"
          y="342.27734"
-         id="tspan458">Début du stage
+         id="tspan457">Début du stage
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan459">
+         id="tspan458">
 </tspan><tspan
          x="338.20965"
          y="355.61065"
-         id="tspan460">Vous débutez votre </tspan><tspan
+         id="tspan459">Vous débutez votre </tspan><tspan
          x="356.56641"
          y="362.27731"
-         id="tspan461">stage
+         id="tspan460">stage
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan462">
+         id="tspan461">
 </tspan><tspan
          x="338.59637"
          y="375.61062"
-         id="tspan463">Rendez-vous en fin </tspan><tspan
+         id="tspan462">Rendez-vous en fin </tspan><tspan
          x="353.2474"
          y="382.27728"
-         id="tspan464">d'année</tspan></text>
+         id="tspan463">d'année</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,111.70365,49.672211)"
@@ -3278,54 +3269,51 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-853-2-6);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="343.3659"
          y="342.27734"
-         id="tspan465">Début du stage
+         id="tspan464">Début du stage
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan466">
+         id="tspan465">
 </tspan><tspan
          x="338.20965"
          y="355.61065"
-         id="tspan467">Vous débutez votre </tspan><tspan
+         id="tspan466">Vous débutez votre </tspan><tspan
          x="356.56641"
          y="362.27731"
-         id="tspan468">stage
+         id="tspan467">stage
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan469">
+         id="tspan468">
 </tspan><tspan
          x="338.59637"
          y="375.61062"
-         id="tspan470">Rendez-vous en fin </tspan><tspan
+         id="tspan469">Rendez-vous en fin </tspan><tspan
          x="353.2474"
          y="382.27728"
-         id="tspan471">d'année</tspan></text>
+         id="tspan470">d'année</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,127.70365,34.244279)"
        id="text30-6-7-6-463"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-70);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="339.04168"
+         x="339.59897"
          y="342.27734"
-         id="tspan472">Vous avez anticipé </tspan><tspan
-         x="343.53256"
+         id="tspan471">Vous avez été pris </tspan><tspan
+         x="337.58074"
          y="348.944"
-         id="tspan473">un problème et </tspan><tspan
-         x="347.38412"
+         id="tspan472">en train de boire du </tspan><tspan
+         x="345.00262"
          y="355.61065"
-         id="tspan474">proposé une </tspan><tspan
-         x="341.28777"
-         y="362.27731"
-         id="tspan475">solution efficace.
+         id="tspan473">café en classe
 </tspan><tspan
          x="363.96875"
-         y="368.94397"
-         id="tspan476">
+         y="362.27731"
+         id="tspan474">
 </tspan><tspan
-         x="350.86068"
-         y="375.61062"
-         id="tspan477"> +1 Gérer</tspan></text>
+         x="346.75392"
+         y="368.94397"
+         id="tspan475">-2 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,143.70365,33.293717)"
@@ -3333,27 +3321,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-76);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.44663"
          y="342.27734"
-         id="tspan478">Vous avez appris </tspan><tspan
+         id="tspan476">Vous avez appris </tspan><tspan
          x="346.74741"
          y="348.944"
-         id="tspan479">une nouvelle </tspan><tspan
+         id="tspan477">une nouvelle </tspan><tspan
          x="348.35808"
          y="355.61065"
-         id="tspan480">technologie </tspan><tspan
+         id="tspan478">technologie </tspan><tspan
          x="345.10157"
          y="362.27731"
-         id="tspan481">pendant votre </tspan><tspan
+         id="tspan479">pendant votre </tspan><tspan
          x="348.0547"
          y="368.94397"
-         id="tspan482">temps libre.
+         id="tspan480">temps libre.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan483">
+         id="tspan481">
 </tspan><tspan
          x="348.57423"
          y="382.27728"
-         id="tspan484">+1 Réaliser</tspan></text>
+         id="tspan482">+1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,159.70365,34.114127)"
@@ -3361,24 +3349,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-041);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="337.81642"
          y="342.27734"
-         id="tspan485">Vous avez noté une </tspan><tspan
+         id="tspan483">Vous avez noté une </tspan><tspan
          x="340.13934"
          y="348.944"
-         id="tspan486">échéance critique </tspan><tspan
+         id="tspan484">échéance critique </tspan><tspan
          x="347.75261"
          y="355.61065"
-         id="tspan487">par manque </tspan><tspan
+         id="tspan485">par manque </tspan><tspan
          x="344.12501"
          y="362.27731"
-         id="tspan488">d'organisation.
+         id="tspan486">d'organisation.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan489">
+         id="tspan487">
 </tspan><tspan
          x="348.47657"
          y="375.61062"
-         id="tspan490">-1 Conduire</tspan></text>
+         id="tspan488">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,159.70365,-14.508242)"
@@ -3386,27 +3374,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-74);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.54428"
          y="342.27734"
-         id="tspan491">Vous avez pris le </tspan><tspan
+         id="tspan489">Vous avez pris le </tspan><tspan
          x="337.74351"
          y="348.944"
-         id="tspan492">temps d'aider votre </tspan><tspan
+         id="tspan490">temps d'aider votre </tspan><tspan
          x="352.38933"
          y="355.61065"
-         id="tspan493">équipe à </tspan><tspan
+         id="tspan491">équipe à </tspan><tspan
          x="343.61329"
          y="362.27731"
-         id="tspan494">comprendre un </tspan><tspan
+         id="tspan492">comprendre un </tspan><tspan
          x="342.04038"
          y="368.94397"
-         id="tspan495">concept difficile.
+         id="tspan493">concept difficile.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan496">
+         id="tspan494">
 </tspan><tspan
          x="345.48178"
          y="382.27728"
-         id="tspan497">+1 Collaborer</tspan></text>
+         id="tspan495">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,159.70365,-30.763697)"
@@ -3414,24 +3402,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-44);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="350.54037"
          y="342.27734"
-         id="tspan498">Vous avez </tspan><tspan
+         id="tspan496">Vous avez </tspan><tspan
          x="344.64584"
          y="348.944"
-         id="tspan499">documenté un </tspan><tspan
+         id="tspan497">documenté un </tspan><tspan
          x="338.49611"
          y="355.61065"
-         id="tspan500">projet pour assurer </tspan><tspan
+         id="tspan498">projet pour assurer </tspan><tspan
          x="337.8633"
          y="362.27731"
-         id="tspan501">sa compréhension. 
+         id="tspan499">sa compréhension. 
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan502">
+         id="tspan500">
 </tspan><tspan
          x="343.7409"
          y="375.61062"
-         id="tspan503">+1 Administrer</tspan></text>
+         id="tspan501">+1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,191.70365,-62.074391)"
@@ -3439,21 +3427,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-16);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.78127"
          y="342.27734"
-         id="tspan504">League of Legends
+         id="tspan502">League of Legends
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan505">
+         id="tspan503">
 </tspan><tspan
          x="345.51043"
          y="355.61065"
-         id="tspan506">Vous devenez </tspan><tspan
+         id="tspan504">Vous devenez </tspan><tspan
          x="340.24871"
          y="362.27731"
-         id="tspan507">accro à League of </tspan><tspan
+         id="tspan505">accro à League of </tspan><tspan
          x="352.78386"
          y="368.94397"
-         id="tspan508">Legends</tspan></text>
+         id="tspan506">Legends</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,207.70365,-46.445983)"
@@ -3461,21 +3449,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-57);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="352.25782"
          y="342.27734"
-         id="tspan509">Job d'été
+         id="tspan507">Job d'été
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan510">
+         id="tspan508">
 </tspan><tspan
          x="339.39324"
          y="355.61065"
-         id="tspan511">Vous ramassez les </tspan><tspan
+         id="tspan509">Vous ramassez les </tspan><tspan
          x="344.51173"
          y="362.27731"
-         id="tspan512">cocos dans les </tspan><tspan
+         id="tspan510">cocos dans les </tspan><tspan
          x="353.4987"
          y="368.94397"
-         id="tspan513">champs</tspan></text>
+         id="tspan511">champs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,223.70365,-62.13252)"
@@ -3483,52 +3471,46 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-78);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.98439"
          y="342.27734"
-         id="tspan514">Espace et énergie
+         id="tspan512">Espace et énergie
 </tspan><tspan
          x="363.96875"
          y="348.944"
-         id="tspan515">
+         id="tspan513">
 </tspan><tspan
          x="338.4896"
          y="355.61065"
-         id="tspan516">Vous avez ascendu </tspan><tspan
+         id="tspan514">Vous avez ascendu </tspan><tspan
          x="347.431"
          y="362.27731"
-         id="tspan517">vers un plan </tspan><tspan
+         id="tspan515">vers un plan </tspan><tspan
          x="348.75782"
          y="368.94397"
-         id="tspan518">d'existence </tspan><tspan
+         id="tspan516">d'existence </tspan><tspan
          x="351.29167"
          y="375.61062"
-         id="tspan519">supérieur</tspan></text>
+         id="tspan517">supérieur</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,239.70365,-63.487199)"
        id="text30-6-7-6-908"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-691);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="340.54298"
+         x="342.5534"
          y="342.27734"
-         id="tspan520">Vous avez pris du </tspan><tspan
-         x="337.98048"
+         id="tspan518">Vous n'avez pas </tspan><tspan
+         x="337.83986"
          y="348.944"
-         id="tspan521">retard sur un projet </tspan><tspan
-         x="347.01303"
-         y="355.61065"
-         id="tspan522">à cause d'un </tspan><tspan
-         x="348.84246"
-         y="362.27731"
-         id="tspan523">manque de </tspan><tspan
-         x="346.73439"
-         y="368.94397"
-         id="tspan524">planification.
+         id="tspan519">trouvé d'alternance
 </tspan><tspan
          x="363.96875"
-         y="375.61062"
-         id="tspan525">
+         y="355.61065"
+         id="tspan520">
 </tspan><tspan
-         x="348.47657"
-         y="382.27728"
-         id="tspan526">-1 Conduire</tspan></text>
+         x="338.56772"
+         y="362.27731"
+         id="tspan521">Passez en Parcours </tspan><tspan
+         x="358.93881"
+         y="368.94397"
+         id="tspan522">C FI</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,255.70365,-62.445983)"
@@ -3536,24 +3518,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-71);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.35548"
          y="342.27734"
-         id="tspan527">Vous avez refusé </tspan><tspan
+         id="tspan523">Vous avez refusé </tspan><tspan
          x="350.51042"
          y="348.944"
-         id="tspan528">d'aider un </tspan><tspan
+         id="tspan524">d'aider un </tspan><tspan
          x="346.39454"
          y="355.61065"
-         id="tspan529">camarade en </tspan><tspan
+         id="tspan525">camarade en </tspan><tspan
          x="351.52605"
          y="362.27731"
-         id="tspan530">difficulté.
+         id="tspan526">difficulté.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan531">
+         id="tspan527">
 </tspan><tspan
          x="346.75392"
          y="375.61062"
-         id="tspan532">-1 Collaborer</tspan></text>
+         id="tspan528">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,-62.055526)"
@@ -3561,27 +3543,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-573);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.06251"
          y="342.27734"
-         id="tspan533">Vous avez géré les </tspan><tspan
+         id="tspan529">Vous avez géré les </tspan><tspan
          x="348.71355"
          y="348.944"
-         id="tspan534">priorités de </tspan><tspan
+         id="tspan530">priorités de </tspan><tspan
          x="341.71355"
          y="355.61065"
-         id="tspan535">manière efficace </tspan><tspan
+         id="tspan531">manière efficace </tspan><tspan
          x="346.9284"
          y="362.27731"
-         id="tspan536">sur un projet </tspan><tspan
+         id="tspan532">sur un projet </tspan><tspan
          x="350.26173"
          y="368.94397"
-         id="tspan537">complexe.
+         id="tspan533">complexe.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan538">
+         id="tspan534">
 </tspan><tspan
          x="347.20444"
          y="382.27728"
-         id="tspan539">+1 Conduire</tspan></text>
+         id="tspan535">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,-46.046817)"
@@ -3589,24 +3571,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-022);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="340.25392"
          y="342.27734"
-         id="tspan540">Vous avez soumis </tspan><tspan
+         id="tspan536">Vous avez soumis </tspan><tspan
          x="341.77215"
          y="348.944"
-         id="tspan541">un projet sans le </tspan><tspan
+         id="tspan537">un projet sans le </tspan><tspan
          x="354.42058"
          y="355.61065"
-         id="tspan542">testeur </tspan><tspan
+         id="tspan538">testeur </tspan><tspan
          x="344.8685"
          y="362.27731"
-         id="tspan543">suffisamment.
+         id="tspan539">suffisamment.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan544">
+         id="tspan540">
 </tspan><tspan
          x="349.84636"
          y="375.61062"
-         id="tspan545">-1 Réaliser</tspan></text>
+         id="tspan541">-1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,-29.786513)"
@@ -3614,49 +3596,55 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-60);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.85418"
          y="342.27734"
-         id="tspan546">Vous avez négligé </tspan><tspan
+         id="tspan542">Vous avez négligé </tspan><tspan
          x="339.72527"
          y="348.944"
-         id="tspan547">vos révisions pour </tspan><tspan
+         id="tspan543">vos révisions pour </tspan><tspan
          x="349.00652"
          y="355.61065"
-         id="tspan548">un examen </tspan><tspan
+         id="tspan544">un examen </tspan><tspan
          x="349.94662"
          y="362.27731"
-         id="tspan549">important.
+         id="tspan545">important.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan550">
+         id="tspan546">
 </tspan><tspan
          x="352.98048"
          y="375.61062"
-         id="tspan551">-1 Gérer</tspan></text>
+         id="tspan547">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26457315,0,0,0.26458333,271.70365,-14.570263)"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,-15.741632)"
        id="text30-6-7-6-128"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-445);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="339.75652"
-         y="342.27734"
-         id="tspan552">Vous avez aidé un </tspan><tspan
-         x="346.39454"
-         y="348.944"
-         id="tspan553">camarade en </tspan><tspan
-         x="343.12241"
-         y="355.61065"
-         id="tspan554">difficulté sur un </tspan><tspan
-         x="355.33204"
-         y="362.27731"
-         id="tspan555">projet.
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-445);shape-padding:1.85861;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="337.37502"
+         y="340.31054"
+         id="tspan548">Vous avez oublié de </tspan><tspan
+         x="336.59767"
+         y="346.9772"
+         id="tspan549">vous déconnecter et </tspan><tspan
+         x="348.22657"
+         y="353.64386"
+         id="tspan550">quelqu'un a </tspan><tspan
+         x="343.64715"
+         y="360.31051"
+         id="tspan551">supprimé votre </tspan><tspan
+         x="355.4987"
+         y="366.97717"
+         id="tspan552">travail
 </tspan><tspan
          x="363.96875"
-         y="368.94397"
-         id="tspan556">
+         y="373.64383"
+         id="tspan553">
 </tspan><tspan
-         x="345.48178"
-         y="375.61062"
-         id="tspan557">+1 Collaborer</tspan></text>
+         x="342.37762"
+         y="380.31048"
+         id="tspan554">-1 sur toutes les </tspan><tspan
+         x="346.06772"
+         y="386.97714"
+         id="tspan555">compétences</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,0.91196827)"
@@ -3664,27 +3652,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-21);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.22397"
          y="342.27734"
-         id="tspan558">Vous avez organisé </tspan><tspan
+         id="tspan556">Vous avez organisé </tspan><tspan
          x="347.97918"
          y="348.944"
-         id="tspan559">une réunion </tspan><tspan
+         id="tspan557">une réunion </tspan><tspan
          x="341.17189"
          y="355.61065"
-         id="tspan560">d'équipe efficace </tspan><tspan
+         id="tspan558">d'équipe efficace </tspan><tspan
          x="346.81642"
          y="362.27731"
-         id="tspan561">avec un plan </tspan><tspan
+         id="tspan559">avec un plan </tspan><tspan
          x="346.20574"
          y="368.94397"
-         id="tspan562">d'action clair.
+         id="tspan560">d'action clair.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan563">
+         id="tspan561">
 </tspan><tspan
          x="347.20444"
          y="382.27728"
-         id="tspan564">+1 Conduire</tspan></text>
+         id="tspan562">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,18.229847)"
@@ -3692,24 +3680,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-603);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.32293"
          y="342.27734"
-         id="tspan565">Vous avez réussi à </tspan><tspan
+         id="tspan563">Vous avez réussi à </tspan><tspan
          x="342.0573"
          y="348.944"
-         id="tspan566">résoudre un bug </tspan><tspan
+         id="tspan564">résoudre un bug </tspan><tspan
          x="339.45705"
          y="355.61065"
-         id="tspan567">complexe avant la </tspan><tspan
+         id="tspan565">complexe avant la </tspan><tspan
          x="348.75392"
          y="362.27731"
-         id="tspan568">date limite.
+         id="tspan566">date limite.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan569">
+         id="tspan567">
 </tspan><tspan
          x="348.57423"
          y="375.61062"
-         id="tspan570">+1 Réaliser</tspan></text>
+         id="tspan568">+1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,33.383841)"
@@ -3717,24 +3705,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-99);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="340.25392"
          y="342.27734"
-         id="tspan571">Vous avez soumis </tspan><tspan
+         id="tspan569">Vous avez soumis </tspan><tspan
          x="346.28647"
          y="348.944"
-         id="tspan572">un document </tspan><tspan
+         id="tspan570">un document </tspan><tspan
          x="345.45183"
          y="355.61065"
-         id="tspan573">incomplet par </tspan><tspan
+         id="tspan571">incomplet par </tspan><tspan
          x="348.52605"
          y="362.27731"
-         id="tspan574">inattention.
+         id="tspan572">inattention.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan575">
+         id="tspan573">
 </tspan><tspan
          x="345.01303"
          y="375.61062"
-         id="tspan576">-1 Administrer</tspan></text>
+         id="tspan574">-1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,271.70365,64.427452)"
@@ -3742,27 +3730,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-681);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.556"
          y="342.27734"
-         id="tspan577">Vous avez oublié </tspan><tspan
+         id="tspan575">Vous avez oublié </tspan><tspan
          x="344.44272"
          y="348.944"
-         id="tspan578">d'apporter des </tspan><tspan
+         id="tspan576">d'apporter des </tspan><tspan
          x="349.65626"
          y="355.61065"
-         id="tspan579">ressources </tspan><tspan
+         id="tspan577">ressources </tspan><tspan
          x="340.806"
          y="362.27731"
-         id="tspan580">importantes pour </tspan><tspan
+         id="tspan578">importantes pour </tspan><tspan
          x="351.10417"
          y="368.94397"
-         id="tspan581">un projet.
+         id="tspan579">un projet.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan582">
+         id="tspan580">
 </tspan><tspan
          x="345.01303"
          y="382.27728"
-         id="tspan583">-1 Administrer</tspan></text>
+         id="tspan581">-1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,65.684176)"
@@ -3770,24 +3758,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-39);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.22397"
          y="342.27734"
-         id="tspan584">Vous avez organisé </tspan><tspan
+         id="tspan582">Vous avez organisé </tspan><tspan
          x="344.45834"
          y="348.944"
-         id="tspan585">une séance de </tspan><tspan
+         id="tspan583">une séance de </tspan><tspan
          x="339.31642"
          y="355.61065"
-         id="tspan586">brainstorming très </tspan><tspan
+         id="tspan584">brainstorming très </tspan><tspan
          x="348.90496"
          y="362.27731"
-         id="tspan587">productive.
+         id="tspan585">productive.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan588">
+         id="tspan586">
 </tspan><tspan
          x="347.20444"
          y="375.61062"
-         id="tspan589">+1 Conduire</tspan></text>
+         id="tspan587">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,64.033439)"
@@ -3795,27 +3783,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-48);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="337.57684"
          y="342.27734"
-         id="tspan590">Vous avez réussi un </tspan><tspan
+         id="tspan588">Vous avez réussi un </tspan><tspan
          x="352.88673"
          y="348.944"
-         id="tspan591">exercice </tspan><tspan
+         id="tspan589">exercice </tspan><tspan
          x="341.82814"
          y="355.61065"
-         id="tspan592">particulièrement </tspan><tspan
+         id="tspan590">particulièrement </tspan><tspan
          x="341.24611"
          y="362.27731"
-         id="tspan593">difficile dans une </tspan><tspan
+         id="tspan591">difficile dans une </tspan><tspan
          x="338.63934"
          y="368.94397"
-         id="tspan594">matière technique.
+         id="tspan592">matière technique.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan595">
+         id="tspan593">
 </tspan><tspan
          x="348.57423"
          y="382.27728"
-         id="tspan596">+1 Réaliser</tspan></text>
+         id="tspan594">+1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,49.675466)"
@@ -3823,24 +3811,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-561);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.74741"
          y="342.27734"
-         id="tspan597">Vous avez manqué </tspan><tspan
+         id="tspan595">Vous avez manqué </tspan><tspan
          x="337.59116"
          y="348.944"
-         id="tspan598">un cours clé pour la </tspan><tspan
+         id="tspan596">un cours clé pour la </tspan><tspan
          x="343.4297"
          y="355.61065"
-         id="tspan599">compréhension </tspan><tspan
+         id="tspan597">compréhension </tspan><tspan
          x="348.67839"
          y="362.27731"
-         id="tspan600">d'un projet.
+         id="tspan598">d'un projet.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan601">
+         id="tspan599">
 </tspan><tspan
          x="352.98048"
          y="375.61062"
-         id="tspan602">-1 Gérer</tspan></text>
+         id="tspan600">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,49.554022)"
@@ -3848,24 +3836,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-95);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.74741"
          y="342.27734"
-         id="tspan603">Vous avez manqué </tspan><tspan
+         id="tspan601">Vous avez manqué </tspan><tspan
          x="347.97918"
          y="348.944"
-         id="tspan604">une réunion </tspan><tspan
+         id="tspan602">une réunion </tspan><tspan
          x="352.44532"
          y="355.61065"
-         id="tspan605">d'équipe </tspan><tspan
+         id="tspan603">d'équipe </tspan><tspan
          x="348.306"
          y="362.27731"
-         id="tspan606">importante.
+         id="tspan604">importante.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan607">
+         id="tspan605">
 </tspan><tspan
          x="346.75392"
          y="375.61062"
-         id="tspan608">-1 Collaborer</tspan></text>
+         id="tspan606">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,34.326226)"
@@ -3873,24 +3861,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-793);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.74871"
          y="342.27734"
-         id="tspan609">Vous avez conçu </tspan><tspan
+         id="tspan607">Vous avez conçu </tspan><tspan
          x="341.22137"
          y="348.944"
-         id="tspan610">une présentation </tspan><tspan
+         id="tspan608">une présentation </tspan><tspan
          x="341.71746"
          y="355.61065"
-         id="tspan611">impressionnante </tspan><tspan
+         id="tspan609">impressionnante </tspan><tspan
          x="337.2383"
          y="362.27731"
-         id="tspan612">pour un client fictif. 
+         id="tspan610">pour un client fictif. 
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan613">
+         id="tspan611">
 </tspan><tspan
          x="347.20444"
          y="375.61062"
-         id="tspan614">+1 Conduire</tspan></text>
+         id="tspan612">+1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,32.357963)"
@@ -3898,30 +3886,30 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-684);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="350.54037"
          y="342.27734"
-         id="tspan615">Vous avez </tspan><tspan
+         id="tspan613">Vous avez </tspan><tspan
          x="351.27475"
          y="348.944"
-         id="tspan616">contribué </tspan><tspan
+         id="tspan614">contribué </tspan><tspan
          x="343.18491"
          y="355.61065"
-         id="tspan617">activement à la </tspan><tspan
+         id="tspan615">activement à la </tspan><tspan
          x="344.07683"
          y="362.27731"
-         id="tspan618">résolution d'un </tspan><tspan
+         id="tspan616">résolution d'un </tspan><tspan
          x="348.46095"
          y="368.94397"
-         id="tspan619">conflit dans </tspan><tspan
+         id="tspan617">conflit dans </tspan><tspan
          x="352.54949"
          y="375.61062"
-         id="tspan620">l'équipe.
+         id="tspan618">l'équipe.
 </tspan><tspan
          x="363.96875"
          y="382.27728"
-         id="tspan621">
+         id="tspan619">
 </tspan><tspan
          x="345.48178"
          y="388.94394"
-         id="tspan622">+1 Collaborer</tspan></text>
+         id="tspan620">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,17.545312)"
@@ -3929,21 +3917,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-795);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="341.556"
          y="342.27734"
-         id="tspan623">Vous avez oublié </tspan><tspan
+         id="tspan621">Vous avez oublié </tspan><tspan
          x="337.60288"
          y="348.944"
-         id="tspan624">de sauvegarder vos </tspan><tspan
+         id="tspan622">de sauvegarder vos </tspan><tspan
          x="353.41798"
          y="355.61065"
-         id="tspan625">fichiers.
+         id="tspan623">fichiers.
 </tspan><tspan
          x="363.96875"
          y="362.27731"
-         id="tspan626">
+         id="tspan624">
 </tspan><tspan
          x="345.01303"
          y="368.94397"
-         id="tspan627">-1 Administrer</tspan></text>
+         id="tspan625">-1 Administrer</tspan></text>
     <path
        id="rect214-2-4-9-2-9-2-1"
        style="display:inline;fill:#2ccf29;stroke:#000000;stroke-width:0.15"
@@ -3981,30 +3969,30 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-31);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.20314"
          y="342.27734"
-         id="tspan628">Vous avez pris des </tspan><tspan
+         id="tspan626">Vous avez pris des </tspan><tspan
          x="337.79429"
          y="348.944"
-         id="tspan629">notes détaillées sur </tspan><tspan
+         id="tspan627">notes détaillées sur </tspan><tspan
          x="346.74741"
          y="355.61065"
-         id="tspan630">une nouvelle </tspan><tspan
+         id="tspan628">une nouvelle </tspan><tspan
          x="340.20574"
          y="362.27731"
-         id="tspan631">technologie et les </tspan><tspan
+         id="tspan629">technologie et les </tspan><tspan
          x="343.40236"
          y="368.94397"
-         id="tspan632">avez partagées </tspan><tspan
+         id="tspan630">avez partagées </tspan><tspan
          x="339.91277"
          y="375.61062"
-         id="tspan633">avec votre classe.
+         id="tspan631">avec votre classe.
 </tspan><tspan
          x="363.96875"
          y="382.27728"
-         id="tspan634">
+         id="tspan632">
 </tspan><tspan
          x="345.48178"
          y="388.94394"
-         id="tspan635">+1 Collaborer</tspan></text>
+         id="tspan633">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,-14.796722)"
@@ -4012,27 +4000,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-690);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="342.15757"
          y="342.27734"
-         id="tspan636">Vous avez laissé </tspan><tspan
+         id="tspan634">Vous avez laissé </tspan><tspan
          x="347.08985"
          y="348.944"
-         id="tspan637">votre équipe </tspan><tspan
+         id="tspan635">votre équipe </tspan><tspan
          x="345.07032"
          y="355.61065"
-         id="tspan638">travailler sans </tspan><tspan
+         id="tspan636">travailler sans </tspan><tspan
          x="351.1224"
          y="362.27731"
-         id="tspan639">participer </tspan><tspan
+         id="tspan637">participer </tspan><tspan
          x="348.04168"
          y="368.94397"
-         id="tspan640">activement.
+         id="tspan638">activement.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan641">
+         id="tspan639">
 </tspan><tspan
          x="346.75392"
          y="382.27728"
-         id="tspan642">-1 Collaborer</tspan></text>
+         id="tspan640">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,-14.564927)"
@@ -4040,24 +4028,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-43);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="338.09767"
          y="342.27734"
-         id="tspan643">Vous avez perturbé </tspan><tspan
+         id="tspan641">Vous avez perturbé </tspan><tspan
          x="339.89845"
          y="348.944"
-         id="tspan644">le travail d'équipe </tspan><tspan
+         id="tspan642">le travail d'équipe </tspan><tspan
          x="339.92449"
          y="355.61065"
-         id="tspan645">par une mauvaise </tspan><tspan
+         id="tspan643">par une mauvaise </tspan><tspan
          x="342.49871"
          y="362.27731"
-         id="tspan646">communication.
+         id="tspan644">communication.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan647">
+         id="tspan645">
 </tspan><tspan
          x="346.75392"
          y="375.61062"
-         id="tspan648">-1 Collaborer</tspan></text>
+         id="tspan646">-1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,-30.975298)"
@@ -4065,27 +4053,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-38);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="350.54037"
          y="342.27734"
-         id="tspan649">Vous avez </tspan><tspan
+         id="tspan647">Vous avez </tspan><tspan
          x="344.6185"
          y="348.944"
-         id="tspan650">découvert une </tspan><tspan
+         id="tspan648">découvert une </tspan><tspan
          x="352.02996"
          y="355.61065"
-         id="tspan651">méthode </tspan><tspan
+         id="tspan649">méthode </tspan><tspan
          x="338.00392"
          y="362.27731"
-         id="tspan652">d'optimisation pour </tspan><tspan
+         id="tspan650">d'optimisation pour </tspan><tspan
          x="348.90886"
          y="368.94397"
-         id="tspan653">votre code.
+         id="tspan651">votre code.
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan654">
+         id="tspan652">
 </tspan><tspan
          x="351.70834"
          y="382.27728"
-         id="tspan655">+1 Gérer</tspan></text>
+         id="tspan653">+1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,-31.226894)"
@@ -4093,27 +4081,27 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-50);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="337.98179"
          y="342.27734"
-         id="tspan656">Vous avez assisté à </tspan><tspan
+         id="tspan654">Vous avez assisté à </tspan><tspan
          x="342.63934"
          y="348.944"
-         id="tspan657">la réalisation de </tspan><tspan
+         id="tspan655">la réalisation de </tspan><tspan
          x="343.73699"
          y="355.61065"
-         id="tspan658">vos camarades </tspan><tspan
+         id="tspan656">vos camarades </tspan><tspan
          x="347.68621"
          y="362.27731"
-         id="tspan659">dans la d'un </tspan><tspan
+         id="tspan657">dans la d'un </tspan><tspan
          x="337.48439"
          y="368.94397"
-         id="tspan660">exercice complexe. 
+         id="tspan658">exercice complexe. 
 </tspan><tspan
          x="363.96875"
          y="375.61062"
-         id="tspan661">
+         id="tspan659">
 </tspan><tspan
          x="345.48178"
          y="382.27728"
-         id="tspan662">+1 Collaborer</tspan></text>
+         id="tspan660">+1 Collaborer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,-45.543626)"
@@ -4121,21 +4109,21 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-703);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="340.25392"
          y="342.27734"
-         id="tspan663">Vous avez soumis </tspan><tspan
+         id="tspan661">Vous avez soumis </tspan><tspan
          x="339.21486"
          y="348.944"
-         id="tspan664">un projet avec des </tspan><tspan
+         id="tspan662">un projet avec des </tspan><tspan
          x="340.4297"
          y="355.61065"
-         id="tspan665">bugs non résolus.
+         id="tspan663">bugs non résolus.
 </tspan><tspan
          x="363.96875"
          y="362.27731"
-         id="tspan666">
+         id="tspan664">
 </tspan><tspan
          x="349.84636"
          y="368.94397"
-         id="tspan667">-1 Réaliser</tspan></text>
+         id="tspan665">-1 Réaliser</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,-46.193334)"
@@ -4143,24 +4131,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-01);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.85418"
          y="342.27734"
-         id="tspan668">Vous avez négligé </tspan><tspan
+         id="tspan666">Vous avez négligé </tspan><tspan
          x="340.02736"
          y="348.944"
-         id="tspan669">une tâche confiée </tspan><tspan
+         id="tspan667">une tâche confiée </tspan><tspan
          x="343.78907"
          y="355.61065"
-         id="tspan670">à votre chef de </tspan><tspan
+         id="tspan668">à votre chef de </tspan><tspan
          x="355.33204"
          y="362.27731"
-         id="tspan671">projet.
+         id="tspan669">projet.
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan672">
+         id="tspan670">
 </tspan><tspan
          x="348.47657"
          y="375.61062"
-         id="tspan673">-1 Conduire</tspan></text>
+         id="tspan671">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,287.70365,-61.673779)"
@@ -4168,24 +4156,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-992);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="339.28778"
          y="342.27734"
-         id="tspan674">Vous avez terminé </tspan><tspan
+         id="tspan672">Vous avez terminé </tspan><tspan
          x="347.77345"
          y="348.944"
-         id="tspan675">un projet en </tspan><tspan
+         id="tspan673">un projet en </tspan><tspan
          x="346.07293"
          y="355.61065"
-         id="tspan676">avance sur le </tspan><tspan
+         id="tspan674">avance sur le </tspan><tspan
          x="340.34767"
          y="362.27731"
-         id="tspan677">calendrier prévu. 
+         id="tspan675">calendrier prévu. 
 </tspan><tspan
          x="363.96875"
          y="368.94397"
-         id="tspan678">
+         id="tspan676">
 </tspan><tspan
          x="343.7409"
          y="375.61062"
-         id="tspan679">+1 Administrer</tspan></text>
+         id="tspan677">+1 Administrer</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457315,0,0,0.26458333,303.70365,-64.232071)"
@@ -4193,117 +4181,132 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-65);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="350.54037"
          y="342.27734"
-         id="tspan680">Vous avez </tspan><tspan
+         id="tspan678">Vous avez </tspan><tspan
          x="343.71355"
          y="348.944"
-         id="tspan681">implémenté un </tspan><tspan
+         id="tspan679">implémenté un </tspan><tspan
          x="350.64194"
          y="355.61065"
-         id="tspan682">processus </tspan><tspan
+         id="tspan680">processus </tspan><tspan
          x="341.46616"
          y="362.27731"
-         id="tspan683">automatisé qui a </tspan><tspan
+         id="tspan681">automatisé qui a </tspan><tspan
          x="339.69272"
          y="368.94397"
-         id="tspan684">gagné du temps à </tspan><tspan
+         id="tspan682">gagné du temps à </tspan><tspan
          x="346.2422"
          y="375.61062"
-         id="tspan685">votre équipe.
+         id="tspan683">votre équipe.
 </tspan><tspan
          x="363.96875"
          y="382.27728"
-         id="tspan686">
+         id="tspan684">
 </tspan><tspan
          x="351.70834"
          y="388.94394"
-         id="tspan687">+1 Gérer</tspan></text>
+         id="tspan685">+1 Gérer</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,15.699948,2.8236488)"
+       transform="matrix(0.26458333,0,0,0.26458333,-64.300054,-0.30001115)"
        id="text5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25);display:inline;fill:#000000;stroke:#000000;stroke-width:1.88976"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect25);shape-padding:3.93531;display:inline;fill:#000000;stroke:#000000;stroke-width:1.88976"><tspan
          x="891.41212"
-         y="338.45117"
+         y="342.38672"
+         id="tspan687"><tspan
+           style="stroke:none"
+           id="tspan686">Vous pouvez </tspan></tspan><tspan
+         x="889.66993"
+         y="349.05337"
          id="tspan689"><tspan
            style="stroke:none"
-           id="tspan688">Vous pouvez </tspan></tspan><tspan
-         x="880.74155"
-         y="345.11783"
+           id="tspan688">participer à la </tspan></tspan><tspan
+         x="895.95899"
+         y="355.72003"
          id="tspan691"><tspan
            style="stroke:none"
-           id="tspan690">participer à la soirée </tspan></tspan><tspan
-         x="888.31316"
-         y="351.78448"
+           id="tspan690">soirée de </tspan></tspan><tspan
+         x="892.49415"
+         y="362.38669"
          id="tspan693"><tspan
            style="stroke:none"
-           id="tspan692">de l'assocation </tspan></tspan><tspan
+           id="tspan692">l'assocation </tspan></tspan><tspan
          x="894.55274"
-         y="358.45114"
+         y="369.05334"
          id="tspan695"><tspan
            style="stroke:none"
            id="tspan694">étudiante.
 </tspan></tspan><tspan
          x="908.2207"
-         y="365.1178"
+         y="375.72"
          id="tspan697"><tspan
            style="stroke:none"
            id="tspan696">
 </tspan></tspan><tspan
          x="885.19598"
-         y="371.78445"
+         y="382.38665"
          id="tspan699"><tspan
            style="stroke:none"
            id="tspan698">Lancez votre dé :
 </tspan></tspan><tspan
          x="908.2207"
-         y="378.45111"
+         y="389.05331"
          id="tspan701"><tspan
            style="stroke:none"
            id="tspan700">
 </tspan></tspan><tspan
-         x="893.4004"
-         y="385.11776"
+         x="891.65431"
+         y="395.71997"
          id="tspan703"><tspan
            style="stroke:none"
-           id="tspan702">Chiffre pair </tspan></tspan><tspan
-         x="881.79233"
-         y="391.78442"
+           id="tspan702">Chiffre pair : </tspan></tspan><tspan
+         x="886.81577"
+         y="402.38662"
          id="tspan705"><tspan
            style="stroke:none"
-           id="tspan704">Casanova : gain sur </tspan></tspan><tspan
-         x="890.38998"
-         y="398.45108"
+           id="tspan704">Casanova : gain </tspan></tspan><tspan
+         x="885.36655"
+         y="409.05328"
          id="tspan707"><tspan
            style="stroke:none"
-           id="tspan706">Collaborer x5
-</tspan></tspan><tspan
-         x="908.2207"
-         y="405.11773"
+           id="tspan706">sur Collaborer x3 </tspan></tspan><tspan
+         x="892.23894"
+         y="415.71994"
          id="tspan709"><tspan
            style="stroke:none"
-           id="tspan708">
+           id="tspan708">cette année
 </tspan></tspan><tspan
-         x="890.06186"
-         y="411.78439"
+         x="908.2207"
+         y="422.38659"
          id="tspan711"><tspan
            style="stroke:none"
-           id="tspan710">Chiffre impair
+           id="tspan710">
 </tspan></tspan><tspan
-         x="881.10483"
-         y="418.45105"
+         x="888.31577"
+         y="429.05325"
          id="tspan713"><tspan
            style="stroke:none"
-           id="tspan712"> Geule de bois : tout </tspan></tspan><tspan
-         x="880.92254"
-         y="425.1177"
+           id="tspan712">Chiffre impair : </tspan></tspan><tspan
+         x="888.2129"
+         y="435.71991"
          id="tspan715"><tspan
            style="stroke:none"
-           id="tspan714">gain de compétence </tspan></tspan><tspan
-         x="884.36004"
-         y="431.78436"
+           id="tspan714">Geule de bois : </tspan></tspan><tspan
+         x="889.0228"
+         y="442.38656"
          id="tspan717"><tspan
            style="stroke:none"
-           id="tspan716">devient une perte</tspan></tspan></text>
+           id="tspan716">toute perte de </tspan></tspan><tspan
+         x="887.5866"
+         y="449.05322"
+         id="tspan719"><tspan
+           style="stroke:none"
+           id="tspan718">compétence x2 </tspan></tspan><tspan
+         x="881.91992"
+         y="455.46093"
+         id="tspan721"><tspan
+           dx="0 2.9322898 3.2812483 2.0911446 2.0911446 3.2812481 1.6953115 3.2682266 3.3802071 3.3802052 3.2812481"
+           style="stroke:none"
+           id="tspan720">cette année</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4313,20 +4316,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,51.635112,63.080272)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan718">PROJET
+         id="tspan722">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan719">
+         id="tspan723">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan720">Piochez une carte<tspan
+         id="tspan724">Piochez une carte<tspan
    y="31.95409"
-   id="tspan721"> </tspan></tspan><tspan
+   id="tspan725"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan722">projet.</tspan></text>
+         id="tspan726">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4336,20 +4339,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,83.385112,-16.91973)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan723">PROJET
+         id="tspan727">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan724">
+         id="tspan728">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan725">Piochez une carte<tspan
+         id="tspan729">Piochez une carte<tspan
    y="31.95409"
-   id="tspan726"> </tspan></tspan><tspan
+   id="tspan730"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan727">projet.</tspan></text>
+         id="tspan731">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4359,20 +4362,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,115.47779,-16.91973)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan728">PROJET
+         id="tspan732">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan729">
+         id="tspan733">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan730">Piochez une carte<tspan
+         id="tspan734">Piochez une carte<tspan
    y="31.95409"
-   id="tspan731"> </tspan></tspan><tspan
+   id="tspan735"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan732">projet.</tspan></text>
+         id="tspan736">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4382,20 +4385,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,227.47779,-0.76063414)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan733">PROJET
+         id="tspan737">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan734">
+         id="tspan738">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan735">Piochez une carte<tspan
+         id="tspan739">Piochez une carte<tspan
    y="31.95409"
-   id="tspan736"> </tspan></tspan><tspan
+   id="tspan740"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan737">projet.</tspan></text>
+         id="tspan741">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4405,20 +4408,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,243.47779,15.340574)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan738">PROJET
+         id="tspan742">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan739">
+         id="tspan743">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan740">Piochez une carte<tspan
+         id="tspan744">Piochez une carte<tspan
    y="31.95409"
-   id="tspan741"> </tspan></tspan><tspan
+   id="tspan745"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan742">projet.</tspan></text>
+         id="tspan746">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4428,20 +4431,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,259.47779,-0.39912156)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan743">PROJET
+         id="tspan747">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan744">
+         id="tspan748">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan745">Piochez une carte<tspan
+         id="tspan749">Piochez une carte<tspan
    y="31.95409"
-   id="tspan746"> </tspan></tspan><tspan
+   id="tspan750"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan747">projet.</tspan></text>
+         id="tspan751">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4451,20 +4454,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,355.4778,63.98348)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan748">PROJET
+         id="tspan752">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan749">
+         id="tspan753">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan750">Piochez une carte<tspan
+         id="tspan754">Piochez une carte<tspan
    y="31.95409"
-   id="tspan751"> </tspan></tspan><tspan
+   id="tspan755"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan752">projet.</tspan></text>
+         id="tspan756">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4474,20 +4477,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,323.4778,111.34058)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan753">PROJET
+         id="tspan757">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan754">
+         id="tspan758">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan755">Piochez une carte<tspan
+         id="tspan759">Piochez une carte<tspan
    y="31.95409"
-   id="tspan756"> </tspan></tspan><tspan
+   id="tspan760"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan757">projet.</tspan></text>
+         id="tspan761">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -4497,20 +4500,20 @@
        transform="matrix(1.0697031,0,0,0.99155597,147.47779,127.3009)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan758">PROJET
+         id="tspan762">PROJET
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan759">
+         id="tspan763">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan760">Piochez une carte<tspan
+         id="tspan764">Piochez une carte<tspan
    y="31.95409"
-   id="tspan761"> </tspan></tspan><tspan
+   id="tspan765"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan762">projet.</tspan></text>
+         id="tspan766">projet.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11662px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:16.0003;display:inline;fill:#000000;stroke:none;stroke-width:0.499988;stroke-opacity:1"
@@ -4520,63 +4523,63 @@
        transform="matrix(0.99997823,0,0,1.0000218,4.8763683e-4,-5.8010124)"><tspan
          x="112.00244"
          y="37.80019"
-         id="tspan764"><tspan
+         id="tspan768"><tspan
            style="stroke-width:0.499989"
-           id="tspan763">Fin d'année
+           id="tspan767">Fin d'année
 </tspan></tspan><tspan
          x="112.00244"
          y="40.445966"
-         id="tspan766"><tspan
+         id="tspan770"><tspan
            style="stroke-width:0.499989"
-           id="tspan765">
+           id="tspan769">
 </tspan></tspan><tspan
          x="112.00244"
          y="43.091741"
-         id="tspan768"><tspan
+         id="tspan772"><tspan
            style="stroke-width:0.499989"
-           id="tspan767">Passez à</tspan><tspan
+           id="tspan771">Passez à</tspan><tspan
            y="43.091741"
-           id="tspan769"> </tspan></tspan><tspan
+           id="tspan773"> </tspan></tspan><tspan
          x="112.00244"
          y="45.737516"
-         id="tspan771"><tspan
+         id="tspan775"><tspan
            style="stroke-width:0.499989"
-           id="tspan770">l'année</tspan><tspan
+           id="tspan774">l'année</tspan><tspan
            y="45.737516"
-           id="tspan772"> </tspan></tspan><tspan
+           id="tspan776"> </tspan></tspan><tspan
          x="112.00244"
          y="48.383291"
-         id="tspan774"><tspan
+         id="tspan778"><tspan
            style="stroke-width:0.499989"
-           id="tspan773">suivante ou</tspan><tspan
+           id="tspan777">suivante ou</tspan><tspan
            y="48.383291"
-           id="tspan775"> </tspan></tspan><tspan
+           id="tspan779"> </tspan></tspan><tspan
          x="112.00244"
          y="51.029066"
-         id="tspan777"><tspan
+         id="tspan781"><tspan
            style="stroke-width:0.499989"
-           id="tspan776">redoublez,</tspan><tspan
+           id="tspan780">redoublez,</tspan><tspan
            y="51.029066"
-           id="tspan778"> </tspan></tspan><tspan
+           id="tspan782"> </tspan></tspan><tspan
          x="112.00244"
          y="53.674841"
-         id="tspan780"><tspan
+         id="tspan784"><tspan
            style="stroke-width:0.499989"
-           id="tspan779">selon votre</tspan><tspan
+           id="tspan783">selon votre</tspan><tspan
            y="53.674841"
-           id="tspan781"> </tspan></tspan><tspan
+           id="tspan785"> </tspan></tspan><tspan
          x="112.00244"
          y="56.320615"
-         id="tspan783"><tspan
+         id="tspan787"><tspan
            style="stroke-width:0.499989"
-           id="tspan782">niveau de</tspan><tspan
+           id="tspan786">niveau de</tspan><tspan
            y="56.320615"
-           id="tspan784"> </tspan></tspan><tspan
+           id="tspan788"> </tspan></tspan><tspan
          x="112.00244"
          y="58.96639"
-         id="tspan786"><tspan
+         id="tspan790"><tspan
            style="stroke-width:0.499989"
-           id="tspan785">compétences</tspan></tspan></text>
+           id="tspan789">compétences</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-opacity:1"
@@ -4595,63 +4598,63 @@
        transform="matrix(0.99997823,0,0,1.0000218,144.00049,-8.6379037)"><tspan
          x="112.00244"
          y="37.80019"
-         id="tspan788"><tspan
+         id="tspan792"><tspan
            style="stroke-width:0.499989"
-           id="tspan787">Fin d'année
+           id="tspan791">Fin d'année
 </tspan></tspan><tspan
          x="112.00244"
          y="40.445966"
-         id="tspan790"><tspan
+         id="tspan794"><tspan
            style="stroke-width:0.499989"
-           id="tspan789">
+           id="tspan793">
 </tspan></tspan><tspan
          x="112.00244"
          y="43.091741"
-         id="tspan792"><tspan
+         id="tspan796"><tspan
    style="stroke-width:0.499989"
-   id="tspan791">Passez à</tspan><tspan
+   id="tspan795">Passez à</tspan><tspan
    y="43.091741"
-   id="tspan793"> </tspan></tspan><tspan
+   id="tspan797"> </tspan></tspan><tspan
          x="112.00244"
          y="45.737516"
-         id="tspan795"><tspan
+         id="tspan799"><tspan
    style="stroke-width:0.499989"
-   id="tspan794">l'année</tspan><tspan
+   id="tspan798">l'année</tspan><tspan
    y="45.737516"
-   id="tspan796"> </tspan></tspan><tspan
+   id="tspan800"> </tspan></tspan><tspan
          x="112.00244"
          y="48.383291"
-         id="tspan798"><tspan
+         id="tspan802"><tspan
    style="stroke-width:0.499989"
-   id="tspan797">suivante ou</tspan><tspan
+   id="tspan801">suivante ou</tspan><tspan
    y="48.383291"
-   id="tspan799"> </tspan></tspan><tspan
+   id="tspan803"> </tspan></tspan><tspan
          x="112.00244"
          y="51.029066"
-         id="tspan801"><tspan
+         id="tspan805"><tspan
    style="stroke-width:0.499989"
-   id="tspan800">redoublez,</tspan><tspan
+   id="tspan804">redoublez,</tspan><tspan
    y="51.029066"
-   id="tspan802"> </tspan></tspan><tspan
+   id="tspan806"> </tspan></tspan><tspan
          x="112.00244"
          y="53.674841"
-         id="tspan804"><tspan
+         id="tspan808"><tspan
    style="stroke-width:0.499989"
-   id="tspan803">selon votre</tspan><tspan
+   id="tspan807">selon votre</tspan><tspan
    y="53.674841"
-   id="tspan805"> </tspan></tspan><tspan
+   id="tspan809"> </tspan></tspan><tspan
          x="112.00244"
          y="56.320615"
-         id="tspan807"><tspan
+         id="tspan811"><tspan
    style="stroke-width:0.499989"
-   id="tspan806">niveau de</tspan><tspan
+   id="tspan810">niveau de</tspan><tspan
    y="56.320615"
-   id="tspan808"> </tspan></tspan><tspan
+   id="tspan812"> </tspan></tspan><tspan
          x="112.00244"
          y="58.96639"
-         id="tspan810"><tspan
+         id="tspan814"><tspan
            style="stroke-width:0.499989"
-           id="tspan809">compétences</tspan></tspan></text>
+           id="tspan813">compétences</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11662px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:36.5465;display:inline;fill:#000000;stroke:none;stroke-width:0.499988;stroke-opacity:1"
@@ -4661,7 +4664,7 @@
        transform="matrix(0.81525469,0,0,1.0000218,332.68989,-5.8010124)"><tspan
          x="112.00244"
          y="37.80019"
-         id="tspan811">FIN DE FORMATION
+         id="tspan815">FIN DE FORMATION
 </tspan></text>
     <text
        xml:space="preserve"
@@ -4670,7 +4673,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect56);display:inline;fill:#554400;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-opacity:1"><tspan
          x="217.14746"
          y="112.34766"
-         id="tspan812">REDOUBLEMENT</tspan></text>
+         id="tspan816">REDOUBLEMENT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,13.068946,0.22060661)"
@@ -4678,18 +4681,38 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect57);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="232.95867"
          y="471.54492"
-         id="tspan813">Journée banale
+         id="tspan817">Journée banale
 </tspan><tspan
          x="252.96777"
          y="478.21158"
-         id="tspan814">
+         id="tspan818">
 </tspan><tspan
          x="235.88836"
          y="484.87823"
-         id="tspan815">Journée sans </tspan><tspan
+         id="tspan819">Journée sans </tspan><tspan
          x="243.4183"
          y="491.54489"
-         id="tspan816">accroc.</tspan></text>
+         id="tspan820">accroc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff7b00;fill-opacity:1;stroke:none;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       x="270.99521"
+       y="136.00002"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan58"
+         style="stroke-width:0.6"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff7b00;fill-opacity:1;stroke:none;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       x="173.05389"
+       y="92.372177"
+       id="text59"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         style="stroke-width:0.6"
+         x="173.05389"
+         y="92.372177">s</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
