@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.1442756"
-     inkscape:cx="84.64397"
-     inkscape:cy="232.24627"
+     inkscape:zoom="0.5360689"
+     inkscape:cx="397.33698"
+     inkscape:cy="106.32962"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -72,7 +72,7 @@
        height="16.000002"
        x="15.999999"
        y="16.000002"
-       inkscape:label="case1" />
+       inkscape:label="case01" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
        id="case2"
@@ -80,7 +80,7 @@
        height="16.000002"
        x="15.999998"
        y="32.000004"
-       inkscape:label="case2" />
+       inkscape:label="case02" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
        id="case3"
@@ -88,7 +88,7 @@
        height="16.000002"
        x="15.999998"
        y="48.000004"
-       inkscape:label="case3" />
+       inkscape:label="case03" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
        id="case3-3"
@@ -96,6 +96,382 @@
        height="16.000002"
        x="16"
        y="64"
-       inkscape:label="case3" />
+       inkscape:label="case04" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5"
+       width="16"
+       height="16.000002"
+       x="15.999999"
+       y="80.000008"
+       inkscape:label="case05" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2"
+       width="16"
+       height="16.000002"
+       x="16"
+       y="96.000008"
+       inkscape:label="case06" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7"
+       width="16"
+       height="16.000002"
+       x="16"
+       y="112.00001"
+       inkscape:label="case07" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6"
+       width="16"
+       height="16.000002"
+       x="16"
+       y="128"
+       inkscape:label="case08" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6"
+       width="16"
+       height="16.000002"
+       x="32"
+       y="128"
+       inkscape:label="case09" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9"
+       width="16"
+       height="16.000002"
+       x="48"
+       y="128.00002"
+       inkscape:label="case10" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-3"
+       width="16"
+       height="16.000002"
+       x="64"
+       y="128"
+       inkscape:label="case11" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2"
+       width="16"
+       height="16.000002"
+       x="80"
+       y="128"
+       inkscape:label="case12" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-7"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="128.00002"
+       inkscape:label="case13" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="112.00001"
+       inkscape:label="case14" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-9"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="96.000008"
+       inkscape:label="case15" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-4"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="80.000008"
+       inkscape:label="case16" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-6"
+       width="16"
+       height="16.000002"
+       x="80"
+       y="80.000008"
+       inkscape:label="case17" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-3"
+       width="16"
+       height="16.000002"
+       x="64"
+       y="80.000008"
+       inkscape:label="case18" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-1"
+       width="16"
+       height="16.000002"
+       x="48"
+       y="80.000008"
+       inkscape:label="case19" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-7"
+       width="16"
+       height="16.000002"
+       x="31.999998"
+       y="80.000008"
+       inkscape:label="case20" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-93"
+       width="16"
+       height="16.000002"
+       x="32"
+       y="64.000008"
+       inkscape:label="case21" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-2"
+       width="16"
+       height="16.000002"
+       x="48"
+       y="64.000008"
+       inkscape:label="case22" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-44"
+       width="16"
+       height="16.000002"
+       x="64"
+       y="64.000008"
+       inkscape:label="case23" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-8"
+       width="16"
+       height="16.000002"
+       x="80"
+       y="64.000008"
+       inkscape:label="case24" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-43"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="64.000008"
+       inkscape:label="case25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-43-2"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="48.000004"
+       inkscape:label="case26" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-43-9"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="32.000004"
+       inkscape:label="case27" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none"
+       id="case3-3-5-2-7-6-6-9-2-2-43-4"
+       width="16"
+       height="16.000002"
+       x="96"
+       y="16.000002"
+       inkscape:label="case28" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.519724"
+       id="rect1"
+       width="47.780273"
+       height="16.080278"
+       x="48.259861"
+       y="15.959864"
+       inkscape:label="redouble1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect2"
+       width="16.259863"
+       height="32.040138"
+       x="31.999998"
+       y="15.959864"
+       inkscape:label="depart" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect3"
+       width="47.999996"
+       height="16.000002"
+       x="111.99999"
+       y="16.000002"
+       inkscape:label="vacances1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect4"
+       width="16.00001"
+       height="16.000002"
+       x="159.99998"
+       y="16.000002"
+       inkscape:label="case29" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect5"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="32.000004"
+       inkscape:label="case30" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect6"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="48.000004"
+       inkscape:label="case31" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect7"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="64.000008"
+       inkscape:label="case32" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect8"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="80"
+       inkscape:label="case33" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect9"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="96.000008"
+       inkscape:label="case34" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect10"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="112.00001"
+       inkscape:label="case35" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect11"
+       width="15.999999"
+       height="16.000002"
+       x="159.99998"
+       y="128.00002"
+       inkscape:label="case36" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect12"
+       width="15.999999"
+       height="16.000002"
+       x="176"
+       y="128.00002"
+       inkscape:label="case37" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect13"
+       width="15.999999"
+       height="16.000002"
+       x="191.99998"
+       y="128.00002"
+       inkscape:label="case38" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect14"
+       width="15.999999"
+       height="16.000002"
+       x="208"
+       y="128.00002"
+       inkscape:label="case39" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect15"
+       width="15.999999"
+       height="16.000002"
+       x="223.99998"
+       y="128.00002"
+       inkscape:label="case40" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect16"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="128.00002"
+       inkscape:label="case41" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect17"
+       width="16.000006"
+       height="16.000008"
+       x="240"
+       y="112.00001"
+       inkscape:label="case42" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect18"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="96.000008"
+       inkscape:label="case43" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect19"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="80"
+       inkscape:label="case44" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect20"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="64.000008"
+       inkscape:label="case45" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect21"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="48.000004"
+       inkscape:label="case46" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect22"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="32.000004"
+       inkscape:label="case47" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.600001"
+       id="rect23"
+       width="15.999999"
+       height="16.000002"
+       x="240"
+       y="16.000002"
+       inkscape:label="case48" />
   </g>
 </svg>
