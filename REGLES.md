@@ -29,12 +29,12 @@ Pour pouvoir passer à l'année suivante, il faut avoir la majorité de vos comp
 Le choix de votre parcours affecte les compétences qu'il faut valider pour réussir votre formation pour la 3e année.
 
 ### Le parcours A
-Lorsque vous choisissez le parcours A vous décidez de seul les compétences 1, 2 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.
 
+Lorsque vous choisissez le parcours A vous décidez de seul les compétences 1, 2 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.
 
 ### Le parcours B
-Lorsque vous choisissez le parcours A vous décidez de seul les compétences 1, 2 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.
 
+Lorsque vous choisissez le parcours A vous décidez de seul les compétences 1, 2 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.
 
 ## Formation Initial
 
