@@ -55,9 +55,6 @@
 
 ### Cas Positifs (26)
 
-- Vous avez documenté vos travaux pour les rendre plus accessibles à vos collaborateurs. +1 Administrer
-- Vous avez proposé un script qui améliore la sécurité du projet. +1 Administrer
-- Vous avez maîtrisé une nouvelle bibliothèque en programmation et l'avez appliquée avec succès. +1 Réaliser
 - Vous avez corrigé un problème technique sur un serveur en un temps record. +1 Gérer
 - Vous avez créé un planning réaliste et bien structuré pour votre équipe. +1 Conduire
 - Vous avez lu un livre technique qui a enrichi vos compétences. +1 Réaliser
@@ -77,13 +74,24 @@
 - Vous avez aidé un camarade en difficulté sur un projet. +1 Collaborer
 - Vous avez proposé une idée innovante pour améliorer l'expérience utilisateur. +1 Réaliser
 - Vous avez géré les priorités de manière efficace sur un projet complexe. +1 Conduire
-
+- Vous avez documenté méticuleusement un projet pour assurer sa compréhension. +1 Administrer
+- Vous avez pris le temps d'aider votre équipe à comprendre un concept difficile. +1 Collaborer
+- Vous avez appris une nouvelle technologie pendant votre temps libre. +1 Réaliser
+- Vous avez anticipé un problème et proposé une solution efficace. +1 Gérer
+- Vous avez participé à un débat en classe et avez apporté des arguments pertinents. +1 Collaborer
+- Vous avez respecté toutes les échéances d'un projet. +1 Administrer
+- Vous avez trouvé une solution élégante à un problème de programmation. +1 Réaliser
+- Vous avez amélioré la présentation graphique d'un projet. +1 Conduire
+- Vous avez clarifié des consignes lors d'une réunion. +1 Conduire
+- Vous avez pris des initiatives pour améliorer la sécurité d'un projet. +1 Administrer
+- Vous avez géré un conflit mineur dans l'équipe avec diplomatie. +1 Collaborer
+- Vous avez assisté à la réalisation d'un camarade dans la d'une tâche complexe. +1 Collaborer
+- Vous avez pris des initiatives pour réorganiser la planification d'un projet. +1 Conduire
+- Vous avez contribué à une innovation technique dans un projet. +1 Réaliser
+- Vous avez terminé un exercice avancé en base de données. +1 Gérer
+  
 ### Cas Négatifs (26)
 
-- Vous avez mal configuré un outil, ralentissant tout le projet. -1 Gérer
-- Vous avez ignoré des retours constructifs sur votre travail. -1 Collaborer
-- Vous avez noté un quiz technique à cause d'une mauvaise gestion du temps. -1 Gérer
-- Vous avez ignoré un rappel pour une mise à jour du système. -1 Administrer
 - Vous avez ignoré des consignes lors d'un exercice technique. -1 Gérer
 - Vous avez manqué une réunion importante avec votre équipe. -1 Collaborer
 - Vous avez introduit une erreur dans la configuration réseau. -1 Gérer
@@ -103,29 +111,6 @@
 - Vous avez soumis un projet sans le testeur suffisamment. -1 Réaliser
 - Vous avez négligé vos révisions pour un examen important. -1 Gérer
 - Vous avez soumis un document incomplet par inattention. -1 Administrer
-
-## 35 Cas Bleus (Positifs et Négatifs équilibrés)
-
-### Cas Positifs (18)
-
-- Vous avez documenté méticuleusement un projet pour assurer sa compréhension. +1 Administrer
-- Vous avez pris le temps d'aider votre équipe à comprendre un concept difficile. +1 Collaborer
-- Vous avez appris une nouvelle technologie pendant votre temps libre. +1 Réaliser
-- Vous avez anticipé un problème et proposé une solution efficace. +1 Gérer
-- Vous avez participé à un débat en classe et avez apporté des arguments pertinents. +1 Collaborer
-- Vous avez respecté toutes les échéances d'un projet. +1 Administrer
-- Vous avez trouvé une solution élégante à un problème de programmation. +1 Réaliser
-- Vous avez amélioré la présentation graphique d'un projet. +1 Conduire
-- Vous avez clarifié des consignes lors d'une réunion. +1 Conduire
-- Vous avez pris des initiatives pour améliorer la sécurité d'un projet. +1 Administrer
-- Vous avez géré un conflit mineur dans l'équipe avec diplomatie. +1 Collaborer
-- Vous avez assisté à la réalisation d'un camarade dans la d'une tâche complexe. +1 Collaborer
-- Vous avez pris des initiatives pour réorganiser la planification d'un projet. +1 Conduire
-- Vous avez contribué à une innovation technique dans un projet. +1 Réaliser
-- Vous avez terminé un exercice avancé en base de données. +1 Gérer
-
-### Cas Négatifs (17)
-
 - Vous avez oublié d'apporter des ressources importantes pour un projet. -1 Administrer
 - Vous avez manqué un cours clé pour la compréhension d'un projet. -1 Gérer
 - Vous avez manqué une réunion d'équipe importante. -1 Collaborer
