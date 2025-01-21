@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+:root {
+    font-family: sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    display: grid;
+    font-size: 13pt;
+    gap: 1mm;
+    grid-auto-rows: 5cm;
+    grid-template-columns: repeat(auto-fit, 8.5cm);
+    justify-content: start;
+    max-height: 100vh;
+    max-width: 100vw;
+}
+article {
+    background-color:#a1e3f4;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1em;
+    text-align: center;
+}
+p, h3, body {
+    margin: 0;
+}
+    </style>
+</head>
+<body>
+<article>
+    <h3>CSudoku</h3>
+    <p>SAÉ - Sudoku en C</p>
+    <p>+3&nbsp;Réaliser, +2&nbsp;Optimiser</p>
+</article>
+<article>
+    <h3>Compta</h3>
+    <p>Projet de comptabilité surprise</p>
+    <p>-2&nbsp;Gérer, -2&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>PSDC</h3>
+    <p>Compilateur de Pseudo-code</p>
+    <p>+3&nbsp;Réaliser, +2&nbsp;Optimiser, +1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>PACT</h3>
+    <p>Base de données dans un projet scrum ou vous etes le scrum master</p>
+    <p>+3&nbsp;Gérer, +1&nbsp;Conduire, +2&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>Portfolio</h3>
+    <p>Un site web portfolio en PHP</p>
+    <p>+2&nbsp;Réaliser, +1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>Malade</h3>
+    <p>Vous êtes tombé malade, votre équipe à perdu des points lors de la SAE de système</p>
+    <p>-1&nbsp;Administrer, -3&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>CV Vidéo</h3>
+    <p>Une courte vidéo</p>
+    <p>+1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>Petit jeu-vidéo</h3>
+    <p>Petit jeu video sous Godot avec un ami</p>
+    <p>+1&nbsp;Réaliser, +1&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>Distribution Linux</h3>
+    <p>Une distribution Linux basée sur Debian</p>
+    <p>+1&nbsp;Réaliser, +2&nbsp;Administrer</p>
+</article>
+<article>
+    <h3>Innosang</h3>
+    <p>Court métrage en groupe</p>
+    <p>+1&nbsp;Conduire, +2&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>GenDoc</h3>
+    <p>Documentation extensive d'un projet</p>
+    <p>+2&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>Solveur de Sudoku</h3>
+    <p>Un solveur de Sudoku optimisé, en C</p>
+    <p>+1&nbsp;Réaliser, +2&nbsp;Optimiser</p>
+</article>
+<article>
+    <h3>Probleme des N-reines</h3>
+    <p>En équipe, vous élaborez des solutions au probleme des N-reines</p>
+    <p>+2&nbsp;Optimiser, +1&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>Abandon</h3>
+    <p>Vous commencez un projet que vous finissez par abandonner</p>
+    <p>-1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>OpenData</h3>
+    <p>Base de données et statistiques à partir de données ouveres</p>
+    <p>+2&nbsp;Gérer, +1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>Site statique</h3>
+    <p>HTML et CSS</p>
+    <p>+1&nbsp;Réaliser</p>
+</article>
+<article>
+    <h3>Le Chat noir</h3>
+    <p>Vous avez généré par IA lors d'un projet informatique</p>
+    <p>Aucune compétence</p>
+</article>
+<article>
+    <h3>UML</h3>
+    <p>Diagramme UML d'une base de données</p>
+    <p>+1&nbsp;Gérer</p>
+</article>
+<article>
+    <h3>Tchattator</h3>
+    <p>Service de messagerie instantanée en C</p>
+    <p>+1&nbsp;Réaliser, +1&nbsp;Administrer, +1&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>Barbutisation</h3>
+    <p>Migration vers Linux sur votre PC</p>
+    <p>+1&nbsp;Administrer</p>
+</article>
+<article>
+    <h3>Barbutisation++</h3>
+    <p>Site dynamique avec Apache2</p>
+    <p>+1&nbsp;Réaliser, +1&nbsp;Administrer</p>
+</article>
+<article>
+    <h3>Anglais</h3>
+    <p>Vous devez décrire un projet en anglais - vous réussissez</p>
+    <p>+1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>Anglais</h3>
+    <p>Vous devez décrire un projet en anglais - vous échouez</p>
+    <p>-1&nbsp;Conduire</p>
+</article>
+<article>
+    <h3>Réseaux sociaux</h3>
+    <p>Vous vous lancez comme influenceur avec des amis</p>
+    <p>+1&nbsp;Conduire, +1&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>Des gourdins au lasers</h3>
+    <p>Vous passez un site web dynamique d'une approche primitive à une architecture MVC</p>
+    <p>+2&nbsp;Réaliser, +1&nbsp;Optimiser</p>
+</article>
+<article>
+    <h3>Accro au jeux-vidéos</h3>
+    <p>Vous vous investissez trop dans un jeu-vidéo</p>
+    <p>-1&nbsp;Réaliser, -1&nbsp;Optimiser, -1&nbsp;Administrer, -1&nbsp;Gérer</p>
+</article>
+<article>
+    <h3>Zig</h3>
+    <p>Vous avez appris le language Zig</p>
+    <p>+1&nbsp;Optimiser, +1&nbsp;Gérer</p>
+</article>
+<article>
+    <h3>BuildYourOwnLisp</h3>
+    <p>Vous avez créé votre propre implémentation de Lisp</p>
+    <p>+2&nbsp;Réaliser, +2&nbsp;Optimiser</p>
+</article>
+<article>
+    <h3>Contribution open-source</h3>
+    <p>Vous avez contribué à un projet open-source</p>
+    <p>+2&nbsp;Collaborer</p>
+</article>
+<article>
+    <h3>AmogOS</h3>
+    <p>Bootleg Windows thème Among Us</p>
+    <p>+2&nbsp;Réaliser, +1&nbsp;Optimiser</p>
+</article>
+<article>
+    <h3>Blog</h3>
+    <p>Vous lancez un petit blog</p>
+    <p>+1&nbsp;Administrer, +1&nbsp;Conduire</p>
+</article>
+</body>
+</html>

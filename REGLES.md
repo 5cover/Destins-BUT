@@ -1,4 +1,4 @@
-# regle du destin BUT informatique
+# Règles du destin BUT informatique
 
 ## But du jeu
 
