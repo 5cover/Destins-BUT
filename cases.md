@@ -55,8 +55,6 @@
 
 ### Cas Positifs (26)
 
-- Vous avez optimisé une base de données pour qu'elle fonctionne plus rapidement. +1 Gérer
-- Vous avez clarifié les objectifs d'un projet lors d'une réunion d'équipe. +1 Collaborer
 - Vous avez documenté vos travaux pour les rendre plus accessibles à vos collaborateurs. +1 Administrer
 - Vous avez proposé un script qui améliore la sécurité du projet. +1 Administrer
 - Vous avez maîtrisé une nouvelle bibliothèque en programmation et l'avez appliquée avec succès. +1 Réaliser
@@ -82,7 +80,6 @@
 
 ### Cas Négatifs (26)
 
-- Vous avez omis de répondre à un email important du professeur. -1 Conduire
 - Vous avez mal configuré un outil, ralentissant tout le projet. -1 Gérer
 - Vous avez ignoré des retours constructifs sur votre travail. -1 Collaborer
 - Vous avez noté un quiz technique à cause d'une mauvaise gestion du temps. -1 Gérer
@@ -111,7 +108,6 @@
 
 ### Cas Positifs (18)
 
-- Vous avez proposé une optimisation qui a réduit les coûts d'un projet fictif. +1 Gérer
 - Vous avez documenté méticuleusement un projet pour assurer sa compréhension. +1 Administrer
 - Vous avez pris le temps d'aider votre équipe à comprendre un concept difficile. +1 Collaborer
 - Vous avez appris une nouvelle technologie pendant votre temps libre. +1 Réaliser
@@ -130,7 +126,6 @@
 
 ### Cas Négatifs (17)
 
-- Vous avez ignoré les suggestions utiles de votre professeur. -1 Gérer
 - Vous avez oublié d'apporter des ressources importantes pour un projet. -1 Administrer
 - Vous avez manqué un cours clé pour la compréhension d'un projet. -1 Gérer
 - Vous avez manqué une réunion d'équipe importante. -1 Collaborer

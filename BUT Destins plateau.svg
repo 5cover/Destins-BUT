@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0164389"
-     inkscape:cx="122.97838"
-     inkscape:cy="239.06996"
+     inkscape:zoom="2.0328778"
+     inkscape:cx="325.15481"
+     inkscape:cy="475.68034"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -57,6 +57,32 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker25"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path25" />
+    </marker>
+    <inkscape:path-effect
+       effect="line_segment"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1"
+       end_type="open_both" />
     <linearGradient
        id="linearGradient209"
        inkscape:collect="always">
@@ -115,53 +141,49 @@
            transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
              x="41.62059"
              y="28.52869"
-             id="tspan34">Vous avez manqué<tspan
+             id="tspan1">Vous avez manqué<tspan
    y="28.52869"
-   id="tspan35"> </tspan></tspan><tspan
+   id="tspan2"> </tspan></tspan><tspan
              x="41.62059"
              y="30.24139"
-             id="tspan36">une étape critique<tspan
+             id="tspan3">une étape critique<tspan
    y="30.24139"
-   id="tspan37"> </tspan></tspan><tspan
+   id="tspan4"> </tspan></tspan><tspan
              x="41.62059"
              y="31.95409"
-             id="tspan38">dans la<tspan
+             id="tspan5">dans la<tspan
    y="31.95409"
-   id="tspan39"> </tspan></tspan><tspan
+   id="tspan6"> </tspan></tspan><tspan
              x="41.62059"
              y="33.666792"
-             id="tspan40">documentation<tspan
+             id="tspan7">documentation<tspan
    y="33.666792"
-   id="tspan41"> </tspan></tspan><tspan
+   id="tspan8"> </tspan></tspan><tspan
              x="41.62059"
              y="35.379492"
-             id="tspan42">d'un projet.
+             id="tspan9">d'un projet.
 </tspan><tspan
              x="41.62059"
              y="37.092191"
-             id="tspan88">
+             id="tspan10">
 </tspan><tspan
              x="41.62059"
              y="38.804891"
-             id="tspan89">-1 Administrer</tspan></text>
+             id="tspan11">-1 Administrer</tspan></text>
       </g>
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath29-9">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g28"
+      <g
+         inkscape:label="Clip"
          id="use29-2" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath29-9-1">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g28-8"
+      <g
+         inkscape:label="Clip"
          id="use29-2-9" />
     </clipPath>
     <clipPath
@@ -180,92 +202,140 @@
         <text
            xml:space="preserve"
            style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.62059"
+           x="41.656384"
            y="28.52869"
            id="text42"
            transform="matrix(1.0697031,0,0,0.99155596,-12.522212,16.241701)"><tspan
-             x="41.62059"
+             x="41.656384"
              y="28.52869"
-             id="tspan90">Vous avez lu un<tspan
+             id="tspan12">Vous avez lu un<tspan
    y="28.52869"
-   id="tspan91"> </tspan></tspan><tspan
-             x="41.62059"
+   id="tspan13"> </tspan></tspan><tspan
+             x="41.656384"
              y="30.24139"
-             id="tspan92">article qui a enrichi<tspan
+             id="tspan14">article qui a enrichi<tspan
    y="30.24139"
-   id="tspan93"> </tspan></tspan><tspan
-             x="41.62059"
+   id="tspan15"> </tspan></tspan><tspan
+             x="41.656384"
              y="31.95409"
-             id="tspan94">vos connaissances<tspan
+             id="tspan16">vos connaissances<tspan
    y="31.95409"
-   id="tspan95"> </tspan></tspan><tspan
-             x="41.62059"
+   id="tspan17"> </tspan></tspan><tspan
+             x="41.656384"
              y="33.666792"
-             id="tspan96">techniques.
+             id="tspan18">techniques.
 </tspan><tspan
-             x="41.62059"
+             x="41.656384"
              y="35.379492"
-             id="tspan115">
+             id="tspan19">
 </tspan><tspan
-             x="41.62059"
+             x="41.656384"
              y="37.092191"
-             id="tspan116">+1 Réaliser</tspan></text>
+             id="tspan20">+1 Réaliser</tspan></text>
       </g>
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath34-6">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g33"
+      <g
+         inkscape:label="Clip"
          id="use34-5" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath34-6-7">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g33-8"
+      <g
+         inkscape:label="Clip"
          id="use34-5-8" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath34-6-7-4">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g33-8"
+      <g
+         inkscape:label="Clip"
          id="use34-5-8-9" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath34-6-7-4-0">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g33-8"
+      <g
+         inkscape:label="Clip"
          id="use34-5-8-9-6" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1"
+      <g
+         inkscape:label="Clip"
          id="use2" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2-7">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1-5"
+      <g
          id="use2-5"
-         transform="translate(31.370087,91.842535)" />
+         transform="translate(23.070107,3.542527)">
+        <g
+           id="g46"
+           clip-path="url(#clipPath29-9-1-7)"
+           transform="translate(-1.4208128,32.220628)">
+          <g
+             inkscape:label="Clip"
+             id="g45">
+            <rect
+               style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+               id="rect24"
+               width="16.000011"
+               height="16.000002"
+               x="23.999977"
+               y="56.000004" />
+            <text
+               xml:space="preserve"
+               style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+               x="41.625942"
+               y="28.52869"
+               id="text44"
+               transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
+                 x="41.625942"
+                 y="28.52869"
+                 id="tspan21">Vous avez présenté<tspan
+   y="28.52869"
+   id="tspan22"> </tspan></tspan><tspan
+                 x="41.625942"
+                 y="30.24139"
+                 id="tspan23">un rapport clair et<tspan
+   y="30.24139"
+   id="tspan34"> </tspan></tspan><tspan
+                 x="41.625942"
+                 y="31.95409"
+                 id="tspan35">bien structuré à<tspan
+   y="31.95409"
+   id="tspan36"> </tspan></tspan><tspan
+                 x="41.625942"
+                 y="33.666792"
+                 id="tspan37">votre professeur.
+</tspan><tspan
+                 x="41.625942"
+                 y="35.379492"
+                 id="tspan38">
+</tspan><tspan
+                 x="41.625942"
+                 y="37.092191"
+                 id="tspan39"> +1 Conduire</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:3.52777px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.600001"
+               x="17.261824"
+               y="60.56353"
+               id="text45"><tspan
+                 sodipodi:role="line"
+                 id="tspan44"
+                 style="stroke-width:0.6;text-anchor:middle;text-align:center"
+                 x="17.261824"
+                 y="60.56353" /></text>
+          </g>
+        </g>
+      </g>
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -277,6 +347,40 @@
          id="use2-9"
          transform="translate(31.370087,91.842535)" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29-9-1-7">
+      <g
+         inkscape:label="Clip"
+         id="use29-2-9-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34-6-7-4-0-6">
+      <g
+         inkscape:label="Clip"
+         id="use34-5-8-9-6-0" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="marker25-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path25-1" />
+    </marker>
   </defs>
   <g
      inkscape:label="Principal"
@@ -292,400 +396,721 @@
        y="-72"
        sodipodi:insensitive="true"
        inkscape:label="bg" />
-    <g
-       id="g29"
-       clip-path="url(#clipPath29-9)"
-       transform="translate(1.2107268e-5)">
-      <g
-         inkscape:label="Clip"
-         id="g28">
-        <rect
-           style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect214-2"
-           width="16.000011"
-           height="16.000002"
-           x="23.999977"
-           y="56.000004" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.62059"
-           y="28.52869"
-           id="text218-8-7"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
-             x="41.62059"
-             y="28.52869"
-             id="tspan117">Vous avez manqué<tspan
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9"
+       width="16.000011"
+       height="16.000002"
+       x="23.999977"
+       y="56.000004"
+       transform="translate(5.6041667e-7,63.999992)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.673443"
+       y="28.52869"
+       id="text218-8-7-5-1"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.522212,95.12806)"><tspan
+         x="41.673443"
+         y="28.52869"
+         id="tspan40">Vous avez soumis<tspan
    y="28.52869"
-   id="tspan118"> </tspan></tspan><tspan
-             x="41.62059"
-             y="30.24139"
-             id="tspan119">une étape critique<tspan
+   id="tspan41"> </tspan></tspan><tspan
+         x="41.673443"
+         y="30.24139"
+         id="tspan42">un projet avec des<tspan
    y="30.24139"
-   id="tspan120"> </tspan></tspan><tspan
-             x="41.62059"
-             y="31.95409"
-             id="tspan121">dans la<tspan
+   id="tspan43"> </tspan></tspan><tspan
+         x="41.673443"
+         y="31.95409"
+         id="tspan45">commentaires<tspan
    y="31.95409"
-   id="tspan122"> </tspan></tspan><tspan
-             x="41.62059"
-             y="33.666792"
-             id="tspan123">documentation<tspan
+   id="tspan46"> </tspan></tspan><tspan
+         x="41.673443"
+         y="33.666792"
+         id="tspan47">absents ou<tspan
    y="33.666792"
-   id="tspan124"> </tspan></tspan><tspan
-             x="41.62059"
-             y="35.379492"
-             id="tspan125">d'un projet.
+   id="tspan48"> </tspan></tspan><tspan
+         x="41.673443"
+         y="35.379492"
+         id="tspan49">insuffisants.
 </tspan><tspan
-             x="41.62059"
-             y="37.092191"
-             id="tspan126">
+         x="41.673443"
+         y="37.092191"
+         id="tspan50">
 </tspan><tspan
-             x="41.62059"
-             y="38.804891"
-             id="tspan127">-1 Administrer</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g29-7"
-       clip-path="url(#clipPath29-9-1)"
-       transform="translate(4.4409179e-7,32.000002)">
-      <g
-         inkscape:label="Clip"
-         id="g28-8">
-        <rect
-           style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect214-2-4"
-           width="16.000011"
-           height="16.000002"
-           x="23.999977"
-           y="56.000004" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.62059"
-           y="28.52869"
-           id="text218-8-7-5"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
-             x="41.62059"
-             y="28.52869"
-             id="tspan128">Vous avez présenté<tspan
+         x="41.673443"
+         y="38.804891"
+         id="tspan51">-1 Administrer</tspan></text>
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2"
+       width="16.000011"
+       height="16.000002"
+       x="39.999989"
+       y="152" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-5"
+       width="16.000011"
+       height="16.000002"
+       x="184"
+       y="152" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-5-1"
+       width="16.000011"
+       height="16.000002"
+       x="184"
+       y="120.00001" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9"
+       width="16.000011"
+       height="16.000002"
+       x="87.999992"
+       y="88.000008" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-2"
+       width="16.000011"
+       height="16.000002"
+       x="119.99998"
+       y="7.9999971" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-6"
+       width="16.000011"
+       height="16.000002"
+       x="152"
+       y="8" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-6-3"
+       width="16.000011"
+       height="16.000002"
+       x="264"
+       y="23.999996" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-6-9"
+       width="16.000011"
+       height="16.000002"
+       x="280"
+       y="40.000004" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-6-9-8"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="136" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-6-9-8-2"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="88.000008" />
+    <rect
+       style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-9-6-9-0"
+       width="16.000011"
+       height="16.000002"
+       x="296"
+       y="24" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1"
+       width="16.000011"
+       height="16.000002"
+       x="72"
+       y="152.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-7"
+       width="16.000011"
+       height="16.000002"
+       x="103.99998"
+       y="152.00003" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-2"
+       width="16.000011"
+       height="16.000002"
+       x="103.99999"
+       y="120" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3"
+       width="16.000011"
+       height="16.000002"
+       x="103.99999"
+       y="88.000008" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-5"
+       width="16.000011"
+       height="16.000002"
+       x="72"
+       y="88.000008" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-1"
+       width="16.000011"
+       height="16.000002"
+       x="40"
+       y="88.000008" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-2"
+       width="16.000011"
+       height="16.000002"
+       x="55.999989"
+       y="72.000008" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-55"
+       width="16.000011"
+       height="16.000002"
+       x="87.999977"
+       y="72.000008" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56"
+       width="16.000011"
+       height="16.000002"
+       x="103.99999"
+       y="56.000004" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9"
+       width="16.000011"
+       height="16.000002"
+       x="167.99998"
+       y="24.000002" />
+    <rect
+       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.84853"
+       id="rect214-2-4-9-2-1-3-4"
+       width="16.000011"
+       height="32.000004"
+       x="103.99998"
+       y="23.999998" />
+    <rect
+       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.849106"
+       id="rect214-2-4-9-2-1-3-4-7"
+       width="16.000011"
+       height="32.043503"
+       x="247.99998"
+       y="23.956503" />
+    <rect
+       style="fill:#fb5331;fill-opacity:1;fill-rule:nonzero;stroke-width:0.849682"
+       id="rect214-2-4-9-2-1-3-4-7-5"
+       width="32"
+       height="16.043509"
+       x="408"
+       y="23.999994" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-4-2"
+       width="16.000011"
+       height="16.000002"
+       x="119.99999"
+       y="24" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:1.03641"
+       id="rect214-2-4-9-2-1-3-4-2-2"
+       width="47.739895"
+       height="16.000002"
+       x="56.260094"
+       y="24.0399" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.848529"
+       id="rect214-2-4-9-2-1-3-4-2-2-7"
+       width="63.999989"
+       height="8.0000315"
+       x="39.999989"
+       y="128" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:1.2"
+       id="rect214-2-4-9-2-1-3-4-2-2-0"
+       width="64.000031"
+       height="16.000002"
+       x="183.99997"
+       y="23.999998" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-4-2-9"
+       width="16.000011"
+       height="16.000002"
+       x="136"
+       y="7.9999971" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-4-2-8"
+       width="16.000011"
+       height="16.000002"
+       x="151.99995"
+       y="23.999996" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-4-2-8-6"
+       width="16.000011"
+       height="16.000002"
+       x="280"
+       y="24" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-4-2-8-4"
+       width="16.000011"
+       height="16.000002"
+       x="295.99997"
+       y="39.999996" />
+    <rect
+       style="fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-4-2-8-48"
+       width="16.000011"
+       height="16.000002"
+       x="312"
+       y="23.999998" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.625942"
+       y="28.52869"
+       id="text218-8-7-5-1-2-0"
+       transform="matrix(1.0697031,0,0,0.99155597,35.477811,127.12806)"><tspan
+         x="41.625942"
+         y="28.52869"
+         id="tspan52">Vous avez omis de<tspan
    y="28.52869"
-   id="tspan129"> </tspan></tspan><tspan
-             x="41.62059"
-             y="30.24139"
-             id="tspan130">un rapport clair et<tspan
+   id="tspan53"> </tspan></tspan><tspan
+         x="41.625942"
+         y="30.24139"
+         id="tspan54">répondre à un<tspan
    y="30.24139"
-   id="tspan131"> </tspan></tspan><tspan
-             x="41.62059"
-             y="31.95409"
-             id="tspan132">bien structuré à<tspan
+   id="tspan55"> </tspan></tspan><tspan
+         x="41.625942"
+         y="31.95409"
+         id="tspan56">email important du<tspan
    y="31.95409"
-   id="tspan133"> </tspan></tspan><tspan
-             x="41.62059"
-             y="33.666792"
-             id="tspan134">votre professeur.
+   id="tspan57"> </tspan></tspan><tspan
+         x="41.625942"
+         y="33.666792"
+         id="tspan58">professeur.
 </tspan><tspan
-             x="41.62059"
-             y="35.379492"
-             id="tspan135">
+         x="41.625942"
+         y="35.379492"
+         id="tspan59">
 </tspan><tspan
-             x="41.62059"
-             y="37.092191"
-             id="tspan136"> +1 Conduire</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:3.52777px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.600001"
-           x="17.261824"
-           y="60.56353"
-           id="text33"><tspan
-             sodipodi:role="line"
-             id="tspan33"
-             style="stroke-width:0.6" /></text>
-      </g>
-    </g>
-    <g
-       id="g34"
-       clip-path="url(#clipPath34-6)"
-       transform="translate(1.2107268e-5)">
-      <g
-         inkscape:label="Clip"
-         id="g33">
-        <rect
-           style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect214-4"
-           width="16.000011"
-           height="16.000002"
-           x="23.999977"
-           y="39.999996" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.62059"
-           y="28.52869"
-           id="text218-8"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.522212,16.241701)"><tspan
-             x="41.62059"
-             y="28.52869"
-             id="tspan137">Vous avez lu un<tspan
+         x="41.625942"
+         y="37.092191"
+         id="tspan60">-1 Conduire</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text218-8-7-5-1-2-0-5"
+       transform="matrix(1.0697031,0,0,0.99155597,3.477788,126.85965)"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan61">SAÉ - Sudoku en C
+</tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan62">
+</tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan63">+3 Réaliser
+</tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan64">+2 Optimiser</tspan></text>
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-4-4"
+       width="16.000011"
+       height="16.000002"
+       x="23.999977"
+       y="39.999996"
+       transform="translate(1.2202083e-5,32.000003)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.679798"
+       y="28.52869"
+       id="text218-8-3"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.522199,48.241705)"><tspan
+         x="41.679798"
+         y="28.52869"
+         id="tspan65">Vous avez ignoré<tspan
    y="28.52869"
+   id="tspan66"> </tspan></tspan><tspan
+         x="41.679798"
+         y="30.24139"
+         id="tspan67">des consignes<tspan
+   y="30.24139"
+   id="tspan68"> </tspan></tspan><tspan
+         x="41.679798"
+         y="31.95409"
+         id="tspan69">importantes dans<tspan
+   y="31.95409"
+   id="tspan70"> </tspan></tspan><tspan
+         x="41.679798"
+         y="33.666792"
+         id="tspan71">un exercice.
+</tspan><tspan
+         x="41.679798"
+         y="35.379492"
+         id="tspan72">
+</tspan><tspan
+         x="41.679798"
+         y="37.092191"
+         id="tspan73">-1 Gérer</tspan></text>
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2"
+       width="16.000011"
+       height="16.000002"
+       x="23.999977"
+       y="56.000004"
+       transform="translate(1.2202083e-5)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text218-8-7"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.522199,31.128066)"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan74">Vous avez manqué<tspan
+   y="28.52869"
+   id="tspan75"> </tspan></tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan76">une étape critique<tspan
+   y="30.24139"
+   id="tspan77"> </tspan></tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan78">dans la<tspan
+   y="31.95409"
+   id="tspan79"> </tspan></tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan80">documentation<tspan
+   y="33.666792"
+   id="tspan81"> </tspan></tspan><tspan
+         x="41.62059"
+         y="35.379492"
+         id="tspan82">d'un projet.
+</tspan><tspan
+         x="41.62059"
+         y="37.092191"
+         id="tspan83">
+</tspan><tspan
+         x="41.62059"
+         y="38.804891"
+         id="tspan84">-1 Administrer</tspan></text>
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4"
+       width="16.000011"
+       height="16.000002"
+       x="23.999977"
+       y="56.000004"
+       transform="translate(5.6041667e-7,32.000001)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.625942"
+       y="28.52869"
+       id="text218-8-7-5"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.522212,63.128069)"><tspan
+         x="41.625942"
+         y="28.52869"
+         id="tspan85">Vous avez présenté<tspan
+   y="28.52869"
+   id="tspan86"> </tspan></tspan><tspan
+         x="41.625942"
+         y="30.24139"
+         id="tspan87">un rapport clair et<tspan
+   y="30.24139"
+   id="tspan88"> </tspan></tspan><tspan
+         x="41.625942"
+         y="31.95409"
+         id="tspan89">bien structuré à<tspan
+   y="31.95409"
+   id="tspan90"> </tspan></tspan><tspan
+         x="41.625942"
+         y="33.666792"
+         id="tspan91">votre professeur.
+</tspan><tspan
+         x="41.625942"
+         y="35.379492"
+         id="tspan92">
+</tspan><tspan
+         x="41.625942"
+         y="37.092191"
+         id="tspan93"> +1 Conduire</tspan></text>
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-4"
+       width="16.000011"
+       height="16.000002"
+       x="23.999977"
+       y="39.999996"
+       transform="translate(1.2202083e-5)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.656384"
+       y="28.52869"
+       id="text218-8"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.522199,16.241701)"><tspan
+         x="41.656384"
+         y="28.52869"
+         id="tspan94">Vous avez lu un<tspan
+   y="28.52869"
+   id="tspan95"> </tspan></tspan><tspan
+         x="41.656384"
+         y="30.24139"
+         id="tspan96">article qui a enrichi<tspan
+   y="30.24139"
+   id="tspan97"> </tspan></tspan><tspan
+         x="41.656384"
+         y="31.95409"
+         id="tspan98">vos connaissances<tspan
+   y="31.95409"
+   id="tspan99"> </tspan></tspan><tspan
+         x="41.656384"
+         y="33.666792"
+         id="tspan100">techniques.
+</tspan><tspan
+         x="41.656384"
+         y="35.379492"
+         id="tspan101">
+</tspan><tspan
+         x="41.656384"
+         y="37.092191"
+         id="tspan102">+1 Réaliser</tspan></text>
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42"
+       width="16.000011"
+       height="16.000002"
+       x="23.999977"
+       y="39.999996"
+       transform="translate(5.6041667e-7,64.000011)" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text43"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.522212,80.24171)"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan103">Vous avez partagé<tspan
+   y="28.52869"
+   id="tspan104"> </tspan></tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan105">des ressources<tspan
+   y="30.24139"
+   id="tspan106"> </tspan></tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan107">utiles avec vos<tspan
+   y="31.95409"
+   id="tspan108"> </tspan></tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan109">camarades.
+</tspan><tspan
+         x="41.62059"
+         y="35.379492"
+         id="tspan110">
+</tspan><tspan
+         x="41.62059"
+         y="37.092191"
+         id="tspan111">+1 Collaborer</tspan></text>
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0"
+       width="16.000011"
+       height="16.000002"
+       x="55.999989"
+       y="152.00002" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text43-6"
+       transform="matrix(1.0697031,0,0,0.99155597,19.477801,128.24171)"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan112">Vous avez proposé<tspan
+   y="28.52869"
+   id="tspan113"> </tspan></tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan114">une optimisation<tspan
+   y="30.24139"
+   id="tspan115"> </tspan></tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan116">qui a réduit les<tspan
+   y="31.95409"
+   id="tspan117"> </tspan></tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan118">coûts d'un projet<tspan
+   y="33.666792"
+   id="tspan119"> </tspan></tspan><tspan
+         x="41.62059"
+         y="35.379492"
+         id="tspan120">fictif.
+</tspan><tspan
+         x="41.62059"
+         y="37.092191"
+         id="tspan121">
+</tspan><tspan
+         x="41.62059"
+         y="38.804891"
+         id="tspan122">+1 Gérer</tspan></text>
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.84853"
+       id="rect42-8"
+       width="16.000011"
+       height="32.000011"
+       x="23.999977"
+       y="136" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.648521"
+       y="28.52869"
+       id="text43-7"
+       transform="matrix(1.0697031,0,0,1.1228125,-12.522212,110.1164)"><tspan
+         x="41.648521"
+         y="28.52869"
+         id="tspan123">Soirée d'intégration
+</tspan><tspan
+         x="41.648521"
+         y="30.24139"
+         id="tspan124">
+</tspan><tspan
+         x="41.648521"
+         y="31.95409"
+         id="tspan125">Vous pouvez<tspan
+   y="31.95409"
+   id="tspan126"> </tspan></tspan><tspan
+         x="41.648521"
+         y="33.666792"
+         id="tspan127">participer à la<tspan
+   y="33.666792"
+   id="tspan128"> </tspan></tspan><tspan
+         x="41.648521"
+         y="35.379492"
+         id="tspan129">soirée d'intégration<tspan
+   y="35.379492"
+   id="tspan130"> </tspan></tspan><tspan
+         x="41.648521"
+         y="37.092191"
+         id="tspan131">de l'IUT
+</tspan><tspan
+         x="41.648521"
+         y="38.804891"
+         id="tspan132">
+</tspan><tspan
+         x="41.648521"
+         y="40.517591"
+         id="tspan133">Tout gain ou perte<tspan
+   y="40.517591"
+   id="tspan134"> </tspan></tspan><tspan
+         x="41.648521"
+         y="42.230291"
+         id="tspan135">de points sur<tspan
+   y="42.230291"
+   id="tspan136"> </tspan></tspan><tspan
+         x="41.648521"
+         y="43.942991"
+         id="tspan137">Collaborer est<tspan
+   y="43.942991"
    id="tspan138"> </tspan></tspan><tspan
-             x="41.62059"
-             y="30.24139"
-             id="tspan139">article qui a enrichi<tspan
-   y="30.24139"
+         x="41.648521"
+         y="45.655691"
+         id="tspan139">doublé jusqu'à la<tspan
+   y="45.655691"
    id="tspan140"> </tspan></tspan><tspan
-             x="41.62059"
-             y="31.95409"
-             id="tspan141">vos connaissances<tspan
-   y="31.95409"
-   id="tspan142"> </tspan></tspan><tspan
-             x="41.62059"
-             y="33.666792"
-             id="tspan143">techniques.
-</tspan><tspan
-             x="41.62059"
-             y="35.379492"
-             id="tspan144">
-</tspan><tspan
-             x="41.62059"
-             y="37.092191"
-             id="tspan145">+1 Réaliser</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g34-8"
-       clip-path="url(#clipPath34-6-7)"
-       transform="translate(1.2107268e-5,32.000004)">
-      <g
-         inkscape:label="Clip"
-         id="g33-8">
-        <rect
-           style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect214-4-4"
-           width="16.000011"
-           height="16.000002"
-           x="23.999977"
-           y="39.999996" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.62059"
-           y="28.52869"
-           id="text218-8-3"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.522212,16.241701)"><tspan
-             x="41.62059"
-             y="28.52869"
-             id="tspan146">Vous avez ignoré<tspan
+         x="41.648521"
+         y="47.368391"
+         id="tspan141">fin de l'année</tspan></text>
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214"
+       width="16.000011"
+       height="16.000002"
+       x="24"
+       y="24.000002" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.759411"
+       y="28.52869"
+       id="text218"
+       transform="matrix(1.0697031,0,0,0.99155597,-12.614139,0.47552209)"
+       inkscape:label="text218"><tspan
+         x="41.759411"
+         y="28.52869"
+         id="tspan143"><tspan
+   style="stroke-width:0.6"
+   id="tspan142">Vous avez proposé</tspan><tspan
    y="28.52869"
+   id="tspan144"> </tspan></tspan><tspan
+         x="41.759411"
+         y="30.24139"
+         id="tspan146"><tspan
+   style="stroke-width:0.6"
+   id="tspan145">une documentation</tspan><tspan
+   y="30.24139"
    id="tspan147"> </tspan></tspan><tspan
-             x="41.62059"
-             y="30.24139"
-             id="tspan148">des consignes<tspan
-   y="30.24139"
-   id="tspan149"> </tspan></tspan><tspan
-             x="41.62059"
-             y="31.95409"
-             id="tspan150">importantes dans<tspan
+         x="41.759411"
+         y="31.95409"
+         id="tspan149"><tspan
+   style="stroke-width:0.6"
+   id="tspan148">simple et</tspan><tspan
    y="31.95409"
-   id="tspan151"> </tspan></tspan><tspan
-             x="41.62059"
-             y="33.666792"
-             id="tspan152">un exercice.
-</tspan><tspan
-             x="41.62059"
-             y="35.379492"
-             id="tspan153">
-</tspan><tspan
-             x="41.62059"
-             y="37.092191"
-             id="tspan154">-1 Gérer</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g44"
-       clip-path="url(#clipPath34-6-7-4-0)"
-       transform="translate(4.440918e-7,64.00001)">
-      <g
-         inkscape:label="Clip"
-         id="g43">
-        <rect
-           style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect42"
-           width="16.000011"
-           height="16.000002"
-           x="23.999977"
-           y="39.999996" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.62059"
-           y="28.52869"
-           id="text43"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.522212,16.241701)"><tspan
-             x="41.62059"
-             y="28.52869"
-             id="tspan155">Vous avez partagé<tspan
-   y="28.52869"
-   id="tspan156"> </tspan></tspan><tspan
-             x="41.62059"
-             y="30.24139"
-             id="tspan157">des ressources<tspan
-   y="30.24139"
-   id="tspan158"> </tspan></tspan><tspan
-             x="41.62059"
-             y="31.95409"
-             id="tspan159">utiles avec vos<tspan
-   y="31.95409"
-   id="tspan160"> </tspan></tspan><tspan
-             x="41.62059"
-             y="33.666792"
-             id="tspan161">camarades.
-</tspan><tspan
-             x="41.62059"
-             y="35.379492"
-             id="tspan162">
-</tspan><tspan
-             x="41.62059"
-             y="37.092191"
-             id="tspan163">+1 Collaborer</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g2"
-       clip-path="url(#clipPath2)">
-      <g
-         inkscape:label="Clip"
-         id="g1">
-        <rect
-           style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect214"
-           width="16.000011"
-           height="16.000002"
-           x="24"
-           y="24.000002" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.706558"
-           y="28.52869"
-           id="text218"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.61414,-0.58281125)"><tspan
-             x="41.706558"
-             y="28.52869"
-             id="tspan165"><tspan
+   id="tspan150"> </tspan></tspan><tspan
+         x="41.759411"
+         y="33.666792"
+         id="tspan152"><tspan
    style="stroke-width:0.6"
-   id="tspan164">Vous avez proposé</tspan><tspan
-   y="28.52869"
-   id="tspan166"> </tspan></tspan><tspan
-             x="41.706558"
-             y="30.24139"
-             id="tspan168"><tspan
-   style="stroke-width:0.6"
-   id="tspan167">une documentation</tspan><tspan
-   y="30.24139"
-   id="tspan169"> </tspan></tspan><tspan
-             x="41.706558"
-             y="31.95409"
-             id="tspan171"><tspan
-   style="stroke-width:0.6"
-   id="tspan170">simple et</tspan><tspan
-   y="31.95409"
-   id="tspan172"> </tspan></tspan><tspan
-             x="41.706558"
-             y="33.666792"
-             id="tspan174"><tspan
-   style="stroke-width:0.6"
-   id="tspan173">compréhensible</tspan><tspan
+   id="tspan151">compréhensible</tspan><tspan
    y="33.666792"
-   id="tspan175"> </tspan></tspan><tspan
-             x="41.706558"
-             y="35.379492"
-             id="tspan177"><tspan
-               style="stroke-width:0.6"
-               id="tspan176">pour un projet.
+   id="tspan153"> </tspan></tspan><tspan
+         x="41.759411"
+         y="35.379492"
+         id="tspan155"><tspan
+           style="stroke-width:0.6"
+           id="tspan154">pour un projet.
 </tspan></tspan><tspan
-             x="41.706558"
-             y="37.092191"
-             id="tspan179"><tspan
-               style="stroke-width:0.6"
-               id="tspan178">
+         x="41.759411"
+         y="37.092191"
+         id="tspan157"><tspan
+           style="stroke-width:0.6"
+           id="tspan156">
 </tspan></tspan><tspan
-             x="41.706558"
-             y="38.804891"
-             id="tspan181"><tspan
-               style="stroke-width:0.6"
-               id="tspan180">+1 Administrer</tspan></tspan></text>
-      </g>
-    </g>
-    <g
-       id="g3"
-       clip-path="url(#clipPath2-7)"
-       transform="translate(-8.3000022,-24.300004)">
-      <g
-         inkscape:label="Clip"
-         id="g2-6">
-        <rect
-           style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           id="rect214-29"
-           width="16.000011"
-           height="16.000002"
-           x="24"
-           y="24.000002" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
-           x="41.706558"
-           y="28.52869"
-           id="text218-1"
-           transform="matrix(1.0697031,0,0,0.99155596,-12.61414,-0.58281125)"><tspan
-             x="41.706558"
-             y="28.52869"
-             id="tspan183"><tspan
-   style="stroke-width:0.6"
-   id="tspan182">Vous avez proposé</tspan><tspan
-   y="28.52869"
-   id="tspan184"> </tspan></tspan><tspan
-             x="41.706558"
-             y="30.24139"
-             id="tspan186"><tspan
-   style="stroke-width:0.6"
-   id="tspan185">une documentation</tspan><tspan
-   y="30.24139"
-   id="tspan187"> </tspan></tspan><tspan
-             x="41.706558"
-             y="31.95409"
-             id="tspan189"><tspan
-   style="stroke-width:0.6"
-   id="tspan188">simple et</tspan><tspan
-   y="31.95409"
-   id="tspan190"> </tspan></tspan><tspan
-             x="41.706558"
-             y="33.666792"
-             id="tspan192"><tspan
-   style="stroke-width:0.6"
-   id="tspan191">compréhensible</tspan><tspan
-   y="33.666792"
-   id="tspan193"> </tspan></tspan><tspan
-             x="41.706558"
-             y="35.379492"
-             id="tspan195"><tspan
-               style="stroke-width:0.6"
-               id="tspan194">pour un projet.
-</tspan></tspan><tspan
-             x="41.706558"
-             y="37.092191"
-             id="tspan197"><tspan
-               style="stroke-width:0.6"
-               id="tspan196">
-</tspan></tspan><tspan
-             x="41.706558"
-             y="38.804891"
-             id="tspan199"><tspan
-               style="stroke-width:0.6"
-               id="tspan198">+1 Administrer</tspan></tspan></text>
-      </g>
-    </g>
+         x="41.759411"
+         y="38.804891"
+         id="tspan159"><tspan
+           style="stroke-width:0.6"
+           id="tspan158">+1 Administrer</tspan></tspan></text>
     <rect
        style="fill:#aade87;stroke-width:0.600001"
        id="rect30"
@@ -694,14 +1119,517 @@
        x="40"
        y="23.959745"
        inkscape:label="depart" />
+    <rect
+       style="fill:#aade87;stroke-width:0.72849"
+       id="rect30-4"
+       width="24.000008"
+       height="32.000004"
+       x="440"
+       y="16"
+       inkscape:label="depart" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8"
+       width="16.000011"
+       height="16.000002"
+       x="87.999977"
+       y="152.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0"
+       width="16.000011"
+       height="16.000002"
+       x="103.99998"
+       y="136.00003" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1"
+       width="16.000011"
+       height="16.000002"
+       x="104"
+       y="104.00001" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-4"
+       width="16.000011"
+       height="16.000002"
+       x="55.999985"
+       y="88.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-3"
+       width="16.000011"
+       height="16.000002"
+       x="39.999989"
+       y="72.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-6"
+       width="16.000011"
+       height="16.000002"
+       x="71.999969"
+       y="72.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-31"
+       width="16.000011"
+       height="16.000002"
+       x="103.99998"
+       y="72.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7"
+       width="16.000011"
+       height="16.000002"
+       x="167.99998"
+       y="40" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5"
+       width="16.000011"
+       height="16.000002"
+       x="167.99998"
+       y="56.000004" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9"
+       width="16.000011"
+       height="16.000002"
+       x="167.99998"
+       y="72" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9"
+       width="16.000011"
+       height="16.000002"
+       x="167.99995"
+       y="88.000015" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4"
+       width="16.000011"
+       height="16.000002"
+       x="167.99995"
+       y="104.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8"
+       width="16.000011"
+       height="16.000002"
+       x="167.99995"
+       y="120.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9"
+       width="16.000011"
+       height="16.000002"
+       x="167.99998"
+       y="152" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9-1"
+       width="16.000011"
+       height="16.000002"
+       x="215.99998"
+       y="152.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1"
+       width="16.000011"
+       height="16.000002"
+       x="167.99995"
+       y="136.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8"
+       width="16.000011"
+       height="16.000002"
+       x="247.99998"
+       y="72.000015" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0"
+       width="16.000011"
+       height="16.000002"
+       x="344"
+       y="24.000002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-8"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="40.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9"
+       width="16.000011"
+       height="16.000002"
+       x="247.99998"
+       y="56.000015" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.848529"
+       id="rect42-0-8-0-1-0-7-9-1-4"
+       width="16.000011"
+       height="31.999994"
+       x="247.99997"
+       y="88.000015" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3"
+       width="16.000011"
+       height="16.000002"
+       x="199.99997"
+       y="152.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-8"
+       width="16.000011"
+       height="16.000002"
+       x="248"
+       y="152.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-8-4"
+       width="16.000011"
+       height="16.000002"
+       x="231.99998"
+       y="136" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3-4"
+       width="16.000011"
+       height="16.000002"
+       x="231.99998"
+       y="152.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-3"
+       width="16.000011"
+       height="16.000002"
+       x="199.99998"
+       y="136.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3-4-1"
+       width="16.000011"
+       height="16.000002"
+       x="215.99998"
+       y="136.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3-4-1-6"
+       width="16.000011"
+       height="16.000002"
+       x="183.99998"
+       y="136" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-8-4-7"
+       width="16.000011"
+       height="16.000002"
+       x="247.99997"
+       y="120.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-5-8-9-1-3-5"
+       width="16.000011"
+       height="16.000002"
+       x="215.99998"
+       y="120.00004" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3-4-1-3"
+       width="16.000011"
+       height="16.000002"
+       x="231.99998"
+       y="120.00004" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3-4-1-6-8"
+       width="16.000011"
+       height="16.000002"
+       x="199.99998"
+       y="120.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-9-1-3-4-3"
+       width="16.000011"
+       height="16.000002"
+       x="247.99998"
+       y="136" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text43-6-7"
+       transform="matrix(1.0697031,0,0,0.99155597,51.477787,128.24171)"
+       inkscape:label="text43-6-7"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan160">Vous avez ignoré<tspan
+   y="28.52869"
+   id="tspan161"> </tspan></tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan162">les suggestions<tspan
+   y="30.24139"
+   id="tspan163"> </tspan></tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan164">utiles de votre<tspan
+   y="31.95409"
+   id="tspan165"> </tspan></tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan166">professeur.
+</tspan><tspan
+         x="41.62059"
+         y="35.379492"
+         id="tspan167">
+</tspan><tspan
+         x="41.62059"
+         y="37.092191"
+         id="tspan168">-1 Gérer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text43-6-7-4"
+       transform="matrix(1.0697031,0,0,0.99155597,67.477789,127.88125)"
+       inkscape:label="text43-6-7"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan169">Vous avez clarifié<tspan
+   y="28.52869"
+   id="tspan170"> </tspan></tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan171">les objectifs d'un<tspan
+   y="30.24139"
+   id="tspan172"> </tspan></tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan173">projet lors d'une<tspan
+   y="31.95409"
+   id="tspan174"> </tspan></tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan175">réunion d'équipe.
+</tspan><tspan
+         x="41.62059"
+         y="35.379492"
+         id="tspan176">
+</tspan><tspan
+         x="41.62059"
+         y="37.092191"
+         id="tspan177"> +1 Collaborer</tspan></text>
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9"
+       width="16.000011"
+       height="16.000002"
+       x="328"
+       y="24" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="23.999998" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="152.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-0"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="152.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="152.00002" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="120.00003" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="136" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="120.00004" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="136" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="104" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6-8"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="88.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-7"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="104" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-0"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="56.000004" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-2"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="71.999977" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-7"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="56.000004" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-6"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="71.999977" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6-1"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="39.999973" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-1-9-5-6-1-9"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="24.000006" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-7-3"
+       width="16.000011"
+       height="16.000002"
+       x="376"
+       y="39.999973" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-3-1-3-7-3-9"
+       width="16.000011"
+       height="16.000002"
+       x="392"
+       y="23.999969" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-4"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="56.000004" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-8-8"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="72.000008" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-4-6"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="88.000008" />
+    <rect
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect214-2-4-9-2-1-3-56-9-9-8-0-8-7"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="104.00002" />
+    <rect
+       style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       id="rect42-0-8-0-1-0-7-4-9-9-5-4-2"
+       width="16.000011"
+       height="16.000002"
+       x="360"
+       y="120" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker25)"
+       d="M 96.000001,32 H 64"
+       id="path24" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.612372;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker25-1)"
+       d="M 240.00001,32.000002 H 192"
+       id="path24-0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.4586px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;white-space:pre;inline-size:111.644;display:inline;fill:#000000;stroke-width:0.600001"
+       x="32.300003"
+       y="-4.147253"
+       id="text32"
+       transform="matrix(1,0,0,1.0882869,15.699998,44.51363)"><tspan
+         x="32.300003"
+         y="-4.147253"
+         id="tspan179"><tspan
+           style="stroke-width:0.6"
+           id="tspan178">DÉPART</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Cases">
+     inkscape:label="Cases"
+     sodipodi:insensitive="true">
     <path
        id="case1"
-       style="fill:none;stroke:#000000;stroke-width:0.6;fill-opacity:1;fill-rule:nonzero"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.6"
        inkscape:label="case01"
        d="M 23.999988,40 V 23.999998 h 16"
        sodipodi:nodetypes="ccc"
@@ -1402,13 +2330,11 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:3.52777px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.600001"
-     x="32.300003"
-     y="40.300003"
-     id="text32"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+     x="44.381866"
+     y="0"
+     id="text33"><tspan
        sodipodi:role="line"
-       id="tspan32"
-       style="fill:#000000;stroke-width:0.6"
-       x="32.300003"
-       y="40.300003">DÉPART</tspan></text>
+       id="tspan33"
+       style="stroke-width:0.5"></tspan></text>
 </svg>
