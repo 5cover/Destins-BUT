@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0164389"
-     inkscape:cx="367.95129"
-     inkscape:cy="416.15881"
+     inkscape:zoom="2.0328778"
+     inkscape:cx="1483.1192"
+     inkscape:cy="155.93657"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -1621,6 +1621,16 @@
          id="tspan338"><tspan
            style="stroke-width:0.6"
            id="tspan337">DÉPART</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.4586px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;white-space:pre;inline-size:111.644;display:inline;fill:#000000;stroke-width:0.600001"
+       x="32.300003"
+       y="-4.147253"
+       id="text32-5"
+       transform="matrix(1,0,0,1.0882869,419.73473,36.513629)"><tspan
+         x="32.300003"
+         y="-4.147253"
+         id="tspan339">ARRIVÉE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
