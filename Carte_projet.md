@@ -3,7 +3,6 @@
 |id |description| effet|
 |--|------------|-------|
 |1|SAÉ - Sudoku en C|+3 Réaliser, +2 Optimiser|
-<<<<<<< HEAD
 |2|Projet de comptabilité surppise|-2 Gérer,-2 conduite de projet |
 |3|Vous faites un compilateur de pseudo code|+3 réaliser, +2 optimiser, +1 conduite de projet|
 |4|Vous faites la base de donner dans un projet scrum ou vous etes le scrummaster|+3 Gérer,+1 conduite de projet, +2 travail d'équipe|
@@ -29,7 +28,6 @@
 |28|Vous vous lancez comme influenceur avec des amis|+1 conduite de projet, +1 travail d'équipe|
 |29|Lors de SAE 3&4 vous faites les factures|+2 realiser, +1 optimiser|
 |30|Vous vous investissez trop dans un jeu video|-1 realiser, -1 optimiser, -1 administrer, -1 gerer, -1 conduite de projet, -1 travail d'equipe|
-=======
 |2|Vous réalisez un projet de comptabilité surprise|-2 Gérer, -2 conduite de projet |
 |3|Vous réalisez un compilateur de Pseudo-code|+3 réaliser, +2 optimiser, +1 conduite de projet|
 |4|Vous réaliez la base de données dans un projet scrum ou vous etes le scrum master|+3 Gérer, +1 conduite de projet, +2 travail d'équipe|
@@ -48,14 +46,13 @@
 |21|Vous avez généré par IA lors d'un projet informatique|rien|
 |22|Vous faite le diagramme UML d'une base de données|+1 gerer|
 |23|Projet Tchattator|+1 réaliser, +1 administrer, +1 travail d'equipe|
-|24|||
-|25|||
-|26|||
-|27|||
-|28|||
-|29|||
-|30|||
->>>>>>> c185cad8e714da489a1d2cbf58d0f9293cfc43c7
+|24|Migration vers linux de votre pc |+1 administrer|
+|25|Vous configurer un site dynamique avec apache| +1 réaliser, +1administrer|
+|26|Vous devez décrire un projet en anglais vous reussissez|+1 conduite de projet|
+|27|Vous devez décrire un projet en anglais vous échouez|-1 conduite de projet|
+|28|Vous vous lancez comme influenceur avec des amis|+1 conduite de projet, +1 travail d'équipe|
+|29|Lors de SAE 3&4 vous faites les factures|+2 realiser, +1 optimiser|
+|30|Vous vous investissez trop dans un jeu video|-1 realiser, -1 optimiser, -1 administrer, -1 gerer, -1 conduite de projet, -1 travail d'equipe|
 |31|||
 |32|||
 |33|||
