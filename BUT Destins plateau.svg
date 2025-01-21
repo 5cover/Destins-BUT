@@ -28,8 +28,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="2.0328778"
-     inkscape:cx="1483.1192"
-     inkscape:cy="155.93657"
+     inkscape:cx="284.32599"
+     inkscape:cy="438.78683"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -57,6 +57,30 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <rect
+       x="908.2205"
+       y="545.38586"
+       width="0"
+       height="5.5572411"
+       id="rect126" />
+    <rect
+       x="333.73229"
+       y="333.73232"
+       width="60.472403"
+       height="60.47245"
+       id="rect31" />
+    <rect
+       x="345.05268"
+       y="345.40051"
+       width="39.305396"
+       height="36.870548"
+       id="rect28" />
+    <rect
+       x="341.57432"
+       y="464.36021"
+       width="46.957773"
+       height="47.305609"
+       id="rect26" />
     <marker
        style="overflow:visible"
        id="marker25"
@@ -146,30 +170,30 @@
    id="tspan25"> </tspan></tspan><tspan
              x="41.62059"
              y="30.24139"
-             id="tspan26">une étape critique<tspan
+             id="tspan29">une étape critique<tspan
    y="30.24139"
-   id="tspan27"> </tspan></tspan><tspan
+   id="tspan30"> </tspan></tspan><tspan
              x="41.62059"
              y="31.95409"
-             id="tspan28">dans la<tspan
+             id="tspan32">dans la<tspan
    y="31.95409"
-   id="tspan29"> </tspan></tspan><tspan
+   id="tspan138"> </tspan></tspan><tspan
              x="41.62059"
              y="33.666792"
-             id="tspan30">documentation<tspan
+             id="tspan139">documentation<tspan
    y="33.666792"
-   id="tspan31"> </tspan></tspan><tspan
+   id="tspan141"> </tspan></tspan><tspan
              x="41.62059"
              y="35.379492"
-             id="tspan32">d'un projet.
+             id="tspan180">d'un projet.
 </tspan><tspan
              x="41.62059"
              y="37.092191"
-             id="tspan180">
+             id="tspan181">
 </tspan><tspan
              x="41.62059"
              y="38.804891"
-             id="tspan181">-1 Administrer</tspan></text>
+             id="tspan182">-1 Administrer</tspan></text>
       </g>
     </clipPath>
     <clipPath
@@ -208,30 +232,30 @@
            transform="matrix(1.0697031,0,0,0.99155596,-12.522212,16.241701)"><tspan
              x="41.656384"
              y="28.52869"
-             id="tspan182">Vous avez lu un<tspan
+             id="tspan183">Vous avez lu un<tspan
    y="28.52869"
-   id="tspan183"> </tspan></tspan><tspan
+   id="tspan184"> </tspan></tspan><tspan
              x="41.656384"
              y="30.24139"
-             id="tspan184">article qui a enrichi<tspan
+             id="tspan185">article qui a enrichi<tspan
    y="30.24139"
-   id="tspan185"> </tspan></tspan><tspan
+   id="tspan186"> </tspan></tspan><tspan
              x="41.656384"
              y="31.95409"
-             id="tspan186">vos connaissances<tspan
+             id="tspan187">vos connaissances<tspan
    y="31.95409"
-   id="tspan187"> </tspan></tspan><tspan
+   id="tspan188"> </tspan></tspan><tspan
              x="41.656384"
              y="33.666792"
-             id="tspan188">techniques.
+             id="tspan189">techniques.
 </tspan><tspan
              x="41.656384"
              y="35.379492"
-             id="tspan189">
+             id="tspan190">
 </tspan><tspan
              x="41.656384"
              y="37.092191"
-             id="tspan190">+1 Réaliser</tspan></text>
+             id="tspan191">+1 Réaliser</tspan></text>
       </g>
     </clipPath>
     <clipPath
@@ -298,30 +322,30 @@
                transform="matrix(1.0697031,0,0,0.99155596,-12.522212,31.128067)"><tspan
                  x="41.625942"
                  y="28.52869"
-                 id="tspan191">Vous avez présenté<tspan
+                 id="tspan192">Vous avez présenté<tspan
    y="28.52869"
-   id="tspan192"> </tspan></tspan><tspan
+   id="tspan193"> </tspan></tspan><tspan
                  x="41.625942"
                  y="30.24139"
-                 id="tspan193">un rapport clair et<tspan
+                 id="tspan194">un rapport clair et<tspan
    y="30.24139"
-   id="tspan194"> </tspan></tspan><tspan
+   id="tspan195"> </tspan></tspan><tspan
                  x="41.625942"
                  y="31.95409"
-                 id="tspan195">bien structuré à<tspan
+                 id="tspan196">bien structuré à<tspan
    y="31.95409"
-   id="tspan196"> </tspan></tspan><tspan
+   id="tspan197"> </tspan></tspan><tspan
                  x="41.625942"
                  y="33.666792"
-                 id="tspan197">votre professeur.
+                 id="tspan198">votre professeur.
 </tspan><tspan
                  x="41.625942"
                  y="35.379492"
-                 id="tspan198">
+                 id="tspan199">
 </tspan><tspan
                  x="41.625942"
                  y="37.092191"
-                 id="tspan199"> +1 Conduire</tspan></text>
+                 id="tspan200"> +1 Conduire</tspan></text>
             <text
                xml:space="preserve"
                style="font-size:3.52777px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.600001"
@@ -381,6 +405,492 @@
          sodipodi:nodetypes="ccc"
          id="path25-1" />
     </marker>
+    <rect
+       x="341.57431"
+       y="464.3602"
+       width="46.957771"
+       height="47.305611"
+       id="rect26-8" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-6" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-8" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-61" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-5" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-81" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-85" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-4" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-857" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-3" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-30" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-54" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-0" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-7" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-34" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-00" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-2" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-75" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-55" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-9" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-69" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-68" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-90" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-04" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-1" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-19" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-73" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-06" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-52" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-79" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-17" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-02" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-853" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-70" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-76" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-041" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-37" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-74" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-44" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-757" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-16" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-89" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-741" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-57" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-56" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-78" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-691" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-71" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-573" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-022" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-60" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-445" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-21" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-603" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-99" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-29" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-681" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-39" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-48" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-561" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-95" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-793" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-684" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-795" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-768" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-31" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-13" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-690" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-43" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-38" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-50" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-703" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-01" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-992" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-65" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-96" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect31-2-9-7-858" />
+    <rect
+       x="333.7323"
+       y="333.73233"
+       width="60.472404"
+       height="60.47245"
+       id="rect137" />
   </defs>
   <g
      inkscape:label="Principal"
@@ -413,35 +923,35 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,95.12806)"><tspan
          x="41.673443"
          y="28.52869"
-         id="tspan200">Vous avez soumis<tspan
+         id="tspan201">Vous avez soumis<tspan
    y="28.52869"
-   id="tspan201"> </tspan></tspan><tspan
+   id="tspan202"> </tspan></tspan><tspan
          x="41.673443"
          y="30.24139"
-         id="tspan202">un projet avec des<tspan
+         id="tspan203">un projet avec des<tspan
    y="30.24139"
-   id="tspan203"> </tspan></tspan><tspan
+   id="tspan204"> </tspan></tspan><tspan
          x="41.673443"
          y="31.95409"
-         id="tspan204">commentaires<tspan
+         id="tspan205">commentaires<tspan
    y="31.95409"
-   id="tspan205"> </tspan></tspan><tspan
+   id="tspan206"> </tspan></tspan><tspan
          x="41.673443"
          y="33.666792"
-         id="tspan206">absents ou<tspan
+         id="tspan207">absents ou<tspan
    y="33.666792"
-   id="tspan207"> </tspan></tspan><tspan
+   id="tspan208"> </tspan></tspan><tspan
          x="41.673443"
          y="35.379492"
-         id="tspan208">insuffisants.
+         id="tspan209">insuffisants.
 </tspan><tspan
          x="41.673443"
          y="37.092191"
-         id="tspan209">
+         id="tspan210">
 </tspan><tspan
          x="41.673443"
          y="38.804891"
-         id="tspan210">-1 Administrer</tspan></text>
+         id="tspan211">-1 Administrer</tspan></text>
     <rect
        style="fill:#2ccf29;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-2-4-9-2"
@@ -682,30 +1192,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,35.477811,127.12806)"><tspan
          x="41.625942"
          y="28.52869"
-         id="tspan211">Vous avez omis de<tspan
+         id="tspan212">Vous avez omis de<tspan
    y="28.52869"
-   id="tspan212"> </tspan></tspan><tspan
+   id="tspan213"> </tspan></tspan><tspan
          x="41.625942"
          y="30.24139"
-         id="tspan213">répondre à un<tspan
+         id="tspan214">répondre à un<tspan
    y="30.24139"
-   id="tspan214"> </tspan></tspan><tspan
+   id="tspan215"> </tspan></tspan><tspan
          x="41.625942"
          y="31.95409"
-         id="tspan215">email important du<tspan
+         id="tspan216">email important du<tspan
    y="31.95409"
-   id="tspan216"> </tspan></tspan><tspan
+   id="tspan217"> </tspan></tspan><tspan
          x="41.625942"
          y="33.666792"
-         id="tspan217">professeur.
+         id="tspan218">professeur.
 </tspan><tspan
          x="41.625942"
          y="35.379492"
-         id="tspan218">
+         id="tspan219">
 </tspan><tspan
          x="41.625942"
          y="37.092191"
-         id="tspan219">-1 Conduire</tspan></text>
+         id="tspan220">-1 Conduire</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -715,19 +1225,19 @@
        transform="matrix(1.0697031,0,0,0.99155597,3.477788,126.85965)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan220">SAÉ - Sudoku en C
+         id="tspan221">SAÉ - Sudoku en C
 </tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan221">
+         id="tspan222">
 </tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan222">+3 Réaliser
+         id="tspan223">+3 Réaliser
 </tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan223">+2 Optimiser</tspan></text>
+         id="tspan224">+2 Optimiser</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-4-4"
@@ -745,30 +1255,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,48.241705)"><tspan
          x="41.679798"
          y="28.52869"
-         id="tspan224">Vous avez ignoré<tspan
+         id="tspan225">Vous avez ignoré<tspan
    y="28.52869"
-   id="tspan225"> </tspan></tspan><tspan
+   id="tspan226"> </tspan></tspan><tspan
          x="41.679798"
          y="30.24139"
-         id="tspan226">des consignes<tspan
+         id="tspan227">des consignes<tspan
    y="30.24139"
-   id="tspan227"> </tspan></tspan><tspan
+   id="tspan228"> </tspan></tspan><tspan
          x="41.679798"
          y="31.95409"
-         id="tspan228">importantes dans<tspan
+         id="tspan229">importantes dans<tspan
    y="31.95409"
-   id="tspan229"> </tspan></tspan><tspan
+   id="tspan230"> </tspan></tspan><tspan
          x="41.679798"
          y="33.666792"
-         id="tspan230">un exercice.
+         id="tspan231">un exercice.
 </tspan><tspan
          x="41.679798"
          y="35.379492"
-         id="tspan231">
+         id="tspan232">
 </tspan><tspan
          x="41.679798"
          y="37.092191"
-         id="tspan232">-1 Gérer</tspan></text>
+         id="tspan233">-1 Gérer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2"
@@ -786,35 +1296,35 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,31.128066)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan233">Vous avez manqué<tspan
+         id="tspan234">Vous avez manqué<tspan
    y="28.52869"
-   id="tspan234"> </tspan></tspan><tspan
+   id="tspan235"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan235">une étape critique<tspan
+         id="tspan236">une étape critique<tspan
    y="30.24139"
-   id="tspan236"> </tspan></tspan><tspan
+   id="tspan237"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan237">dans la<tspan
+         id="tspan238">dans la<tspan
    y="31.95409"
-   id="tspan238"> </tspan></tspan><tspan
+   id="tspan239"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan239">documentation<tspan
+         id="tspan240">documentation<tspan
    y="33.666792"
-   id="tspan240"> </tspan></tspan><tspan
+   id="tspan241"> </tspan></tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan241">d'un projet.
+         id="tspan242">d'un projet.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan242">
+         id="tspan243">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan243">-1 Administrer</tspan></text>
+         id="tspan244">-1 Administrer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect214-2-4"
@@ -832,30 +1342,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,63.128069)"><tspan
          x="41.625942"
          y="28.52869"
-         id="tspan244">Vous avez présenté<tspan
+         id="tspan245">Vous avez présenté<tspan
    y="28.52869"
-   id="tspan245"> </tspan></tspan><tspan
+   id="tspan246"> </tspan></tspan><tspan
          x="41.625942"
          y="30.24139"
-         id="tspan246">un rapport clair et<tspan
+         id="tspan247">un rapport clair et<tspan
    y="30.24139"
-   id="tspan247"> </tspan></tspan><tspan
+   id="tspan248"> </tspan></tspan><tspan
          x="41.625942"
          y="31.95409"
-         id="tspan248">bien structuré à<tspan
+         id="tspan249">bien structuré à<tspan
    y="31.95409"
-   id="tspan249"> </tspan></tspan><tspan
+   id="tspan250"> </tspan></tspan><tspan
          x="41.625942"
          y="33.666792"
-         id="tspan250">votre professeur.
+         id="tspan251">votre professeur.
 </tspan><tspan
          x="41.625942"
          y="35.379492"
-         id="tspan251">
+         id="tspan252">
 </tspan><tspan
          x="41.625942"
          y="37.092191"
-         id="tspan252"> +1 Conduire</tspan></text>
+         id="tspan253"> +1 Conduire</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect214-4"
@@ -873,30 +1383,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522199,16.241701)"><tspan
          x="41.656384"
          y="28.52869"
-         id="tspan253">Vous avez lu un<tspan
+         id="tspan254">Vous avez lu un<tspan
    y="28.52869"
-   id="tspan254"> </tspan></tspan><tspan
+   id="tspan255"> </tspan></tspan><tspan
          x="41.656384"
          y="30.24139"
-         id="tspan255">article qui a enrichi<tspan
+         id="tspan256">article qui a enrichi<tspan
    y="30.24139"
-   id="tspan256"> </tspan></tspan><tspan
+   id="tspan257"> </tspan></tspan><tspan
          x="41.656384"
          y="31.95409"
-         id="tspan257">vos connaissances<tspan
+         id="tspan258">vos connaissances<tspan
    y="31.95409"
-   id="tspan258"> </tspan></tspan><tspan
+   id="tspan259"> </tspan></tspan><tspan
          x="41.656384"
          y="33.666792"
-         id="tspan259">techniques.
+         id="tspan260">techniques.
 </tspan><tspan
          x="41.656384"
          y="35.379492"
-         id="tspan260">
+         id="tspan261">
 </tspan><tspan
          x="41.656384"
          y="37.092191"
-         id="tspan261">+1 Réaliser</tspan></text>
+         id="tspan262">+1 Réaliser</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42"
@@ -914,30 +1424,30 @@
        transform="matrix(1.0697031,0,0,0.99155597,-12.522212,80.24171)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan262">Vous avez partagé<tspan
+         id="tspan263">Vous avez partagé<tspan
    y="28.52869"
-   id="tspan263"> </tspan></tspan><tspan
+   id="tspan264"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan264">des ressources<tspan
+         id="tspan265">des ressources<tspan
    y="30.24139"
-   id="tspan265"> </tspan></tspan><tspan
+   id="tspan266"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan266">utiles avec vos<tspan
+         id="tspan267">utiles avec vos<tspan
    y="31.95409"
-   id="tspan267"> </tspan></tspan><tspan
+   id="tspan268"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan268">camarades.
+         id="tspan269">camarades.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan269">
+         id="tspan270">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan270">+1 Collaborer</tspan></text>
+         id="tspan271">+1 Collaborer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-0"
@@ -954,35 +1464,35 @@
        transform="matrix(1.0697031,0,0,0.99155597,19.477801,128.24171)"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan271">Vous avez proposé<tspan
+         id="tspan272">Vous avez proposé<tspan
    y="28.52869"
-   id="tspan272"> </tspan></tspan><tspan
+   id="tspan273"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan273">une optimisation<tspan
+         id="tspan274">une optimisation<tspan
    y="30.24139"
-   id="tspan274"> </tspan></tspan><tspan
+   id="tspan275"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan275">qui a réduit les<tspan
+         id="tspan276">qui a réduit les<tspan
    y="31.95409"
-   id="tspan276"> </tspan></tspan><tspan
+   id="tspan277"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan277">coûts d'un projet<tspan
+         id="tspan278">coûts d'un projet<tspan
    y="33.666792"
-   id="tspan278"> </tspan></tspan><tspan
+   id="tspan279"> </tspan></tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan279">fictif.
+         id="tspan280">fictif.
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan280">
+         id="tspan281">
 </tspan><tspan
          x="41.62059"
          y="38.804891"
-         id="tspan281">+1 Gérer</tspan></text>
+         id="tspan282">+1 Gérer</tspan></text>
     <rect
        style="fill:#8080ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
        id="rect42-8"
@@ -999,58 +1509,53 @@
        transform="matrix(1.0697031,0,0,1.1228125,-12.522212,110.1164)"><tspan
          x="41.648521"
          y="28.52869"
-         id="tspan282">Soirée d'intégration
+         id="tspan283">Soirée d'intégration
 </tspan><tspan
          x="41.648521"
          y="30.24139"
-         id="tspan283">
+         id="tspan284">
 </tspan><tspan
          x="41.648521"
          y="31.95409"
-         id="tspan284">Vous pouvez<tspan
+         id="tspan285">Vous pouvez<tspan
    y="31.95409"
-   id="tspan285"> </tspan></tspan><tspan
+   id="tspan286"> </tspan></tspan><tspan
          x="41.648521"
          y="33.666792"
-         id="tspan286">participer à la<tspan
+         id="tspan287">participer à la<tspan
    y="33.666792"
-   id="tspan287"> </tspan></tspan><tspan
+   id="tspan288"> </tspan></tspan><tspan
          x="41.648521"
          y="35.379492"
-         id="tspan288">soirée d'intégration<tspan
+         id="tspan289">soirée d'intégration<tspan
    y="35.379492"
-   id="tspan289"> </tspan></tspan><tspan
+   id="tspan290"> </tspan></tspan><tspan
          x="41.648521"
          y="37.092191"
-         id="tspan290">de l'IUT
+         id="tspan291">de l'IUT
 </tspan><tspan
          x="41.648521"
          y="38.804891"
-         id="tspan291">
+         id="tspan292">
 </tspan><tspan
          x="41.648521"
          y="40.517591"
-         id="tspan292">Tout gain ou perte<tspan
+         id="tspan293">x3 tout gain ou<tspan
    y="40.517591"
-   id="tspan293"> </tspan></tspan><tspan
+   id="tspan294"> </tspan></tspan><tspan
          x="41.648521"
          y="42.230291"
-         id="tspan294">de points sur<tspan
+         id="tspan295">perte de points sur<tspan
    y="42.230291"
-   id="tspan295"> </tspan></tspan><tspan
+   id="tspan296"> </tspan></tspan><tspan
          x="41.648521"
          y="43.942991"
-         id="tspan296">Collaborer est<tspan
+         id="tspan297">Collaborer  jusqu'à<tspan
    y="43.942991"
-   id="tspan297"> </tspan></tspan><tspan
+   id="tspan298"> </tspan></tspan><tspan
          x="41.648521"
          y="45.655691"
-         id="tspan298">doublé jusqu'à la<tspan
-   y="45.655691"
-   id="tspan299"> </tspan></tspan><tspan
-         x="41.648521"
-         y="47.368391"
-         id="tspan300">fin de l'année</tspan></text>
+         id="tspan299">la fin de l'année</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
        id="rect214"
@@ -1068,49 +1573,49 @@
        inkscape:label="text218"><tspan
          x="41.759411"
          y="28.52869"
-         id="tspan302"><tspan
+         id="tspan301"><tspan
    style="stroke-width:0.6"
-   id="tspan301">Vous avez proposé</tspan><tspan
+   id="tspan300">Vous avez proposé</tspan><tspan
    y="28.52869"
-   id="tspan303"> </tspan></tspan><tspan
+   id="tspan302"> </tspan></tspan><tspan
          x="41.759411"
          y="30.24139"
-         id="tspan305"><tspan
+         id="tspan304"><tspan
    style="stroke-width:0.6"
-   id="tspan304">une documentation</tspan><tspan
+   id="tspan303">une documentation</tspan><tspan
    y="30.24139"
-   id="tspan306"> </tspan></tspan><tspan
+   id="tspan305"> </tspan></tspan><tspan
          x="41.759411"
          y="31.95409"
-         id="tspan308"><tspan
+         id="tspan307"><tspan
    style="stroke-width:0.6"
-   id="tspan307">simple et</tspan><tspan
+   id="tspan306">simple et</tspan><tspan
    y="31.95409"
-   id="tspan309"> </tspan></tspan><tspan
+   id="tspan308"> </tspan></tspan><tspan
          x="41.759411"
          y="33.666792"
-         id="tspan311"><tspan
+         id="tspan310"><tspan
    style="stroke-width:0.6"
-   id="tspan310">compréhensible</tspan><tspan
+   id="tspan309">compréhensible</tspan><tspan
    y="33.666792"
-   id="tspan312"> </tspan></tspan><tspan
+   id="tspan311"> </tspan></tspan><tspan
          x="41.759411"
          y="35.379492"
-         id="tspan314"><tspan
+         id="tspan313"><tspan
            style="stroke-width:0.6"
-           id="tspan313">pour un projet.
+           id="tspan312">pour un projet.
 </tspan></tspan><tspan
          x="41.759411"
          y="37.092191"
-         id="tspan316"><tspan
+         id="tspan315"><tspan
            style="stroke-width:0.6"
-           id="tspan315">
+           id="tspan314">
 </tspan></tspan><tspan
          x="41.759411"
          y="38.804891"
-         id="tspan318"><tspan
+         id="tspan317"><tspan
            style="stroke-width:0.6"
-           id="tspan317">+1 Administrer</tspan></tspan></text>
+           id="tspan316">+1 Administrer</tspan></tspan></text>
     <rect
        style="fill:#aade87;stroke-width:0.600001"
        id="rect30"
@@ -1352,12 +1857,12 @@
        x="199.99998"
        y="120.00002" />
     <rect
-       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
        id="rect42-0-8-0-1-0-7-9-1-3-4-3"
        width="16.000011"
        height="16.000002"
-       x="247.99998"
-       y="136" />
+       x="248"
+       y="136.00002" />
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -1368,30 +1873,30 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan319">Vous avez ignoré<tspan
+         id="tspan318">Vous avez ignoré<tspan
    y="28.52869"
-   id="tspan320"> </tspan></tspan><tspan
+   id="tspan319"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan321">les suggestions<tspan
+         id="tspan320">les suggestions<tspan
    y="30.24139"
-   id="tspan322"> </tspan></tspan><tspan
+   id="tspan321"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan323">utiles de votre<tspan
+         id="tspan322">utiles de votre<tspan
    y="31.95409"
-   id="tspan324"> </tspan></tspan><tspan
+   id="tspan323"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan325">professeur.
+         id="tspan324">professeur.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan326">
+         id="tspan325">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan327">-1 Gérer</tspan></text>
+         id="tspan326">-1 Gérer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
@@ -1402,30 +1907,74 @@
        inkscape:label="text43-6-7"><tspan
          x="41.62059"
          y="28.52869"
-         id="tspan328">Vous avez clarifié<tspan
+         id="tspan327">Vous avez clarifié<tspan
    y="28.52869"
-   id="tspan329"> </tspan></tspan><tspan
+   id="tspan328"> </tspan></tspan><tspan
          x="41.62059"
          y="30.24139"
-         id="tspan330">les objectifs d'un<tspan
+         id="tspan329">les objectifs d'un<tspan
    y="30.24139"
-   id="tspan331"> </tspan></tspan><tspan
+   id="tspan330"> </tspan></tspan><tspan
          x="41.62059"
          y="31.95409"
-         id="tspan332">projet lors d'une<tspan
+         id="tspan331">projet lors d'une<tspan
    y="31.95409"
-   id="tspan333"> </tspan></tspan><tspan
+   id="tspan332"> </tspan></tspan><tspan
          x="41.62059"
          y="33.666792"
-         id="tspan334">réunion d'équipe.
+         id="tspan333">réunion d'équipe.
 </tspan><tspan
          x="41.62059"
          y="35.379492"
-         id="tspan335">
+         id="tspan334">
 </tspan><tspan
          x="41.62059"
          y="37.092191"
-         id="tspan336"> +1 Collaborer</tspan></text>
+         id="tspan335"> +1 Collaborer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.37016px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:13.5577;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.600001"
+       x="41.62059"
+       y="28.52869"
+       id="text43-6-7-4-1"
+       transform="matrix(1.0697031,0,0,0.99155597,67.477789,110.495)"
+       inkscape:label="text43-6-7"><tspan
+         x="41.62059"
+         y="28.52869"
+         id="tspan336">Vous avez<tspan
+   y="28.52869"
+   id="tspan337"> </tspan></tspan><tspan
+         x="41.62059"
+         y="30.24139"
+         id="tspan338">documenté vos<tspan
+   y="30.24139"
+   id="tspan339"> </tspan></tspan><tspan
+         x="41.62059"
+         y="31.95409"
+         id="tspan340">travaux pour les<tspan
+   y="31.95409"
+   id="tspan341"> </tspan></tspan><tspan
+         x="41.62059"
+         y="33.666792"
+         id="tspan342">rendre plus<tspan
+   y="33.666792"
+   id="tspan343"> </tspan></tspan><tspan
+         x="41.62059"
+         y="35.379492"
+         id="tspan344">accessibles à vos<tspan
+   y="35.379492"
+   id="tspan345"> </tspan></tspan><tspan
+         x="41.62059"
+         y="37.092191"
+         id="tspan346">collaborateurs.
+</tspan><tspan
+         x="41.62059"
+         y="38.804891"
+         id="tspan347">
+</tspan><tspan
+         x="41.62059"
+         y="40.517591"
+         id="tspan348">+1 Administrer</tspan></text>
     <rect
        style="fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke-width:0.15;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-0-8-0-1-0-7-4-9-9"
@@ -1618,9 +2167,9 @@
        transform="matrix(1,0,0,1.0882869,15.699998,44.51363)"><tspan
          x="32.300003"
          y="-4.147253"
-         id="tspan338"><tspan
+         id="tspan350"><tspan
            style="stroke-width:0.6"
-           id="tspan337">DÉPART</tspan></tspan></text>
+           id="tspan349">DÉPART</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.4586px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;white-space:pre;inline-size:111.644;display:inline;fill:#000000;stroke-width:0.600001"
@@ -1630,7 +2179,2130 @@
        transform="matrix(1,0,0,1.0882869,419.73473,36.513629)"><tspan
          x="32.300003"
          y="-4.147253"
-         id="tspan339">ARRIVÉE</tspan></text>
+         id="tspan351">ARRIVÉE</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.699998,-0.30000183)"
+       id="text26"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="345.80405"
+         y="469.07812"
+         id="tspan352">Vous avez mal </tspan><tspan
+         x="348.29623"
+         y="475.74478"
+         id="tspan353">configuré un </tspan><tspan
+         x="341.7715"
+         y="482.41144"
+         id="tspan354">outil, ralentissant </tspan><tspan
+         x="346.92644"
+         y="489.07809"
+         id="tspan355">tout le projet.
+</tspan><tspan
+         x="365.05273"
+         y="495.74475"
+         id="tspan356">
+</tspan><tspan
+         x="354.06446"
+         y="502.4114"
+         id="tspan357">-1 Gérer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.413134,-16.136243)"
+       id="text26-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect26-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="342.34311"
+         y="469.07812"
+         id="tspan358">Vous avez ignoré </tspan><tspan
+         x="349.95118"
+         y="475.74478"
+         id="tspan359">des retours </tspan><tspan
+         x="344.43947"
+         y="482.41144"
+         id="tspan360">constructifs sur </tspan><tspan
+         x="347.95379"
+         y="489.07809"
+         id="tspan361">votre travail.
+</tspan><tspan
+         x="365.05273"
+         y="495.74475"
+         id="tspan362">
+</tspan><tspan
+         x="347.8379"
+         y="502.4114"
+         id="tspan363">-1 Collaborer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
+       x="138.19385"
+       y="134.89418"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="stroke-width:0.15"></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.699998,-0.30000183)"
+       id="text28"
+       style="fill:#000000;stroke-width:0.56692913;text-orientation:auto;-inkscape-font-specification:Sans;font-family:Sans;font-size:5.33333333px;stroke:none;text-align:center;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect28)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,15.703644,1.6326584)"
+       id="text30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31);shape-padding:3.82634;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="338.97658"
+         y="342.27734"
+         id="tspan364">Vous avez proposé </tspan><tspan
+         x="347.33855"
+         y="348.944"
+         id="tspan365">un script qui </tspan><tspan
+         x="349.08204"
+         y="355.61065"
+         id="tspan366">améliore la </tspan><tspan
+         x="339.54429"
+         y="362.27731"
+         id="tspan367">sécurité du projet.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan368">
+</tspan><tspan
+         x="343.7409"
+         y="375.61062"
+         id="tspan369">+1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-16.296357,0.01939024)"
+       id="text30-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="338.80731"
+         y="342.27734"
+         id="tspan370">Vous avez maîtrisé </tspan><tspan
+         x="346.74741"
+         y="348.944"
+         id="tspan371">une nouvelle </tspan><tspan
+         x="343.15105"
+         y="355.61065"
+         id="tspan372">bibliothèque en </tspan><tspan
+         x="339.71225"
+         y="362.27731"
+         id="tspan373">programmation et </tspan><tspan
+         x="342.22918"
+         y="368.94397"
+         id="tspan374">l'avez appliquée </tspan><tspan
+         x="346.91277"
+         y="375.61062"
+         id="tspan375">avec succès.
+</tspan><tspan
+         x="363.96875"
+         y="382.27728"
+         id="tspan376">
+</tspan><tspan
+         x="348.57423"
+         y="388.94394"
+         id="tspan377">+1 Réaliser</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-32.296357,0.79220433)"
+       id="text30-6-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="339.45705"
+         y="342.27734"
+         id="tspan378">Vous avez noté un </tspan><tspan
+         x="341.81902"
+         y="348.944"
+         id="tspan379">quiz technique à </tspan><tspan
+         x="347.85418"
+         y="355.61065"
+         id="tspan380">cause d'une </tspan><tspan
+         x="340.38543"
+         y="362.27731"
+         id="tspan381">mauvaise gestion </tspan><tspan
+         x="350.52475"
+         y="368.94397"
+         id="tspan382">du temps.
+</tspan><tspan
+         x="363.96875"
+         y="375.61062"
+         id="tspan383">
+</tspan><tspan
+         x="352.98048"
+         y="382.27728"
+         id="tspan384">-1 Gérer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-48.296358,0.81278521)"
+       id="text30-6-7-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan385">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan386">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan387">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan388">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan389">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan390">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-48.296358,-14.567749)"
+       id="text30-6-7-6-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-6);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan391">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan392">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan393">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan394">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan395">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan396">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-32.296357,-14.475493)"
+       id="text30-6-7-6-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-8);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan397">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan398">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan399">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan400">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan401">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan402">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-16.296357,-14.521536)"
+       id="text30-6-7-6-94"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-61);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan403">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan404">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan405">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan406">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan407">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan408">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-0.2963566,-14.210909)"
+       id="text30-6-7-6-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-5);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan409">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan410">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan411">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan412">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan413">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan414">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-0.2963566,0.98913906)"
+       id="text30-6-7-6-20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-858);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan415">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan416">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan417">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan418">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan419">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan420">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,15.703644,-13.945704)"
+       id="text30-6-7-6-93"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-81);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan421">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan422">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan423">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan424">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan425">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan426">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,15.703644,-30.097815)"
+       id="text30-6-7-6-11"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-85);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan427">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan428">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan429">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan430">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan431">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan432">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,15.703644,-53.873361)"
+       id="text30-6-7-6-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-4);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan433">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan434">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan435">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan436">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan437">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan438">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,31.703644,-62.385261)"
+       id="text30-6-7-6-18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-857);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan439">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan440">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan441">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan442">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan443">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan444">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,31.703644,-78.527407)"
+       id="text30-6-7-6-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-3);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan445">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan446">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan447">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan448">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan449">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan450">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,47.703645,-78.185679)"
+       id="text30-6-7-6-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-30);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan451">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan452">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan453">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan454">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan455">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan456">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,63.703645,-78.576136)"
+       id="text30-6-7-6-12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-54);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan457">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan458">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan459">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan460">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan461">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan462">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,63.703645,-62.567426)"
+       id="text30-6-7-6-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-0);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan463">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan464">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan465">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan466">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan467">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan468">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,-62.18137)"
+       id="text30-6-7-6-40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-7);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan469">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan470">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan471">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan472">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan473">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan474">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,-30.038108)"
+       id="text30-6-7-6-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-34);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan475">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan476">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan477">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan478">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan479">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan480">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,-14.493961)"
+       id="text30-6-7-6-61"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-2);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan481">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan482">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan483">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan484">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan485">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan486">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,18.092047)"
+       id="text30-6-7-6-70"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-75);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan487">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan488">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan489">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan490">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan491">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan492">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,34.049218)"
+       id="text30-6-7-6-36"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-9);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan493">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan494">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan495">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan496">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan497">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan498">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,49.7281)"
+       id="text30-6-7-6-22"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-69);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan499">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan500">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan501">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan502">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan503">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan504">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,65.110668)"
+       id="text30-6-7-6-83"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-68);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan505">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan506">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan507">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan508">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan509">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan510">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,111.70365,65.814328)"
+       id="text30-6-7-6-33"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-90);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan511">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan512">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan513">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan514">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan515">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan516">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,95.703646,65.554023)"
+       id="text30-6-7-6-708"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-04);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan517">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan518">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan519">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan520">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan521">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan522">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,127.70365,65.684176)"
+       id="text30-6-7-6-49"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-1);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan523">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan524">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan525">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan526">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan527">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan528">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,143.70365,65.94448)"
+       id="text30-6-7-6-78"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-19);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan529">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan530">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan531">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan532">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan533">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan534">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,65.98572)"
+       id="text30-6-7-6-19"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-73);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan535">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan536">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan537">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan538">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan539">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan540">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,51.107139)"
+       id="text30-6-7-6-46"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-06);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan541">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan542">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan543">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan544">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan545">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan546">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,143.70365,51.030344)"
+       id="text30-6-7-6-29"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-52);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan547">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan548">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan549">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan550">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan551">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan552">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,1.830681)"
+       id="text30-6-7-6-90"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-55);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan553">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan554">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan555">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan556">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan557">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan558">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,79.703645,-46.137706)"
+       id="text30-6-7-6-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-00);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan559">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan560">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan561">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan562">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan563">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan564">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
+       x="128"
+       y="100.56645"
+       id="text124"><tspan
+         sodipodi:role="line"
+         id="tspan124"
+         style="stroke-width:0.15"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1"
+       x="58.954773"
+       y="117.13211"
+       id="text125"><tspan
+         sodipodi:role="line"
+         id="tspan125"
+         style="stroke-width:0.15"
+         x="58.954773"
+         y="117.13211">s</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.699998,-0.30000183)"
+       id="text126"
+       style="fill:#000000;stroke-width:0.56692913;text-orientation:auto;-inkscape-font-specification:Sans;font-family:Sans;font-size:5.33333333px;stroke:none;text-align:center;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect126)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,127.70365,50.124615)"
+       id="text30-6-7-6-32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-79);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan565">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan566">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan567">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan568">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan569">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan570">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,111.70365,49.293718)"
+       id="text30-6-7-6-117"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-17);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan571">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan572">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan573">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan574">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan575">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan576">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,95.703646,49.944479)"
+       id="text30-6-7-6-97"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-02);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan577">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan578">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan579">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan580">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan581">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan582">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,111.70365,34.456378)"
+       id="text30-6-7-6-41"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-853);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan583">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan584">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan585">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan586">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan587">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan588">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,127.70365,34.244279)"
+       id="text30-6-7-6-463"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-70);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan589">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan590">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan591">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan592">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan593">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan594">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,143.70365,34.334934)"
+       id="text30-6-7-6-71"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-76);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan595">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan596">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan597">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan598">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan599">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan600">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,34.114127)"
+       id="text30-6-7-6-35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-041);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan601">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan602">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan603">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan604">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan605">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan606">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,9.3770028)"
+       id="text30-6-7-6-15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-37);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan607">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan608">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan609">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan610">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan611">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan612">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,-14.508242)"
+       id="text30-6-7-6-328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-74);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan613">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan614">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan615">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan616">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan617">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan618">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,-30.763697)"
+       id="text30-6-7-6-86"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-44);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan619">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan620">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan621">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan622">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan623">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan624">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,159.70365,-52.772962)"
+       id="text30-6-7-6-69"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-757);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan625">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan626">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan627">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan628">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan629">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan630">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,191.70365,-62.074391)"
+       id="text30-6-7-6-52"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-16);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan631">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan632">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan633">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan634">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan635">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan636">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,191.70365,-47.088004)"
+       id="text30-6-7-6-30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-741);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan637">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan638">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan639">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan640">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan641">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan642">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,207.70365,-46.445983)"
+       id="text30-6-7-6-59"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-57);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan643">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan644">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan645">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan646">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan647">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan648">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,207.70365,-62.043381)"
+       id="text30-6-7-6-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-56);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan649">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan650">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan651">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan652">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan653">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan654">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,223.70365,-62.13252)"
+       id="text30-6-7-6-10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-78);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan655">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan656">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan657">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan658">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan659">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan660">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,239.70365,-62.055526)"
+       id="text30-6-7-6-908"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-691);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan661">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan662">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan663">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan664">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan665">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan666">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,255.70365,-62.445983)"
+       id="text30-6-7-6-88"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-71);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan667">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan668">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan669">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan670">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan671">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan672">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,-62.055526)"
+       id="text30-6-7-6-72"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-573);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan673">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan674">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan675">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan676">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan677">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan678">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,-47.348338)"
+       id="text30-6-7-6-74"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-022);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan679">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan680">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan681">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan682">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan683">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan684">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,-29.786513)"
+       id="text30-6-7-6-02"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-60);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan685">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan686">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan687">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan688">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan689">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan690">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,-14.570263)"
+       id="text30-6-7-6-128"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-445);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan691">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan692">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan693">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan694">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan695">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan696">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,2.7340978)"
+       id="text30-6-7-6-09"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-21);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan697">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan698">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan699">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan700">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan701">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan702">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,18.229847)"
+       id="text30-6-7-6-618"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-603);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan703">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan704">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan705">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan706">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan707">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan708">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,33.383841)"
+       id="text30-6-7-6-498"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-99);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan709">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan710">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan711">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan712">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan713">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan714">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,49.432579)"
+       id="text30-6-7-6-81"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-29);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan715">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan716">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan717">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan718">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan719">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan720">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,271.70365,65.728973)"
+       id="text30-6-7-6-64"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-681);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan721">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan722">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan723">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan724">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan725">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan726">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,65.684176)"
+       id="text30-6-7-6-838"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-39);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan727">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan728">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan729">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan730">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan731">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan732">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,66.115873)"
+       id="text30-6-7-6-692"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-48);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan733">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan734">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan735">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan736">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan737">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan738">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,49.675466)"
+       id="text30-6-7-6-43"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-561);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan739">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan740">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan741">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan742">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan743">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan744">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,49.554022)"
+       id="text30-6-7-6-39"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-95);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan745">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan746">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan747">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan748">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan749">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan750">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,34.326226)"
+       id="text30-6-7-6-21"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-793);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan751">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan752">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan753">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan754">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan755">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan756">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,33.269028)"
+       id="text30-6-7-6-67"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-684);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan757">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan758">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan759">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan760">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan761">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan762">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,17.545312)"
+       id="text30-6-7-6-89"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-795);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan763">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan764">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan765">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan766">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan767">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan768">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,17.654332)"
+       id="text30-6-7-6-06"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-768);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan769">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan770">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan771">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan772">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan773">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan774">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,1.4151589)"
+       id="text30-6-7-6-741"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-31);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan775">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan776">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan777">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan778">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan779">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan780">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,0.77310768)"
+       id="text30-6-7-6-152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-13);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan781">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan782">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan783">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan784">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan785">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan786">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,-13.755505)"
+       id="text30-6-7-6-55"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-690);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan787">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan788">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan789">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan790">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan791">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan792">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,-14.564927)"
+       id="text30-6-7-6-431"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-43);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan793">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan794">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan795">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan796">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan797">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan798">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,-29.803929)"
+       id="text30-6-7-6-493"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-38);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan799">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan800">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan801">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan802">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan803">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan804">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,-29.925373)"
+       id="text30-6-7-6-92"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-50);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan805">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan806">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan807">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan808">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan809">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan810">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,-45.543626)"
+       id="text30-6-7-6-23"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-703);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan811">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan812">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan813">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan814">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan815">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan816">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,-46.193334)"
+       id="text30-6-7-6-57"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-01);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan817">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan818">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan819">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan820">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan821">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan822">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,287.70365,-61.673779)"
+       id="text30-6-7-6-65"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-992);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan823">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan824">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan825">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan826">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan827">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan828">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,303.70365,-62.149637)"
+       id="text30-6-7-6-400"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-65);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan829">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan830">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan831">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan832">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan833">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan834">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,326.28098,-62.055526)"
+       id="text30-6-7-6-464"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-96);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan835">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan836">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan837">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan838">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan839">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan840">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,175.70365,-62.427058)"
+       id="text30-6-7-6-77"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31-2-9-7-89);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan841">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan842">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan843">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan844">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan845">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan846">-1 Administrer</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26457315,0,0,0.26458333,-0.2963566,0.98913906)"
+       id="text137"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect137);shape-padding:3.82634;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566929;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="341.25913"
+         y="342.27734"
+         id="tspan847">Vous avez ignoré </tspan><tspan
+         x="338.41668"
+         y="348.944"
+         id="tspan848">un rappel pour une </tspan><tspan
+         x="344.88152"
+         y="355.61065"
+         id="tspan849">mise à jour du </tspan><tspan
+         x="351.83985"
+         y="362.27731"
+         id="tspan850">système.
+</tspan><tspan
+         x="363.96875"
+         y="368.94397"
+         id="tspan851">
+</tspan><tspan
+         x="345.01303"
+         y="375.61062"
+         id="tspan852">-1 Administrer</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
