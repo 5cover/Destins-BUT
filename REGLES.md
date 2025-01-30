@@ -40,7 +40,7 @@ Lorsque vous choisissez le parcours C vous décidez de seul les compétences 4, 
 
 Si vous aviez une alternance en 2e année vous la gardez sinon vous aurez un stage.
 
-## Formation Initial
+## Formation initiale (FI)
 
 Si jamais vous avez choisi la formation initiale ou que vous n'avez pas trouvé d'alternance, alors vous devez trouver un stage avant la période de stage (au 3/4 de l'année). À la date de début de stage, vous vous déplacez à la case de fin d'année et lancez un dé pour obtenir le résultat de votre stage : vous ajoutez/retirez de -2 à +3 sur toutes les compétences avec la face "1" du dé pour le -2 à la face "6" qui ajoute 3 points.
 

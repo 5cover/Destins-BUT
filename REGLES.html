@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>REGLES.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 13px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="r%C3%A8gles-du-destin-but-informatique">Règles du destin BUT informatique</h1>
+<h2 id="but-du-jeu">But du jeu</h2>
+<p>Le but de ce jeu est de réussir à finir sa formation but informatique, on estime que les gagnants sont tous ceux qui la finiront.</p>
+<h2 id="d%C3%A9roulement-dune-partie">Déroulement d'une partie</h2>
+<p>Pour débuter la partie, chaque jour fait tourner la roue. Le joueur qui a le meilleur score commence la partie qui se poursuit ensuite dans le sens des aiguilles d'une montre.</p>
+<h3 id="d%C3%A9but-de-la-partie">Début de la partie</h3>
+<p>Vous vous lancez dans votre formation BUT Informatique Plus tard, vous choisirez votre parcours et si vous souhaitez de passer votre seconde année en FI (Formation Initial) ou en alternance. Vous serrez accompagnez d'une grille pour compter vos points.</p>
+<h3 id="d%C3%A9placement">Déplacement</h3>
+<p>Lancez le dé et avancez votre pion du nombre de cases indiquées. Déplacez toujours votre pion vers l'avant en suivant les flèches. Si vous vous arrêtez sur une case déjà occupée par un autre joueur, avancez jusqu'à la case libre suivante. Suivez les instructions qui correspondent à la case sur laquelle vous vous arrêtez.</p>
+<h2 id="passer-%C3%A0-lann%C3%A9e-suivante">Passer à l'année suivante</h2>
+<p>Pour pouvoir passer à l'année suivante, il faut avoir la majorité de vos compétences au-dessus de 10 et que celle en dessous ne soit pas en dessous de 8.</p>
+<ul>
+<li>
+<p>Dans ce cas, vous pouvez entamer votre année suivante avec vos compétences qui repartent à 10 sauf celle en dessous qui reste à leur valeur et vous perdez vos cartes projets, on appelle les compétences avec des points en moins des <strong>compétences en rattrapage</strong>.</p>
+</li>
+<li>
+<p>Dans le cas ou vous n'avez pas les point necessaire vous garder vos cartes projets et reparter pour un tour sur la meme année.</p>
+</li>
+</ul>
+<h2 id="les-parcours">Les Parcours</h2>
+<p>Le choix de votre parcours affecte les compétences qu'il faut valider pour réussir votre formation pour la 3e année.</p>
+<h3 id="le-parcours-a">Le parcours A</h3>
+<p>Lorsque vous choisissez le parcours A vous décidez de seul les compétences 1, 2 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.</p>
+<p>Lors de votre 3e année vous êtes alternant.</p>
+<h3 id="le-parcours-c">Le parcours C</h3>
+<p>Lorsque vous choisissez le parcours C vous décidez de seul les compétences 4, 5 et 6 seront évaluer. Mais vous devez toujours faire votre rattrapage de points sur les compétences où il vous manquait des points.</p>
+<p>Si vous aviez une alternance en 2e année vous la gardez sinon vous aurez un stage.</p>
+<h2 id="formation-initiale-fi">Formation initiale (FI)</h2>
+<p>Si jamais vous avez choisi la formation initiale ou que vous n'avez pas trouvé d'alternance, alors vous devez trouver un stage avant la période de stage (au 3/4 de l'année). À la date de début de stage, vous vous déplacez à la case de fin d'année et lancez un dé pour obtenir le résultat de votre stage : vous ajoutez/retirez de -2 à +3 sur toutes les compétences avec la face &quot;1&quot; du dé pour le -2 à la face &quot;6&quot; qui ajoute 3 points.</p>
+<h2 id="alternace">Alternace</h2>
+<p>Si jamais vous avez réussi à avoir une alternance alors vous n'allez passer moins de temps à l'iut donc vos jets de dés ont +2 à chacun de vos résultats et à la fin de l'année vous allez lancez un dé pour obtenir le résultat de votre alternance : vous ajoutez/retirez de -2 à +3 sur toutes les compétences avec la face &quot;1&quot; du dé pour le -2 à la face &quot;6&quot; qui ajoute 3 points.</p>
+<h2 id="les-cases">Les cases</h2>
+<h3 id="les-couleurs">Les couleurs</h3>
+<p>En déplaçant votre pion autour du plateau, faites attention aux couleurs des cases sur lesquels vous tombez - elles sont importantes ! Voici leur signification :</p>
+<h3 id="orange">Orange</h3>
+<p>La plupart des cases sont oranges, suivez les instructions correspondantes.</p>
+<h3 id="bleu">Bleu</h3>
+<p>Si vous tombez sur une case bleue, ne suivez les instructions que si vous le souhaitez.</p>
+<h3 id="vert">Vert</h3>
+<p>Ce sont des cases &lt;&lt; projet &gt;&gt;. Quand vous vous arrêtez ou quand vous passez sur une case &lt;&lt; projet &gt;&gt;, vous tirez une carte projet.</p>
+<h3 id="rouge-passage-%C3%A0-lann%C3%A9e-suivante">Rouge&lt;&lt; Passage à l'année suivante &gt;&gt;</h3>
+<p>Elles correspondent aux cases &lt;&lt; Passage à l'année suivante &gt;&gt;. Lorsque vous passez par une case rouge, arrêtez-vous, même si vous devez encore avancer. Suivez les instructions, tournez la roue et avancez de nouveau. Les cases rouges ont des instructions spéciales qui sont expliquées séparément.</p>
+<h2 id="les-projets">Les projets</h2>
+<h3 id="projets-scolaires-case-verte">Projets Scolaires (case verte)</h3>
+<p>Les projets scolaires sont des cartes qui vous accordent un bonus ou/et un malus de points sur certaines compétences. L'effet de ces projets n'est appliqué que lors de l'année où ils sont faits.</p>
+<h3 id="projets-personnels-case-bleu">Projets personnels (case bleu)</h3>
+<p>Les projets personnels sont comme pour les projets scolaires des cartes qui apportes des bonus de points sur certaines compétences. Leur effet est appliqué lors de toutes les années (donc leur bonus est plus faible.).</p>
+
+</body>
+</html>
