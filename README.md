@@ -18,11 +18,23 @@ Se joue avec un dé pour avancer le pion de chaque joueur sur les cases
 
 ## Exemple de feuille de scores
 
-Joueur|Réaliser|Optimiser|Administrer|Gérer|Conduire|Collaborer
--|-|-|-|-|-|-
-Raphaël|||||
-Marius|||||
-Maëlan|||||
+Année 1:
+
+| Joueur  | Réaliser | Optimiser | Administrer | Gérer  | Conduire | Collaborer | \*  |
+| ------- | -------- | --------- | ----------- | ------ | -------- | ---------- | --- |
+| Raphaël | +++      | ++        | -+          | -      | +        | x3         |     |
+| Romain  | +        |           |             | -      | -+       | -+++ x3    |     |
+| Maëlan  | +        |           | --++        | -+     |          |            |     |
+| Marius  |          |           | +--         | ---+++ | --++     | -++        |     |
+
+Année 2
+
+| Joueur  | Réaliser | Optimiser | Administrer | Gérer | Conduire | Collaborer | \*  |
+| ------- | -------- | --------- | ----------- | ----- | -------- | ---------- | --- |
+| Raphaël |          |           |             |       |          |            | -x2 |
+| Romain  |          |           |             |       |          |            |     |
+| Maëlan  | +        |           |             |       |          |            |     |
+| Marius  |          |           |             |       |          |            |     |
 
 ## Déroulement d'une partie
 
